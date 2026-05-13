@@ -1,0 +1,27 @@
+{
+  "title": "Aaron Slusher Research — Independent Methodology Archive",
+  "description": "Independent research archive for Aaron M. Slusher covering Adapted Architecture, Neuroformation, Elevation Grid, and Neural Access Method. Separate from ValorGrid Solutions technical framework repositories.",
+  "creators": [
+    {
+      "name": "Slusher, Aaron M.",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0000-9923-3207"
+    }
+  ],
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "neuroformation",
+    "elevation grid",
+    "neural access method",
+    "adapted architecture",
+    "adaptive systems",
+    "formation architecture"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Feirbrand/synoeticos-public",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

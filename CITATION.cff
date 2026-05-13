@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Aaron Slusher Research — Independent Methodology Archive"
+message: "If you use materials from this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Slusher
+    given-names: Aaron M.
+    orcid: https://orcid.org/0009-0000-9923-3207
+    affiliation: Independent Researcher
+repository-code: https://github.com/Feirbrand/aaron-slusher-research
+license: CC-BY-NC-4.0
+keywords:
+  - neuroformation
+  - elevation grid
+  - neural access method
+  - adapted architecture
+  - adaptive systems
+  - formation architecture
+  - practitioner research
+date-released: 2026-05-13

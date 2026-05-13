@@ -1,32 +1,41 @@
 # Publications — Aaron M. Slusher
 
-Canonical publication ledger for independent research by Aaron M. Slusher.  
-DO NOT hardcode paper counts anywhere. This file is the single source of truth.
+Canonical cross-affiliation publication ledger. Do not hardcode paper counts anywhere — reference this file instead.
 
-> **VGS AI-resilience and security framework papers** are indexed in [synoeticos-public/PUBLICATIONS.md](https://github.com/Feirbrand/synoeticos-public) unless explicitly cross-listed here.
+> AI-resilience and security framework papers remain indexed in [synoeticos-public](https://github.com/Feirbrand/synoeticos-public/blob/main/PUBLICATIONS.md) unless explicitly migrated or cross-listed here.
 
 ---
 
-## DOI-Backed Papers
+## Independent Methodology Papers
 
 | Date | Paper | DOI | Affiliation | Status |
 |---|---|---|---|---|
-| 2026-03-23 | Neuroformation v1.0 | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | Independent Researcher / VGS | Published |
-| 2026-02-26 | Elevation Grid v1.1 | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Independent Researcher / VGS | Published |
-| TBD | Neural Access Method v1.0 | DOI pending | Independent Researcher | In Preparation |
+| 2026-03-23 | Neuroformation v1.0 | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | Independent Researcher | Published |
+| 2026-02-26 | Elevation Grid v1.1 | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Independent Researcher | Published |
+| TBD | Neural Access Method v1.0 | DOI pending | Independent Researcher | **In preparation — NAM triggers repo going public** |
+
+---
+
+## VGS Applied Framework Papers (cross-listed by reference)
+
+These papers were minted from `synoeticos-public`. Their Zenodo DOIs remain canonical and are not reissued. They are listed here for completeness.
+
+See [`synoeticos-public/PUBLICATIONS.md`](https://github.com/Feirbrand/synoeticos-public/blob/main/PUBLICATIONS.md) for the full VGS-scoped list.
 
 ---
 
 ## Citation Standard
 
-Use the citation format listed in the individual paper's `CITATION.cff` or its Zenodo record.  
-Default affiliation for methodology papers: **Aaron M. Slusher, Independent Researcher, Cincinnati, Ohio.**
+Use the citation format listed in the individual paper's `CITATION.cff` or Zenodo record.  
+For this repo as a whole: see [`CITATION.cff`](CITATION.cff).
 
 ---
 
-## Notes
+## DOI Gate Rule
 
-- This ledger tracks **independent research publications** originating from this repository.
-- Papers published prior to this repo's creation (NF, EG) are cross-listed here by reference. Their canonical Zenodo DOIs remain at their original deposit location.
-- Once NAM is published, replace TBD with the actual date and DOI.
-- APP is the field validation context for these methods — it is not the owner or affiliation.
+A paper row moves from *In preparation* to *Published* only when:
+1. The Zenodo DOI is permanently minted
+2. The paper folder exists in `papers/`
+3. The paper folder contains its own `CITATION.cff` and `README.md`
+
+No placeholder paper folders. No pre-announced DOIs.
