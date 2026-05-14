@@ -1,20 +1,29 @@
 cff-version: 1.2.0
-title: "Aaron Slusher Research — Independent Methodology Archive"
-message: "If you use materials from this repository, please cite it as below."
+message: "If you use or reference materials from this repository, please cite it as below."
 type: software
+title: "Aaron M. Slusher — Personal Methodology Research"
 authors:
   - family-names: Slusher
     given-names: Aaron M.
-    orcid: https://orcid.org/0009-0000-9923-3207
-    affiliation: Independent Researcher
-repository-code: https://github.com/Feirbrand/aaron-slusher-research
-license: CC-BY-NC-4.0
+    orcid: "https://orcid.org/0009-0000-9923-3207"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/Feirbrand/aaron-slusher-research"
+url: "https://github.com/Feirbrand/aaron-slusher-research"
+license: CC-BY-4.0
+abstract: >
+  Personal methodology research repository for Aaron M. Slusher.
+  Covers Adapted Architecture, Neuroformation™, Elevation Grid™,
+  and Neural Access Method™ — a cross-substrate methodology for
+  building resilience in adaptive systems, developed from 28 years
+  of performance coaching and applied to AI resilience research.
 keywords:
+  - adapted-architecture
   - neuroformation
-  - elevation grid
-  - neural access method
-  - adapted architecture
-  - adaptive systems
-  - formation architecture
-  - practitioner research
-date-released: 2026-05-13
+  - elevation-grid
+  - neural-access-method
+  - resilience
+  - adaptive-systems
+  - performance-coaching
+  - ai-resilience
+  - methodology
+date-released: "2026-05-13"

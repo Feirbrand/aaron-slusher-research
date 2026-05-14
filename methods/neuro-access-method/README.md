@@ -1,54 +1,50 @@
-# Neural Access Method (NAM)
+# Neural Access Method™
 
-**Public method landing page**
-
-| | |
-|---|---|
-| **Status** | ⚠️ **In preparation** — DOI pending |
-| **DOI** | Not yet issued — this folder is a placeholder |
-| **Gate** | Full paper material is added only after the Zenodo DOI is issued |
-| **Affiliation** | Independent Researcher |
+**Paper in preparation. DOI pending.**
 
 ---
 
-## Public Role
+## What It Is
 
-NAM is the **access intervention protocol** within the Adapted Architecture research track. It describes how access is restored and action is rerouted once the formation arc is diagnosed.
+Neural Access Method™ (NAM) is the intervention protocol layer of the Adapted Architecture stack. It describes how to access an adaptive system at the point where change is actually possible — bypassing cortical interference to reach intact procedural and structural memory.
 
-NAM is also the **trigger event** for this repository going public. When the NAM paper ships with a permanent Zenodo DOI:
-1. This folder gets its full paper content, `CITATION.cff`, and `README.md` updated with the DOI
-2. `PUBLICATIONS.md` is updated with the real date and DOI
-3. The repository visibility changes from private to public
-4. The synoeticos-public `PUBLICATIONS.md` is updated with a cross-reference
-5. ORCID metadata is verified
+The four-step protocol: ACCESS → REFRAME → SIMPLIFY → IGNITE.
 
-In the public architecture stack:
+---
+
+## DOI Status
+
+NAM v1.0 is currently in preparation. This folder is a placeholder.
+
+When NAM ships:
+- The paper will publish to Zenodo from this repository
+- This README will be updated with the DOI and full paper details
+- NAM becomes the first paper to originate from `aaron-slusher-research`
+- That DOI is the inflection point for this hub going fully public
+
+---
+
+## Relationship to Other Methods
+
+Neural Access Method™ is the intervention layer of the Adapted Architecture stack:
 
 ```
-Adapted Architecture       ← public outcome frame (the front door)
-  └── Neuroformation       ← methodology process
-  └── Elevation Grid       ← diagnostic map
-  └── Neural Access Method ← access intervention protocol (THIS METHOD)
+Adapted Architecture   ← outcome frame
+        ↑
+Neuroformation™        ← methodology
+        ↑
+Elevation Grid™        ← diagnostic
+        ↑
+Neural Access Method™  ← this intervention protocol
 ```
 
 ---
 
-## DOI Gate
+## Protected Status
 
-Do not add full paper content to this folder until:
-- [ ] NAM paper draft is finalized
-- [ ] Uploaded to Zenodo
-- [ ] DOI permanently minted
-- [ ] `CITATION.cff` is populated with real DOI
-- [ ] `PUBLICATIONS.md` updated in this repo
-- [ ] Repo visibility set to public
+Neural Access Method™ is a protected methodology mark of Aaron M. Slusher. When published, the paper will be openly licensed (CC BY 4.0) for research use.
 
 ---
 
-## Repository Boundary
-
-This folder does **not** contain (and will not contain even after publication):
-- Private ASFA research
-- Client or athlete validation data
-- Raw field notes
-- Unpublished treatise drafts
+*Aaron M. Slusher · ORCID 0009-0000-9923-3207*  
+*Status: Paper in preparation — DOI pending*

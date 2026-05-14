@@ -1,23 +1,9 @@
 # Archive
 
-Public-safe historical notes and reference documents.
+Historical artifacts and provenance notes.
 
-## What belongs here
+This folder preserves early materials, naming history, and development artifacts that document how the methodology formed. These are not canonical specifications or current implementations.
 
-- Methodology evolution notes (sanitized, no client data)
-- Reference card versions from prior iterations
-- Terminology history and language evolution notes
-- Public-safe field reflections
+**Public scope:** Selected historical artifacts with provenance notes. Raw working materials, private configurations, and internal process documents remain outside this repository.
 
-## What does NOT belong here
-
-- Private ASFA material
-- Client or athlete records
-- Raw board notes
-- Manus drafts
-- Notion exports
-- Anything with private protocol detail
-
-## Gate
-
-Every file added here passes the same standard: **DOI or clean public release note, no private leakage, no empty sprawl.**
+**Rule:** Materials here are labeled with their historical context and are not treated as current guidance. They exist as research provenance, not as instructions.

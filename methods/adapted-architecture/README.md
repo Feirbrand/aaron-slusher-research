@@ -1,64 +1,54 @@
 # Adapted Architecture
 
-**Public method landing page — Front Door**
-
-| | |
-|---|---|
-| **Status** | Active public frame |
-| **DOI** | See constituent method papers |
-| **Public Role** | Primary human-facing outcome frame for the research ecosystem |
+**Open-use descriptor. Released April 21, 2026. Intentionally not trademarked.**
 
 ---
 
-## What Adapted Architecture Is
+## What It Is
 
-Adapted Architecture is the **public outcome frame** — the signature output state of a person or system formed through constraint, not merely restored to a prior norm.
+Adapted Architecture describes the structure an adaptive system builds from what it actually has — not from an ideal blueprint, but from its own history, its own constraints, and its own interactions with its environment.
 
-It is the lens through which the full methodology stack is explained publicly. Where Taleb's *Antifragile* became a governing lens for his ecosystem, Adapted Architecture is the governing lens for this one.
+The system adapts. The architecture reflects that adaptation. When pressure comes, the architecture either holds or it doesn't.
 
-> *How adaptive systems reorganize under pressure.*
+This applies to:
+- Athletes rebuilding after injury
+- Neurotrauma clients rebuilding after brain injury
+- Students with learning differences building around what their system actually does
+- AI systems maintaining identity and function under adversarial or degrading conditions
+- Any adaptive system under load
 
 ---
 
-## The Public Architecture Stack
+## Why It's Not Trademarked
+
+Adapted Architecture is intentionally available. It is a descriptor, not a product. Anyone working with adaptive systems — rehab clinicians, coaches, teachers, IEP teams, AI safety practitioners, researchers — can use it.
+
+The underlying methodology (how Adapted Architecture is built, diagnosed, and accessed) is Neuroformation™, which is protected. The outcome frame is open.
+
+---
+
+## Relationship to Other Methods
 
 ```
-Adapted Architecture         ← PUBLIC FRONT DOOR (this frame)
-  ├── Neuroformation         ← the five-layer formation substrate
-  ├── Elevation Grid         ← diagnostic map: state, access, position
-  └── Neural Access Method   ← intervention: restoring access, routing action
-
-Cascade → Armor → Ascent     ← public story arc
+Adapted Architecture   ← outcome frame (what the system is building)
+        ↑
+Neuroformation™        ← methodology (how it forms and holds)
+        ↑
+Elevation Grid™        ← diagnostic (where is the system now)
+        ↑
+Neural Access Method™  ← intervention (how to access and shift it)
 ```
 
-**How to frame each layer publicly:**
+---
 
-| Layer | One-line public description |
-|---|---|
-| Neuroformation | Where the fracture exists |
-| Elevation Grid | How developmental position is diagnosed |
-| Neural Access Method | How access is restored and action is rerouted |
-| Adapted Architecture | What stable adaptive reorganization produces |
+## DOI Status
+
+Adapted Architecture as a named descriptor does not have its own standalone DOI. It is introduced and contextualized in:
+
+- Neuroformation™ v1.0 · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
+- Elevation Grid™ v1.1 · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)
 
 ---
 
-## Framing Rule
-
-Public surfaces — Substack, social, site copy, talks — lead with **Adapted Architecture**, not Neuroformation. Neuroformation remains formal methodology language inside the papers and for practitioner audiences.
-
-Do not use ASFA language in public-facing content. Adapted Architecture is the public frame. ASFA is the private substrate.
-
----
-
-## Application Contexts
-
-- **APP** — Adapted Architecture in athletic performance contexts. APP is a *field context and validation lane*, not the owner of the method.
-- **VGS / Synoetic OS** — Adapted Architecture as it externalizes into AI-resilience and technical substrate via TTT (Tacit-to-Technical Transduction).
-- **FF** — Adapted Architecture expressed as tested hope, proven character, and formation under affliction. In faith-formation contexts, use the faith ladder (affliction → endurance → character → hope) rather than ASFA terminology.
-
----
-
-## Related
-
-- [`synoeticos-public`](https://github.com/Feirbrand/synoeticos-public) — VGS applied AI-resilience and technical ecosystem
-- [`PUBLICATIONS.md`](../../PUBLICATIONS.md) — canonical publication ledger
+*Aaron M. Slusher · ORCID 0009-0000-9923-3207*  
+*Released April 21, 2026 as open-use descriptor*

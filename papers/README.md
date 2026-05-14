@@ -1,29 +1,17 @@
 # Papers
 
-This folder contains DOI-backed methodology papers by Aaron M. Slusher.
+This folder holds paper-specific folders for research originating from this repository.
 
 ## DOI Gate Rule
 
-A paper sub-folder is created here **only** when:
-1. The paper has a permanent Zenodo DOI
-2. The sub-folder contains a `README.md`, the paper PDF, and a `CITATION.cff`
-3. `PUBLICATIONS.md` at the repo root has been updated
-
-No placeholder folders. No pre-published content.
+A paper folder is created only when the paper is published on Zenodo with a permanent DOI. No DOI, no folder.
 
 ## Current Papers
 
-| Paper | Folder | Status |
-|---|---|---|
-| Neuroformation v1.0 | `neuroformation/` | Pending migration from synoeticos-public |
-| Elevation Grid v1.1 | `elevation-grid/` | Pending migration from synoeticos-public |
-| Neural Access Method v1.0 | `neuro-access-method/` | **In preparation — NAM triggers repo going public** |
+No papers have been published from this repository yet.
 
-## Migration Protocol (for NF and EG)
+**Next:** Neural Access Method™ v1.0 — when published, `papers/nam/` will be created here with the paper PDF, CITATION.cff, and .zenodo.json.
 
-When migrating papers from `synoeticos-public`:
-1. **Do not delete** the original from synoeticos-public — leave it and its DOI path intact
-2. Copy PDF + `CITATION.cff` into the sub-folder here
-3. Add a `NOTICE.md` to the synoeticos-public location pointing to the canonical home here
-4. Edit the Zenodo metadata (title, creators) to add `aaron-slusher-research` as a related identifier — this does not change the DOI
-5. For future revisions, publish from this repo and mint a new version-DOI
+## Papers Living Elsewhere
+
+Papers published under the ValorGrid Solutions affiliation (including Neuroformation™, Elevation Grid™, and 16 other DOI-backed papers) live at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). They are listed in this repository's master [PUBLICATIONS.md](../PUBLICATIONS.md) for the complete cross-affiliation record.
