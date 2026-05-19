@@ -1,0 +1,5 @@
+---
+title: "Welcome to Aaron Slusher Research"
+---
+
+This is the homepage for Aaron Slusher's personal research repository. Content will be added soon.
