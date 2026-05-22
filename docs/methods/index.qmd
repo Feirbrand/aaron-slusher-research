@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Methods"
+---
+
+# Methods
+
+This folder contains the public methodology layer for Aaron M. Slusher's research.
+
+## Methodology Stack
+
+| Method | Status | Public role |
+|---|---|---|
+| [Adapted Architecture](./adapted-architecture/) | Live — open-use descriptor | Public outcome frame |
+| [Neuroformation™](./neuroformation/) | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | Core methodology |
+| [Elevation Grid™](./elevation-grid/) | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Diagnostic framework |
+| [Neural Access Method™](./neuro-access-method/) | Paper in preparation | Intervention protocol |
+
+## What Lives Here
+
+Each folder contains a public orientation README that describes the method at the conceptual level, links to the canonical paper (where it exists), and points to the DOI record.
+
+Full implementation details, private protocols, and operational guides remain outside this repository.
+
+## DOI Gate Rule
+
+A method folder links to published materials once the paper is on Zenodo with a permanent DOI. Until then, the folder holds a placeholder README only.

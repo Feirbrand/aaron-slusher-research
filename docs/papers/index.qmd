@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Papers"
+---
+
+# Papers
+
+This folder contains the public papers for Aaron M. Slusher's research.
+
+## Published Papers
+
+## Papers in Preparation

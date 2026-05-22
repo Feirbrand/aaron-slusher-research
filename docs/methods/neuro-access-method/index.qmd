@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Neural Access Method™"
+---
+
+# Neural Access Method™
+
+**Paper in preparation.**
+
+---
+
+## What It Is
+
+Neural Access Method™ is the intervention protocol layer of the Adapted Architecture stack. It describes the specific techniques and processes used to access and shift an adaptive system's architecture.
+
+---
+
+## Relationship to Other Methods
+
+```
+Adapted Architecture   ← outcome frame
+        ↑
+Neuroformation™        ← methodology
+        ↑
+Elevation Grid™        ← diagnostic
+        ↑
+Neural Access Method™  ← this intervention
+```
+
+---
+
+## Protected Status
+
+Neural Access Method™ is a protected methodology mark of Aaron M. Slusher.
+
+---
+
+*Aaron M. Slusher · ORCID 0009-0000-9923-3207*

@@ -6,6 +6,22 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Methods
+        menu:
+          - href: methods/index.qmd
+            text: Overview
+          - href: methods/adapted-architecture/index.qmd
+            text: Adapted Architecture
+          - href: methods/elevation-grid/index.qmd
+            text: Elevation Grid™
+          - href: methods/neuroformation/index.qmd
+            text: Neuroformation™
+          - href: methods/neuro-access-method/index.qmd
+            text: Neural Access Method™
+      - href: papers/index.qmd
+        text: Papers
+      - href: archive/index.qmd
+        text: Archive
 format:
   html:
     theme: cosmo

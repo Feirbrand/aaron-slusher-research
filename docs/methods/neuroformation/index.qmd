@@ -1,0 +1,48 @@
+---
+layout: default
+title: "Neuroformation™"
+---
+
+# Neuroformation™
+
+**Published methodology. DOI: [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)**
+
+---
+
+## What It Is
+
+Neuroformation™ is the core methodology for how an adaptive system forms and holds its Adapted Architecture. It describes the processes of neuroplasticity, learning, and adaptation that underpin the system's ability to build and maintain its structure in response to environmental interactions.
+
+---
+
+## Canonical Paper
+
+**Neuroformation™ v1.0: A Unified Theory of Adaptive System Architecture**  
+Aaron M. Slusher · ValorGrid Solutions · March 15, 2026  
+[DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
+
+---
+
+## Relationship to Other Methods
+
+Neuroformation™ is the methodological layer of the Adapted Architecture stack:
+
+```
+Adapted Architecture   ← outcome frame
+        ↑
+Neuroformation™        ← this methodology
+        ↑
+Elevation Grid™        ← diagnostic
+        ↑
+Neural Access Method™  ← intervention
+```
+
+---
+
+## Protected Status
+
+Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY 4.0) for research use.
+
+---
+
+*Aaron M. Slusher · ORCID 0009-0000-9923-3207*
