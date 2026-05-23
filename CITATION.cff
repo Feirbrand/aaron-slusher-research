@@ -1,6 +1,5 @@
 cff-version: 1.2.0
 message: "If you use or reference materials from this repository, please cite it as below."
-type: software
 title: "Aaron M. Slusher — Personal Methodology Research"
 authors:
   - family-names: Slusher
@@ -9,7 +8,7 @@ authors:
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/Feirbrand/aaron-slusher-research"
 url: "https://github.com/Feirbrand/aaron-slusher-research"
-license: CC-BY-4.0
+license: CC-BY-NC-ND-4.0
 abstract: >
   Personal methodology research repository for Aaron M. Slusher.
   Covers Adapted Architecture, Neuroformation™, Elevation Grid™,

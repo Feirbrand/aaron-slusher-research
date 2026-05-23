@@ -6,16 +6,16 @@
 
 ## What It Is
 
-Neuroformation™ is a cross-substrate methodology for building resilience in adaptive systems. It describes how systems — human and artificial — form, maintain, and recover their architecture under pressure.
+Neuroformation™ is the methodology for how an adaptive system forms and holds its Adapted Architecture. It describes the processes of formation and re-formation under pressure — how a system builds structure from what it actually has, and what it takes to hold that structure when the environment changes.
 
-The methodology emerged from 28 years of performance coaching applied to athletes in catastrophic failure and recovery. The same structural patterns appeared when AI systems began failing in 2025. The methodology was named on March 14, 2026, after the patterns were confirmed across both substrates.
+It emerged from 28 years of applied performance coaching. The same pattern kept appearing across athletes, neurotrauma clients, and adaptive systems under load. Neuroformation™ is the name for that pattern and the methodology built from it.
 
 ---
 
 ## Canonical Paper
 
-**Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**  
-Aaron M. Slusher · ValorGrid Solutions · March 23, 2026  
+**Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems**
+Aaron M. Slusher · Independent Researcher · March 23, 2026
 [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 
 ---
@@ -31,16 +31,16 @@ Neuroformation™        ← this methodology
         ↑
 Elevation Grid™        ← diagnostic
         ↑
-Neural Access Method™  ← intervention
+Neural Access Method™  ← intervention protocol
 ```
 
-Applied AI resilience research using Neuroformation™ as a foundation lives at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public).
+The applied AI resilience work derived from this methodology lives at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). That work operationalizes the same architecture for AI systems.
 
 ---
 
 ## Protected Status
 
-Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY 4.0) for research use. The methodology name and framework are not available for commercial rebranding without written permission.
+Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY-NC-ND 4.0) for research use.
 
 ---
 

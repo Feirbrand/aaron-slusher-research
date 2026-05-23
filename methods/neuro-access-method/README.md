@@ -42,9 +42,9 @@ Neural Access Method™  ← this intervention protocol
 
 ## Protected Status
 
-Neural Access Method™ is a protected methodology mark of Aaron M. Slusher. When published, the paper will be openly licensed (CC BY 4.0) for research use.
+Neural Access Method™ is a protected methodology mark of Aaron M. Slusher. When published, the paper will be openly licensed (CC BY-NC-ND 4.0) for research use.
 
 ---
 
-*Aaron M. Slusher · ORCID 0009-0000-9923-3207*  
+*Aaron M. Slusher · ORCID 0009-0000-9923-3207*
 *Status: Paper in preparation — DOI pending*
