@@ -8,9 +8,9 @@ A paper folder is created only when the paper is published on Zenodo with a perm
 
 ## Current Papers
 
-No papers have been published from this repository yet.
-
-**Next:** Neural Access Method™ v1.0 — when published, `papers/nam/` will be created here with the paper PDF, CITATION.cff, and .zenodo.json.
+| Paper | Folder | DOI |
+|---|---|---|
+| Neural Access Method™ v1.0 | [`nam/`](./nam/) | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) |
 
 ## Papers Living Elsewhere
 

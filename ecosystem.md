@@ -39,6 +39,7 @@ Operating map for this repo and how it connects to the broader work.
 | `aaron-slusher-research` | Methodology papers, NF · EG · NAM · AA | VGS framework code, APP coaching content, F&F theology |
 | `synoeticos-public` | AI-resilience frameworks, Synoetic OS, vgs-loadout, HF demos | Personal methodology papers |
 | APP repo (future) | Athletic performance application work | — |
+| F&F repo (future) | Faith formation content and research | — |
 
 ---
 
@@ -86,4 +87,4 @@ A public folder in this repo earns its place only when:
 2. Paper PDF + `CITATION.cff` + `README.md` exist in the folder
 3. `PUBLICATIONS.md` is updated
 
-No empty folders. No pre-announced content.
+No empty folders. No pre-announced content. Method overview pages may exist before DOI release when they describe the public stack.

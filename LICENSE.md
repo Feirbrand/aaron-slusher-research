@@ -36,7 +36,7 @@ Uses outside the scope of CC BY-NC-ND 4.0 require separate written permission fr
 
 No patent, trademark, production deployment, commercial integration, or sublicensing rights are granted by this public license unless separately granted in writing.
 
-Contact: aaron@valorgridsolutions.com
+Contact: aaron@appcincy.com
 
 ---
 

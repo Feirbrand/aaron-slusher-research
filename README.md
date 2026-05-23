@@ -1,8 +1,12 @@
-# Aaron M. Slusher — Personal Methodology Research
+# Aaron M. Slusher — Independent Research Archive
 
-An adaptive system builds structure from what it actually has. Not from a blueprint. Not from an ideal.
+This repository is the central research archive for the independent work of Aaron M. Slusher.
 
-This repository is the personal methodology hub for Aaron M. Slusher — independent researcher, performance coach, and originator of Neuroformation™.
+It preserves the public research spine behind methodology, adaptive systems, human performance, AI resilience, formation architecture, and cross-domain studies that may originate inside or outside any single brand.
+
+The brands apply the work.
+
+This repository preserves the spine.
 
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND--4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9923--3207-green.svg)](https://orcid.org/0009-0000-9923-3207)
@@ -11,23 +15,61 @@ This repository is the personal methodology hub for Aaron M. Slusher — indepen
 
 ## The Work
 
-28 years of performance coaching — athletes, adaptive athletes, neurotrauma clients, return-to-sport. The work kept producing the same observation: adaptive systems build structure from what they actually have, not from what they were supposed to have. That pattern has a name now. It has a methodology. It has a diagnostic. It has a transmission protocol.
+This is where the research lands when it is bigger than a brand.
 
-This repository holds that work.
+Some of the work becomes coaching language.
+Some becomes AI-resilience architecture.
+Some becomes formation work.
+Some becomes public methodology.
+Some stays private until it is safe, mature, or useful enough to publish.
 
-The applied AI resilience work derived from this methodology lives at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). These are the roots.
+The common thread is adaptive systems under pressure.
+
+How they form.
+How they fracture.
+How they reorganize.
+How they hold.
+How they become functional from what is actually present.
+
+Public applications currently move through three doors:
+
+- **Achieve Peak Performance** — human performance, adaptive athletes, neurotrauma populations, combat sport, return-to-sport, and execution under pressure.
+- **ValorGrid Solutions** — AI resilience, workflow architecture, symbolic drift, system hardening, and applied technical frameworks.
+- **Foundations & Fire** — formation, stewardship, identity, and faith-rooted resilience.
+
+Other research lines remain independent of any brand, including origin studies, cross-domain synthesis, and private research substrates that are not ready for public release.
+
+This repository is not a product catalog.
+
+This repository is the research spine.
 
 ---
 
-## Methodology Stack
+## Origin Note
 
-| Layer | Method | Status |
+1999 marks the first formal certification on record. It is not the origin of the underlying pattern or the beginning of the methodology.
+
+The named frameworks were formalized much later, as recurring patterns across practice, recovery, performance, AI systems, and formation research became clear enough to document.
+
+Some underlying research substrates remain unpublished for safety, IP, and development reasons.
+
+---
+
+## Current Public Research Spine
+
+| Area | Public Frame | Status |
 |---|---|---|
+| Research hub | Aaron Slusher Research | Active |
 | Public architecture container | Neural Formation Architecture | Active |
-| Outcome frame | Adapted Architecture | Live · open-use descriptor · not trademarked |
-| Methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
-| Diagnostic | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
-| Transmission protocol | Neural Access Method™ | Paper ready for publication · DOI pending |
+| Governing methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
+| Diagnostic map | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
+| Transmission protocol | Neural Access Method™ | Published · [DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) |
+| Output state | Adapted Architecture | Open-use descriptor · not trademarked |
+| Bridge / transduction | TTT | Staged public |
+| Cross-substrate thesis | UNICA | Staged public |
+| Applied AI resilience | ValorGrid Solutions / synoeticos-public | Active |
+| Human performance application | Achieve Peak Performance | Active |
+| Formation application | Foundations & Fire | Developing |
 
 ---
 
@@ -40,7 +82,8 @@ aaron-slusher-research/
 │   ├── neuroformation/
 │   ├── elevation-grid/
 │   └── neural-access-method/
-├── papers/                ← DOI-gated paper folders (empty until NAM publishes)
+├── papers/
+│   └── nam/                   ← NAM v1.0 · DOI: 10.5281/zenodo.XXXXXXX
 ├── archive/               ← Historical artifacts and provenance notes
 ├── PUBLICATIONS.md        ← Master cross-affiliation publication ledger
 ├── CITATION.cff           ← Repo-level citation metadata
@@ -48,15 +91,11 @@ aaron-slusher-research/
 └── LICENSE.md             ← CC BY-NC-ND 4.0
 ```
 
-Full implementation details, private protocols, operational guides, and internal research architecture remain outside this repository.
-
 ---
 
 ## Publication Record
 
 Canonical DOI index: [PUBLICATIONS.md](./PUBLICATIONS.md)
-
-Personal methodology papers originate from this repository under Independent Researcher affiliation. VGS applied research papers originate from [synoeticos-public](https://github.com/Feirbrand/synoeticos-public) under ValorGrid Solutions affiliation. Both are indexed here for the complete cross-affiliation record.
 
 ORCID: [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 

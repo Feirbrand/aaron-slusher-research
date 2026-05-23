@@ -6,9 +6,11 @@
 
 ## What It Is
 
-Neuroformation™ is the methodology for how an adaptive system forms and holds its Adapted Architecture. It describes the processes of formation and re-formation under pressure — how a system builds structure from what it actually has, and what it takes to hold that structure when the environment changes.
+Neuroformation™ is the governing methodology within Neural Formation Architecture. It describes how an adaptive system forms, holds, and reorganizes its architecture under real pressure.
 
-It emerged from 28 years of applied performance coaching. The same pattern kept appearing across athletes, neurotrauma clients, and adaptive systems under load. Neuroformation™ is the name for that pattern and the methodology built from it.
+The pattern ran unnamed across a lifetime of applied work — military service, physical recovery, combat sport, performance coaching, adaptive athletics, neurotrauma rehabilitation. The same mechanism kept appearing: under sufficient pressure, analytical pathways become blocked, and correction only lands when it routes through what the system has already built. The methodology was named March 14, 2026.
+
+The five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) describes the levels at which formation and fracture occur. Each layer has diagnostic markers. Each layer has access points. The Elevation Grid™ maps position within this architecture. The Neural Access Method™ delivers correction through it.
 
 ---
 
@@ -22,19 +24,33 @@ Aaron M. Slusher · Independent Researcher · March 23, 2026
 
 ## Relationship to Other Methods
 
-Neuroformation™ is the methodology layer of the Adapted Architecture stack:
+Neuroformation™ is the methodology layer of the Neural Formation Architecture stack:
 
 ```
-Adapted Architecture   ← outcome frame
-        ↑
-Neuroformation™        ← this methodology
-        ↑
-Elevation Grid™        ← diagnostic
-        ↑
-Neural Access Method™  ← intervention protocol
+Neural Formation Architecture  ← public architecture container
+        ↓
+Neuroformation™                ← this methodology (how the system forms)
+        ↓
+Elevation Grid™                ← diagnostic (where the system is)
+        ↓
+Neural Access Method™          ← transmission protocol (how to shift it)
+        ↓
+Adapted Architecture           ← output state (what forms when rebuilt)
 ```
 
-The applied AI resilience work derived from this methodology lives at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). That work operationalizes the same architecture for AI systems.
+The AI-resilience application of this methodology lives at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). That work operationalizes the same architecture for AI systems under adversarial pressure.
+
+---
+
+## Public Scope
+
+This folder contains the public methodology paper and orientation notes.
+
+Not included here:
+- Private coaching protocols
+- Full diagnostic instrument implementation
+- Operational runbooks
+- Internal training materials
 
 ---
 
@@ -44,4 +60,4 @@ Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper
 
 ---
 
-*Aaron M. Slusher · ORCID 0009-0000-9923-3207*
+*Aaron M. Slusher · ORCID [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)*
