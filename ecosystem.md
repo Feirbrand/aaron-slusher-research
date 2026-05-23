@@ -52,7 +52,7 @@ Three public brands, one underlying architecture.
 
 **Foundations & Fire** — the intersection of formation science and faith.
 
-In the background: **Adaptive Systems Formation Architecture (ASFA)** — a larger research architecture in development. Not ready to publish the full model yet.
+In the background: a private R&D hardening layer that protects, tests, and extends the public architecture. Not public-facing.
 
 ---
 

@@ -1,0 +1,24 @@
+.
+├── archive
+│   └── README.md
+├── CITATION.cff
+├── ecosystem.md
+├── LICENSE.md
+├── methods
+│   ├── adapted-architecture
+│   │   └── README.md
+│   ├── elevation-grid
+│   │   └── README.md
+│   ├── neuro-access-method
+│   │   └── README.md
+│   ├── neuroformation
+│   │   └── README.md
+│   └── README.md
+├── papers
+│   └── README.md
+├── PUBLICATIONS.md
+├── README.md
+├── tree.txt
+└── .zenodo.json
+
+8 directories, 14 files
