@@ -23,6 +23,7 @@ The applied AI resilience work derived from this methodology lives at [synoetico
 
 | Layer | Method | Status |
 |---|---|---|
+| Public architecture container | Neural Formation Architecture | Active |
 | Outcome frame | Adapted Architecture | Live · open-use descriptor · not trademarked |
 | Methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
 | Diagnostic | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
@@ -34,16 +35,16 @@ The applied AI resilience work derived from this methodology lives at [synoetico
 
 ```
 aaron-slusher-research/
-├── methods/               ← Public methodology layer
+├── methods/
 │   ├── adapted-architecture/
 │   ├── neuroformation/
 │   ├── elevation-grid/
-│   └── neuro-access-method/
+│   └── neural-access-method/
 ├── papers/                ← DOI-gated paper folders (empty until NAM publishes)
 ├── archive/               ← Historical artifacts and provenance notes
 ├── PUBLICATIONS.md        ← Master cross-affiliation publication ledger
 ├── CITATION.cff           ← Repo-level citation metadata
-├── ecosystem.md           ← Operating map — how this repo connects to the broader work
+├── ecosystem.md           ← Operating map
 └── LICENSE.md             ← CC BY-NC-ND 4.0
 ```
 
@@ -65,7 +66,7 @@ ORCID: [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 CC BY-NC-ND 4.0 — open for research and non-commercial reference.
 
-Uses outside this license require separate written permission: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
+Uses outside this license require separate written permission.
 
 Neuroformation™, Elevation Grid™, and Neural Access Method™ are protected methodology marks. Adapted Architecture is intentionally open — no trademark, available to anyone working with adaptive systems.
 
