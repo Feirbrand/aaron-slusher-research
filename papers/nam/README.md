@@ -10,7 +10,8 @@ Aaron M. Slusher · Independent Researcher · 2026
 
 ## Contents
 
-- Paper PDF (forthcoming)
+- `nam-paper-v1.0.md` — full paper
+- `nam-evidence-foundation.md` — evidence and theoretical foundation
 - `CITATION.cff` — citation metadata for this paper
 
 ---
