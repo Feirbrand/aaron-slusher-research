@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Methods"
 ---
 
@@ -14,7 +13,7 @@ This folder contains the public methodology layer for Aaron M. Slusher's researc
 | [Adapted Architecture](./adapted-architecture/) | Live — open-use descriptor | Public outcome frame |
 | [Neuroformation™](./neuroformation/) | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | Core methodology |
 | [Elevation Grid™](./elevation-grid/) | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Diagnostic framework |
-| [Neural Access Method™](./neuro-access-method/) | Paper in preparation | Intervention protocol |
+| [Neural Access Method™](./neural-access-method/) | Paper in preparation | Intervention protocol |
 
 ## What Lives Here
 

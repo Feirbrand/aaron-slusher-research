@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Papers"
 ---
 
@@ -9,6 +8,6 @@ This folder contains the public papers for Aaron M. Slusher's research.
 
 ## Published Papers
 
-- [Neural Access Method™ v1.0](nam/index.qmd)
+- [Neural Access Method™ v1.0](../nam/index.qmd)
 
 ## Papers in Preparation
