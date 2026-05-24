@@ -1,31 +1,40 @@
 project:
   type: website
 website:
-  title: "Aaron Slusher Research"
+  title: 'Aaron Slusher Research'
   navbar:
+    background: '#1c1a16'
+    foreground: '#f5f2ec'
     left:
       - href: index.qmd
         text: Home
       - text: Methods
         menu:
-          - href: methods/index.qmd
-            text: Overview
           - href: methods/adapted-architecture/index.qmd
             text: Adapted Architecture
-          - href: methods/elevation-grid/index.qmd
-            text: Elevation Grid™
           - href: methods/neuroformation/index.qmd
             text: Neuroformation™
-          - href: methods/neuro-access-method/index.qmd
+          - href: methods/elevation-grid/index.qmd
+            text: Elevation Grid™
+          - href: methods/neural-access-method/index.qmd
             text: Neural Access Method™
-      - text: Papers
-        menu:
-          - href: nam/index.qmd
-            text: Neural Access Method™ v1.0
+      - href: papers/index.qmd
+        text: Papers
       - href: archive/index.qmd
         text: Archive
+      - text: Links
+        menu:
+          - text: ORCID
+            href: https://orcid.org/0009-0000-9923-3207
+          - text: Zenodo
+            href: https://zenodo.org/search?q=slusher
+          - text: VGS Research
+            href: https://github.com/Feirbrand/synoeticos-public
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: assets/css/style.css
     toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: false

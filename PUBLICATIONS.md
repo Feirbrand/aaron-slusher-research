@@ -1,9 +1,9 @@
 # Publications — Aaron M. Slusher
 
-**Master cross-affiliation publication ledger.**  
+**Master cross-affiliation publication ledger.**
 ORCID: [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
-> This is the canonical publication record across all affiliations — Independent Researcher and ValorGrid Solutions.  
+> This is the canonical publication record across all affiliations — Independent Researcher and ValorGrid Solutions.
 > For VGS-scoped papers only, see [synoeticos-public/PUBLICATIONS.md](https://github.com/Feirbrand/synoeticos-public/blob/main/PUBLICATIONS.md).
 
 ---
@@ -12,13 +12,15 @@ ORCID: [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 Papers originating from this repository (`aaron-slusher-research`), affiliation: Independent Researcher.
 
-*No papers published yet. NAM v1.0 is in preparation — see In Preparation below.*
+| Paper | DOI | Date |
+|---|---|---|
+| Neural Access Method™ v1.0 | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | 2026-05-XX |
 
 ---
 
 ## VGS Applied Research Papers
 
-Papers originating from [synoeticos-public](https://github.com/Feirbrand/synoeticos-public), affiliation: ValorGrid Solutions.  
+Papers originating from [synoeticos-public](https://github.com/Feirbrand/synoeticos-public), affiliation: ValorGrid Solutions.
 Listed here for complete cross-affiliation record. Canonical DOI metadata lives in the source repo.
 
 | Paper | DOI | Date |
@@ -44,12 +46,4 @@ Listed here for complete cross-affiliation record. Canonical DOI metadata lives 
 
 ---
 
-## In Preparation
-
-| Paper | Target affiliation | Notes |
-|---|---|---|
-| Neural Access Method™ v1.0 | Independent Researcher | First paper from this repo — NAM is the DOI unlock |
-
----
-
-*Last updated: May 13, 2026 · Aaron M. Slusher · ORCID 0009-0000-9923-3207*
+*Last updated: 2026-05-XX · Aaron M. Slusher · ORCID 0009-0000-9923-3207*

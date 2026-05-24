@@ -1,31 +1,64 @@
 # License
 
-## Research Materials (Papers, Methods, Documentation)
+## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-Unless otherwise noted, all research materials in this repository are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+Copyright © 2025–2026 Aaron M. Slusher. All Rights Reserved.
 
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit to Aaron M. Slusher, provide a link to the license, and indicate if changes were made.
-- **NonCommercial** — You may not use the material for commercial purposes without separate written permission.
-
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
-## Code and Tooling (if present)
+## You Are Free To
 
-Any code or tooling in this repository is licensed under the **MIT License** unless otherwise noted in the file header.
+**Share** — copy and redistribute the material in any medium or format.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 ---
 
-## Intellectual Property Notice
+## Under the Following Terms
 
-Named methodologies and marks referenced in this repository — including but not limited to **Neuroformation**, **Elevation Grid**, **Neural Access Method (NAM)**, **Adapted Architecture**, **Cascade → Armor → Ascent**, and **Adaptive Formation Architecture** — remain the intellectual property of Aaron M. Slusher.
+**Attribution** — You must give appropriate credit to Aaron M. Slusher, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-Uses outside the scope of the CC BY-NC 4.0 license require separate written permission.
+**NonCommercial** — You may not use the material for commercial purposes.
 
-*© 2025–2026 Aaron M. Slusher · All Rights Reserved*
+**NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## Additional Permissions
+
+Uses outside the scope of CC BY-NC-ND 4.0 require separate written permission from Aaron M. Slusher.
+
+No patent, trademark, production deployment, commercial integration, or sublicensing rights are granted by this public license unless separately granted in writing.
+
+Contact: aaron@appcincy.com
+
+---
+
+## Patent Clause
+
+Patent rights reserved. No patent assertion without separate written agreement.
+
+---
+
+## Trademark Notice
+
+Named methodologies and marks referenced in this repository — including Neuroformation™, Elevation Grid™, and Neural Access Method™ — remain the intellectual property of Aaron M. Slusher and are not licensed under CC BY-NC-ND 4.0.
+
+Adapted Architecture is intentionally released as an open-use descriptor and carries no trademark.
+
+---
+
+## Attribution
+
+When citing or building on materials in this repository:
+
+Slusher, A. M. (Year). [Paper Title]. Independent Researcher.
+https://doi.org/10.5281/zenodo.[ID]
+
+ORCID: 0009-0000-9923-3207

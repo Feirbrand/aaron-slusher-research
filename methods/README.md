@@ -2,14 +2,19 @@
 
 This folder contains the public methodology layer for Aaron M. Slusher's research.
 
+## Neural Formation Architecture
+
+The methods in this folder are components of Neural Formation Architecture — the public stack that describes how adaptive systems form, hold, and shift their architecture under pressure.
+
 ## Methodology Stack
 
-| Method | Status | Public role |
-|---|---|---|
-| [Adapted Architecture](./adapted-architecture/) | Live — open-use descriptor | Public outcome frame |
-| [Neuroformation™](./neuroformation/) | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | Core methodology |
-| [Elevation Grid™](./elevation-grid/) | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Diagnostic framework |
-| [Neural Access Method™](./neuro-access-method/) | Paper in preparation | Intervention protocol |
+| Layer | Method | Status | Public role |
+|---|---|---|---|
+| Public architecture container | Neural Formation Architecture | Active | Public stack frame |
+| Outcome frame | Adapted Architecture | Live — open-use descriptor | What the system is building |
+| Methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | How it forms and holds |
+| Diagnostic | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | Where the system is now |
+| Transmission protocol | Neural Access Method™ | Paper ready for publication | How to access and shift it |
 
 ## What Lives Here
 
@@ -19,4 +24,4 @@ Full implementation details, private protocols, and operational guides remain ou
 
 ## DOI Gate Rule
 
-A method folder links to published materials once the paper is on Zenodo with a permanent DOI. Until then, the folder holds a placeholder README only.
+A method folder links to published materials once the paper is on Zenodo with a permanent DOI. Until then, the folder holds a placeholder README only. Method overview pages may exist before DOI release when they describe the public stack.

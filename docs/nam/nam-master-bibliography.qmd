@@ -3,9 +3,61 @@ layout: paper
 title: "Neural Access Method™ v1.0 — Master Bibliography"
 doi: "10.5281/zenodo.XXXXXXX"
 ---
-# Neural Access Method™ v1.0 — Master Bibliography
-**Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Visualizations](nam-visualizations.html)
----
-## Primary Sources
 
-## Secondary Sources
+# Neural Access Method™ v1.0 — Master Bibliography
+
+**Back to:** [Main Paper](index.html) | [Visualizations](nam-visualizations.html) | [Cross-References](nam-cross-references.html)
+
+*References contextualize observed mechanisms in neuroscience, motor learning, and performance science. The NAM protocol derives from practitioner observation across multiple domains before formal naming.*
+
+---
+
+## Motor Learning and Procedural Memory
+
+Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. https://doi.org/10.1037/0096-3445.130.4.701
+
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363–406. https://doi.org/10.1037/0033-295X.100.3.363
+
+Fitts, P. M., & Posner, M. I. (1967). *Human performance*. Brooks/Cole.
+
+McKenzie, I. A., et al. (2014). Motor skill learning requires active central myelination. *Science*, 346(6207), 318–322. https://doi.org/10.1126/science.1254960
+
+Schmidt, R. A. (1975). A schema theory of discrete motor skill learning. *Psychological Review*, 82(4), 225–260. https://doi.org/10.1037/h0076770
+
+Wulf, G., McNevin, N., & Shea, C. H. (2001). The automaticity of complex motor skill learning as a function of attentional focus. *Quarterly Journal of Experimental Psychology*, 54A(4), 1143–1154. https://doi.org/10.1080/713756012
+
+Xiao, L., et al. (2016). Rapid production of new oligodendrocytes is required in the earliest stages of motor-skill learning. *Nature Neuroscience*, 19(9), 1210–1217. https://doi.org/10.1038/nn.4351
+
+---
+
+## Cognitive Load and Pressure Performance
+
+Arnsten, A. F. T. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature Reviews Neuroscience*, 10(6), 410–422. https://doi.org/10.1038/nrn2648
+
+Eysenck, M. W., Derakshan, N., Santos, R., & Calvo, M. G. (2007). Anxiety and cognitive performance: Attentional control theory. *Emotion*, 7(2), 336–353. https://doi.org/10.1037/1528-3542.7.2.336
+
+LeDoux, J. E. (1996). *The emotional brain*. Simon & Schuster.
+
+Nørretranders, T. (1998). *The user illusion: Cutting consciousness down to size*. Viking.
+
+---
+
+## Identity and Narrative
+
+McAdams, D. P. (1993). *The stories we live by: Personal myths and the making of the self*. William Morrow.
+
+Markus, H. (1977). Self-schemata and processing information about the self. *Journal of Personality and Social Psychology*, 35(2), 63–78. https://doi.org/10.1037/0022-3514.35.2.63
+
+---
+
+## Related Published Papers
+
+Slusher, A. M. (2026a). *Neuroformation™ v1.0: A methodology for building resilience in adaptive systems*. Independent Researcher. https://doi.org/10.5281/zenodo.19197818
+
+Slusher, A. M. (2026b). *The Elevation Grid™ v1.1: A neurobiological performance diagnostic framework*. Independent Researcher. https://doi.org/10.5281/zenodo.18790842
+
+Slusher, A. M. (2026c). *Neural Access Method™ v1.0* (this paper). Independent Researcher. https://doi.org/10.5281/zenodo.XXXXXXX
+
+---
+
+*2026 © Aaron M. Slusher · Independent Researcher · [Main Paper](index.html)*

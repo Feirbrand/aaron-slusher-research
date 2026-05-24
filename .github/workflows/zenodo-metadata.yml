@@ -1,0 +1,98 @@
+name: Update Zenodo Metadata
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-zenodo-metadata:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract metadata from most recent paper
+        id: extract
+        run: |
+          # Find most recently modified .md file in papers/
+          PAPER=$(find papers/ -name "*.md" -not -name "README.md" | xargs ls -t 2>/dev/null | head -1)
+
+          if [ -z "$PAPER" ]; then
+            echo "No paper found in papers/ — using fallback metadata"
+            echo "title=Aaron M. Slusher — Independent Research Archive" >> $GITHUB_OUTPUT
+            echo "version=1.0.0" >> $GITHUB_OUTPUT
+            echo "release_date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+            echo "description=Independent research archive for Aaron M. Slusher. Methodology, adaptive systems, human performance, AI resilience, formation architecture." >> $GITHUB_OUTPUT
+          else
+            echo "Found paper: $PAPER"
+
+            # Extract title from YAML front matter
+            TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//' | tr -d '"')
+            [ -z "$TITLE" ] && TITLE=$(head -1 "$PAPER" | sed 's/^# //')
+
+            # Extract version
+            VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//' | tr -d '"')
+            [ -z "$VERSION" ] && VERSION="1.0"
+
+            # Extract release_date
+            RELEASE_DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//' | tr -d '"')
+            [ -z "$RELEASE_DATE" ] && RELEASE_DATE=$(date +%Y-%m-%d)
+
+            # Extract Abstract section (first 500 chars)
+            DESCRIPTION=$(awk '/^## Abstract/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | head -c 500 | tr '\n' ' ' | xargs)
+            [ -z "$DESCRIPTION" ] && DESCRIPTION="Independent methodology research — $TITLE"
+
+            echo "title=$TITLE" >> $GITHUB_OUTPUT
+            echo "version=$VERSION" >> $GITHUB_OUTPUT
+            echo "release_date=$RELEASE_DATE" >> $GITHUB_OUTPUT
+            echo "description=$DESCRIPTION" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Write .zenodo.json
+        run: |
+          cat > .zenodo.json << EOF
+          {
+            "title": "${{ steps.extract.outputs.title }}",
+            "description": "${{ steps.extract.outputs.description }}",
+            "version": "${{ steps.extract.outputs.version }}",
+            "publication_date": "${{ steps.extract.outputs.release_date }}",
+            "creators": [
+              {
+                "name": "Slusher, Aaron M.",
+                "orcid": "0009-0000-9923-3207",
+                "affiliation": "Independent Researcher"
+              }
+            ],
+            "upload_type": "publication",
+            "publication_type": "report",
+            "access_right": "open",
+            "license": "cc-by-nc-nd-4.0",
+            "keywords": [
+              "adapted architecture",
+              "neuroformation",
+              "elevation grid",
+              "neural access method",
+              "resilience",
+              "adaptive systems",
+              "methodology"
+            ],
+            "related_identifiers": [
+              {
+                "identifier": "https://orcid.org/0009-0000-9923-3207",
+                "relation": "isAuthoredBy",
+                "scheme": "url"
+              }
+            ]
+          }
+          EOF
+
+      - name: Commit and push .zenodo.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .zenodo.json
+          git diff --staged --quiet || git commit -m "chore: update .zenodo.json for release ${{ github.ref_name }}"
+          git push
