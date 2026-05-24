@@ -4,8 +4,8 @@ project:
 website:
   title: "Aaron Slusher Research"
   navbar:
-    background: "#001f3f"
-    foreground: "#ffffff"
+    background: "#1c1a16"
+    foreground: "#f5f2ec"
     left:
       - href: index.qmd
         text: Home
