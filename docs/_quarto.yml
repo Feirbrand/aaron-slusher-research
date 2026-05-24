@@ -16,10 +16,12 @@ website:
             text: Neuroformation™
           - href: methods/elevation-grid/index.qmd
             text: Elevation Grid™
-          - href: methods/neural-access-method/index.qmd
+          - href: methods/neuro-access-method/index.qmd
             text: Neural Access Method™
-      - href: papers/index.qmd
-        text: Papers
+      - text: Papers
+        menu:
+          - href: nam/index.qmd
+            text: Neural Access Method™ v1.0
       - href: archive/index.qmd
         text: Archive
       - text: Links

@@ -4,9 +4,8 @@ subtitle: "Four-step transmission protocol — ACCESS → REFRAME → SIMPLIFY �
 author: "Aaron M. Slusher"
 date: "2026-05-XX"
 doi: "10.5281/zenodo.XXXXXXX"
-description: "Neural Access Method™ is a transmission protocol for reaching an adaptive system at the point where change is possible — bypassing cortical interference to access intact procedural, emotional, and identity-linked pathways."
+description: "Neural Access Method™ (NAM) is a transmission protocol for reaching an adaptive system at the point where change is possible — bypassing cortical interference to access intact procedural, emotional, and identity-linked pathways."
 ---
-
 | | |
 |---|---|
 | **Author** | Aaron M. Slusher |
@@ -16,63 +15,37 @@ description: "Neural Access Method™ is a transmission protocol for reaching an
 | **Version** | 1.0 |
 | **License** | CC BY-NC-ND 4.0 |
 | **Affiliation** | Independent Researcher |
-
 ---
-
 ## Documentation
-
 - [🔗 Cross-References](nam-cross-references.html) — Framework integration map
 - [📊 Visualizations](nam-visualizations.html) — Protocol diagrams
 - [📚 Master Bibliography](nam-master-bibliography.html) — Full source list
-
 ---
-
 ## NOTE ON ORIGIN
-
 NAM did not begin as a method. It began as a problem with a consistent shape — and a brain that kept finding the same answer to it, long before there was a name for either the problem or the answer.
-
 A fighter between rounds cannot process four technical adjustments. A free throw shooter in a championship game misses twice despite ten thousand practice shots. A stroke survivor gains arm movement not through more therapy but through a question that routes through memory already built.
-
-These situations share a structure. The skill exists. The pathway is built. Under pressure, the analytical entrance is blocked — and everything queued there is turned away with it. The practitioner's job is to find the wire that is already insulated and run the current through it.
-
+These situations share a structure. The skill exists. The pathway is built. Under pressure, the analytical entrance is blocked — and everything queued there is turned away with it. The practitioner\'s job is to find the wire that is already insulated and run the current through it.
 That pattern ran unnamed across military service, physical recovery, combat sport, performance coaching, adaptive athletics, and neurotrauma rehabilitation. It surfaced every time conventional instruction failed under pressure and something compressed, direct, and routed through what was already built worked instead. The mechanism was operating before it had a name.
-
 The name arrived on January 26, 2026.
-
 ---
-
 ## ABSTRACT
-
 Under sufficient load, the analytical pathway to an adaptive system becomes blocked. Instruction queued there does not land. Correction delivered through familiar, pre-built pathways does.
-
 Neural Access Method™ (NAM) is a four-step transmission protocol — ACCESS → REFRAME → SIMPLIFY → IGNITE — for delivering correction to an adaptive system at the point where change is actually possible. It operates by bypassing cortical interference to reach intact procedural, emotional, and identity-linked pathways that remain accessible under pressure.
-
 NAM is the transmission layer within Neural Formation Architecture. The Elevation Grid™ identifies the fracture coordinate. NAM delivers correction through it.
-
 The protocol was named January 26, 2026. The mechanism predates the name.
-
 ---
-
 ## 1. THE PROTOCOL
-
 ### ACCESS
 Scan for pre-myelinated meaning structures the operator already owns. Map the new demand onto a familiar neural network. Do not introduce new information — find the existing wire.
-
 ### REFRAME
 Shift from internal anatomical focus to external functional focus. Rapid analogical mapping wraps the mechanical instruction in a familiar structure. The body already knows the movement — route to where that knowledge lives.
-
 ### SIMPLIFY
 Distill the analogy to a one- or two-word trigger. Cognitive load near zero. The correction lands in the time available.
-
 ### IGNITE
-Anchor the successful repetition to identity, not just to execution. *"That's the movement. That's who you are."* Execution becomes self-reinforcing.
-
+Anchor the successful repetition to identity, not just to execution. *"That\'s the movement. That\'s who you are."* Execution becomes self-reinforcing.
 ---
-
 ## 2. POSITION IN NEURAL FORMATION ARCHITECTURE
-
 NAM is the transmission protocol layer of the Neural Formation Architecture stack:
-
 ```
 Neural Formation Architecture  ← public architecture container
         ↓
@@ -84,29 +57,18 @@ Neural Access Method™          ← this transmission protocol
         ↓
 Adapted Architecture           ← output state
 ```
-
 The five-layer architecture (Neuroformation™) tells you *what* is failing.
 The Elevation Grid™ tells you *where*.
 NAM tells you *how* to reach it.
-
 ---
-
 ## 3. SCOPE AND ETHICAL BOUNDARY
-
 NAM is an access method, not a stewardship system.
-
 The same route that allows a practitioner to reach a person under load can be used toward formation or toward manipulation. Because access can be used for either, ethical anchoring and operator stewardship are required.
-
 NAM does not provide that anchor. It assumes the practitioner already holds it.
-
 ---
-
 ## 4. CONCLUSION
-
 NAM formalizes a transmission pattern that was operating before it had a name. The four steps — ACCESS → REFRAME → SIMPLIFY → IGNITE — describe the mechanism by which correction reaches an adaptive system when the analytical pathway is blocked.
-
 **DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-
 **author:** Aaron M. Slusher
 **affiliation:** Independent Researcher
 **date:** 2026

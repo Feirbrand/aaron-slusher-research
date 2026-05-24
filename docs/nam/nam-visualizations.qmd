@@ -3,64 +3,9 @@ layout: paper
 title: "Neural Access Method™ v1.0 — Visualizations"
 doi: "10.5281/zenodo.XXXXXXX"
 ---
-
 # Neural Access Method™ v1.0 — Visualizations
-
 **Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Bibliography](nam-master-bibliography.html)
-
 ---
+## Protocol Flow Diagram
 
-## Figure 1: The Four-Step Protocol
-
-ACCESS → REFRAME → SIMPLIFY → IGNITE
-
-| Step | What It Does | When to Use |
-|---|---|---|
-| **ACCESS** | Find the pre-built wire — scan for existing pathways the system already owns | Always first — establish the route before delivery |
-| **REFRAME** | Shift from internal/anatomical to external/functional focus | When the analytical door is blocked |
-| **SIMPLIFY** | Distill to a one- or two-word trigger — cognitive load to zero | When time is compressed or load is high |
-| **IGNITE** | Anchor successful execution to identity, not outcome | After correct execution — make it sticky |
-
----
-
-## Figure 2: Position in Neural Formation Architecture
-
-```
-Neural Formation Architecture  ← public container
-        ↓
-Neuroformation™                ← five-layer architecture (what is failing)
-        ↓
-Elevation Grid™ 3×3            ← diagnostic coordinate (where it is failing)
-        ↓
-Neural Access Method™          ← transmission protocol (how to reach it)
-        ↓
-Adapted Architecture           ← output state (what forms when rebuilt)
-```
-
-**The rule:** Never deliver NAM without an Elevation Grid™ coordinate. The Grid tells you where to aim. NAM delivers the correction.
-
----
-
-## Figure 3: Protocol × Elevation Grid™ Mapping
-
-| Elevation Grid™ Position | Primary NAM Entry | Notes |
-|---|---|---|
-| Row 1 (Hardware/Autonomic) | ACCESS → SIMPLIFY | Physiological pathway — fast, direct |
-| Row 2 (Software/Cognitive) | REFRAME → SIMPLIFY | Pattern recognition pathway |
-| Row 3 (Architecture/Identity) | ACCESS → IGNITE | Identity anchor required |
-
----
-
-## Figure 4: What Blocks the Analytical Door
-
-Under load, the analytical pathway closes. NAM routes around it.
-
-| Blocked Pathway | What Closes It | NAM Route |
-|---|---|---|
-| Verbal instruction | Amygdala response (LeDoux, 1996) | Pre-myelinated analogy |
-| Technical correction | Prefrontal bandwidth depletion (Arnsten, 2009) | One-word trigger |
-| Motivation/mindset | Identity fracture at Layer 4 | IGNITE to identity anchor |
-
----
-
-*2026 © Aaron M. Slusher · Independent Researcher · [Main Paper](index.html)*
+## Architecture Integration Diagram
