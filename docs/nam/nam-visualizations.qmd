@@ -1,0 +1,11 @@
+---
+layout: paper
+title: "Neural Access Method™ v1.0 — Visualizations"
+doi: "10.5281/zenodo.XXXXXXX"
+---
+# Neural Access Method™ v1.0 — Visualizations
+**Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Bibliography](nam-master-bibliography.html)
+---
+## Protocol Flow Diagram
+
+## Architecture Integration Diagram

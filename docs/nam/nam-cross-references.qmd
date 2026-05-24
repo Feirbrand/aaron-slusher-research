@@ -1,0 +1,33 @@
+---
+layout: paper
+title: "Neural Access Method™ v1.0 — Cross-References"
+doi: "10.5281/zenodo.XXXXXXX"
+---
+# Neural Access Method™ v1.0 — Cross-References & Integration Map
+**Back to:** [Main Paper](index.html) | [Visualizations](nam-visualizations.html) | [Bibliography](nam-master-bibliography.html)
+---
+## Paper Series — Neural Formation Architecture Stack
+NAM is Paper 3 in the foundational methodology series. Born at `aaron-slusher-research`. Referenced from `synoeticos-public`.
+| Paper | Role | DOI | Status |
+|---|---|---|---|
+| **Neuroformation™ v1.0** | Parent methodology — five-layer architecture | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | ✅ Published |
+| **Elevation Grid™ v1.1** | Diagnostic instrument — 3×3 coordinate map | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | ✅ Published |
+| **Neural Access Method™ v1.0** (this paper) | Transmission protocol — ACCESS→REFRAME→SIMPLIFY→IGNITE | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | ✅ Published |
+| **Cognitive Mage v1.0** | Origin paper — human-AI co-discovery | [10.5281/zenodo.17643267](https://doi.5281/zenodo.17643267) | ✅ Published |
+---
+## Protocol → Architecture Mapping
+| NAM Step | Elevation Grid™ Row | Five-Layer Position | Function |
+|---|---|---|---|
+| ACCESS | Row 1 (Hardware) | Layer 1–2 | Find the pre-built wire |
+| REFRAME | Row 2 (Software) | Layer 3 | Route through familiar structure |
+| SIMPLIFY | Row 1–2 | Layer 2–3 | Reduce cognitive load to zero |
+| IGNITE | Row 3 (Architecture) | Layer 4–5 | Anchor to identity |
+---
+## VGS Framework Cross-References
+NAM is the transmission layer. These VGS frameworks operationalize the same architecture for AI systems:
+| Framework | Function | DOI |
+|---|---|---|
+| Synoetic OS™ v1.0 | AI-side implementation of Neuroformation™ | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) |
+| CSFC v1.0 | Cascade containment — the failure NAM prevents | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) |
+| RAY v2.1 | Early warning — detects when NAM access is needed | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) |
+| Phoenix Protocol v2.0 | Recovery execution — post-cascade
