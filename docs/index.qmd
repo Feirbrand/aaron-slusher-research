@@ -1,7 +1,71 @@
 ---
-title: "Hello Quarto"
+title: "Aaron Slusher Research"
 ---
 
-## Welcome
+## Independent Research Archive
 
-This is a sample Quarto document.
+This is the public research record for the independent work of Aaron M. Slusher.
+
+The brands apply the work. This repository preserves the spine.
+
+[ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) · [PUBLICATIONS.md](../PUBLICATIONS.md)
+
+---
+
+## Current Public Research Spine
+
+The work began as a pattern of practice before it became a set of named frameworks. Across military service, physical recovery, combat sport, performance coaching, adaptive athletics, neurotrauma work, AI systems, and formation studies — the same question kept returning: how do adaptive systems hold, fracture, reorganize, and recover function under real pressure?
+
+---
+
+## Methods
+
+### Neuroformation™ v1.0
+*Governing methodology — how an adaptive system forms and holds its architecture*
+**DOI:** [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) · Published via synoeticos-public · [Read →](methods/neuroformation/index.qmd)
+
+---
+
+### Elevation Grid™ v1.1
+*Diagnostic instrument — where the system is within the architecture*
+**DOI:** [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) · Published via synoeticos-public · [Read →](methods/elevation-grid/index.qmd)
+
+---
+
+### Neural Access Method™ v1.0
+*Transmission protocol — how to access the system and deliver correction*
+**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) · First paper from this repository · [Read →](methods/neural-access-method/index.qmd)
+
+---
+
+### Adapted Architecture
+*Output state — the structure built from what is actually present*
+Open-use descriptor · Not trademarked · [Read →](methods/adapted-architecture/index.qmd)
+
+---
+
+## Papers
+
+| Paper | DOI | Status |
+|---|---|---|
+| Neural Access Method™ v1.0 | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | Published · [Read →](papers/nam/index.qmd) |
+
+---
+
+## Origin Note
+
+1999 marks the first formal certification on record. It is not the origin of the underlying pattern or the beginning of the methodology. The named frameworks were formalized much later, as recurring patterns across practice, recovery, performance, AI systems, and formation research became clear enough to document.
+
+---
+
+## Links
+
+- **All publications:** [PUBLICATIONS.md](../PUBLICATIONS.md)
+- **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
+- **Zenodo:** [zenodo.org](https://zenodo.org/search?q=slusher+aaron)
+- **VGS Research:** [synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
+- **Contact:** aaron@appcincy.com
+
+---
+
+*© 2025–2026 Aaron M. Slusher · CC BY-NC-ND 4.0*
