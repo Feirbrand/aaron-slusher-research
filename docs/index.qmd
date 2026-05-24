@@ -6,7 +6,7 @@ title: "Aaron Slusher Research"
 
 This is the public research record for the independent work of Aaron M. Slusher.
 The brands apply the work. This repository preserves the spine.
-[ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) · [PUBLICATIONS.md](../PUBLICATIONS.md)
+[ORCID: 0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 
 ---
 
@@ -54,7 +54,6 @@ Open-use descriptor · Not trademarked · [Read →](methods/adapted-architectur
 ---
 
 ## Links
-- **All publications:** [PUBLICATIONS.md](../PUBLICATIONS.md)
 - **ORCID:** [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207)
 - **Zenodo:** [zenodo.org](https://zenodo.org/search?q=slusher+aaron)
 - **VGS Research:** [synoeticos-public](https://github.com/Feirbrand/synoeticos-public)
