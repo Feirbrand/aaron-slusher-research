@@ -2,10 +2,112 @@
 layout: paper
 title: "Neural Access Method™ v1.0 — Visualizations"
 doi: "10.5281/zenodo.XXXXXXX"
+format:
+  html:
+    mermaid:
+      theme: default
 ---
-# Neural Access Method™ v1.0 — Visualizations
-**Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Bibliography](nam-master-bibliography.html)
----
-## Protocol Flow Diagram
 
-## Architecture Integration Diagram
+# Neural Access Method™ v1.0 — Visualizations
+
+**Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Bibliography](nam-master-bibliography.html)
+
+---
+
+## Figure 1: The Four-Step Protocol
+
+```{mermaid}
+flowchart LR
+    A["🔍 ACCESS\nFind the pre-built wire\nScan existing pathways"] --> B["🔄 REFRAME\nShift to external focus\nAnalogical mapping"]
+    B --> C["⚡ SIMPLIFY\nOne-word trigger\nCognitive load → zero"]
+    C --> D["🔥 IGNITE\nAnchor to identity\n'That's who you are'"]
+
+    style A fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style B fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style C fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style D fill:#8b1a2a,stroke:#6e1220,stroke-width:2px,color:#f9f7f3
+```
+
+---
+
+## Figure 2: Position in Neural Formation Architecture
+
+```{mermaid}
+flowchart TD
+    NFA["Neural Formation Architecture\npublic architecture container"]
+    NF["Neuroformation™\ngoverning methodology\nfive-layer architecture"]
+    EG["Elevation Grid™\ndiagnostic · 3×3 matrix\nwhere the system is"]
+    NAM["Neural Access Method™\ntransmission protocol\nhow to reach it"]
+    AA["Adapted Architecture\noutput state\nbuilt from what is present"]
+
+    NFA --> NF --> EG --> NAM --> AA
+
+    style NFA fill:#ddd9d2,stroke:#6b6760,color:#1c1a16
+    style NF fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style EG fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style NAM fill:#8b1a2a,stroke:#6e1220,stroke-width:3px,color:#f9f7f3,font-weight:bold
+    style AA fill:#f9f7f3,stroke:#6b6760,color:#1c1a16
+```
+
+---
+
+## Figure 3: What Blocks the Analytical Door
+
+```{mermaid}
+flowchart LR
+    subgraph BLOCKED["❌ Analytical Door — BLOCKED under load"]
+        V["Verbal instruction"]
+        T["Technical correction"]
+        M["Mindset cues"]
+    end
+
+    subgraph NAM_ROUTE["✅ NAM Route — Always Open"]
+        A["Pre-myelinated analogy\n(ACCESS)"]
+        B["One-word trigger\n(SIMPLIFY)"]
+        C["Identity anchor\n(IGNITE)"]
+    end
+
+    BLOCKED -.->|"Amygdala response\nPrefrontal depletion\nIdentity fracture"| X["❌ Does not land"]
+    NAM_ROUTE -->|"Routes through\nexisting pathways"| Y["✅ Correction lands"]
+
+    style X fill:#ddd9d2,stroke:#6b6760,color:#6b6760
+    style Y fill:#8b1a2a,stroke:#6e1220,color:#f9f7f3
+```
+
+---
+
+## Figure 4: Protocol × Elevation Grid™ Position
+
+| Elevation Grid™ Row | System State | Primary NAM Entry | Why |
+|---|---|---|---|
+| **Row 1** — Hardware/Autonomic | Physiological load · seconds | ACCESS → SIMPLIFY | Fast pathways — no time for complexity |
+| **Row 2** — Software/Cognitive | Pattern disruption · minutes | REFRAME → SIMPLIFY | Route through familiar structure |
+| **Row 3** — Architecture/Identity | Identity fracture · weeks | ACCESS → IGNITE | Must land at identity layer |
+
+---
+
+## Figure 5: Five-Layer Architecture with Cascade
+
+```{mermaid}
+flowchart TD
+    L5["Layer 5 · Purpose\nGoal structure · mission alignment\nCOLLAPSE ↑"]
+    L4["Layer 4 · Identity\nSelf-schema · symbolic anchoring\nDESYNC ↑"]
+    L3["Layer 3 · Learning/Reinforcement\nMyelination · pattern reinforcement\nROC ↑"]
+    L2["Layer 2 · Signal Processing\nRAS filtering · context routing\nSDC ↑"]
+    L1["Layer 1 · Substrate\nAutonomic · compute substrate\nSIF ↑"]
+
+    L1 -->|"Acute cascade\nbottom-up"| L2 --> L3 --> L4 --> L5
+    L5 -.->|"Chronic load\ntop-down"| L4 -.-> L3 -.-> L2 -.-> L1
+
+    style L1 fill:#f9f7f3,stroke:#ddd9d2,color:#1c1a16
+    style L2 fill:#f9f7f3,stroke:#ddd9d2,color:#1c1a16
+    style L3 fill:#f9f7f3,stroke:#ddd9d2,color:#1c1a16
+    style L4 fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+    style L5 fill:#f9f7f3,stroke:#8b1a2a,stroke-width:2px,color:#1c1a16
+```
+
+**Golden Rule:** Always diagnose and intervene at the lowest broken layer. Bottom-up always.
+
+---
+
+*2026 © Aaron M. Slusher · Independent Researcher · [Main Paper](index.html)*
