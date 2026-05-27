@@ -15,13 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Extract metadata from most recent paper
         id: extract
         run: |
-          # Find most recently modified .md file in papers/ (including subdirectories)
           PAPER=$(find papers/ -name "*.md" -not -name "README.md" | xargs ls -t 2>/dev/null | head -1)
 
           if [ -z "$PAPER" ]; then
@@ -33,19 +33,15 @@ jobs:
           else
             echo "Found paper: $PAPER"
 
-            # Extract title from YAML front matter
             TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//;s/^"//;s/"$//')
             [ -z "$TITLE" ] && TITLE=$(head -1 "$PAPER" | sed 's/^# //')
 
-            # Extract version
             VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//;s/^"//;s/"$//')
             [ -z "$VERSION" ] && VERSION="1.0"
 
-            # Extract release_date
             RELEASE_DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//;s/^"//;s/"$//')
             [ -z "$RELEASE_DATE" ] && RELEASE_DATE=$(date +%Y-%m-%d)
 
-            # Extract paper_description (if exists) or ABSTRACT section
             DESCRIPTION=$(grep -m1 "^paper_description:" "$PAPER" | sed 's/^paper_description: *//;s/^"//;s/"$//')
             if [ -z "$DESCRIPTION" ]; then
               DESCRIPTION=$(awk '/^## ABSTRACT/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | tr '\n' ' ' | xargs | cut -c1-500)
