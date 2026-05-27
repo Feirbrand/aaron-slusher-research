@@ -4,17 +4,19 @@ on:
   release:
     types: [published]
 
+permissions:
+  contents: write
+
 jobs:
   update-zenodo-metadata:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Extract metadata from most recent paper
         id: extract
@@ -46,19 +48,23 @@ jobs:
             # Extract paper_description (if exists) or ABSTRACT section
             DESCRIPTION=$(grep -m1 "^paper_description:" "$PAPER" | sed 's/^paper_description: *//;s/^"//;s/"$//')
             if [ -z "$DESCRIPTION" ]; then
-              DESCRIPTION=$(awk '/^## ABSTRACT/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | head -c 500 | tr '\n' ' ' | xargs)
+              DESCRIPTION=$(awk '/^## ABSTRACT/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | tr '\n' ' ' | xargs | cut -c1-500)
             fi
             [ -z "$DESCRIPTION" ] && DESCRIPTION="Independent methodology research — $TITLE"
 
             echo "title=$TITLE" >> $GITHUB_OUTPUT
             echo "version=$VERSION" >> $GITHUB_OUTPUT
             echo "release_date=$RELEASE_DATE" >> $GITHUB_OUTPUT
-            echo "description=$DESCRIPTION" >> $GITHUB_OUTPUT
+            {
+              echo "description<<EOF_DESC"
+              echo "$DESCRIPTION"
+              echo "EOF_DESC"
+            } >> $GITHUB_OUTPUT
           fi
 
       - name: Write .zenodo.json
         run: |
-          cat > .zenodo.json << EOF
+          cat > .zenodo.json << 'ZENODO'
           {
             "title": "${{ steps.extract.outputs.title }}",
             "description": "${{ steps.extract.outputs.description }}",
@@ -85,12 +91,13 @@ jobs:
               "methodology"
             ]
           }
-          EOF
+          ZENODO
 
       - name: Commit and push .zenodo.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add .zenodo.json
           git diff --staged --quiet || git commit -m "chore: update .zenodo.json for release ${{ github.event.release.tag_name }}"
           git push origin HEAD:main
