@@ -1,0 +1,92 @@
+name: Publish to Zenodo
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  zenodo-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract metadata from most recent paper
+        id: extract
+        run: |
+          PAPER=$(find papers/ -name "*.md" -not -name "README.md" | xargs ls -t 2>/dev/null | head -1)
+
+          if [ -z "$PAPER" ]; then
+            echo "title=Aaron M. Slusher — Independent Research Archive" >> $GITHUB_OUTPUT
+            echo "version=1.0.0" >> $GITHUB_OUTPUT
+            echo "release_date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+            echo "description=Independent research archive for Aaron M. Slusher." >> $GITHUB_OUTPUT
+          else
+            TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//;s/^"//;s/"$//')
+            [ -z "$TITLE" ] && TITLE=$(head -1 "$PAPER" | sed 's/^# //')
+            VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//;s/^"//;s/"$//')
+            [ -z "$VERSION" ] && VERSION="1.0"
+            RELEASE_DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//;s/^"//;s/"$//')
+            [ -z "$RELEASE_DATE" ] && RELEASE_DATE=$(date +%Y-%m-%d)
+            DESCRIPTION=$(grep -m1 "^paper_description:" "$PAPER" | sed 's/^paper_description: *//;s/^"//;s/"$//')
+            if [ -z "$DESCRIPTION" ]; then
+              DESCRIPTION=$(awk '/^## ABSTRACT/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | tr '\n' ' ' | xargs | cut -c1-500)
+            fi
+            [ -z "$DESCRIPTION" ] && DESCRIPTION="Independent methodology research — $TITLE"
+            echo "title=$TITLE" >> $GITHUB_OUTPUT
+            echo "version=$VERSION" >> $GITHUB_OUTPUT
+            echo "release_date=$RELEASE_DATE" >> $GITHUB_OUTPUT
+            {
+              echo "description<<EOF_DESC"
+              echo "$DESCRIPTION"
+              echo "EOF_DESC"
+            } >> $GITHUB_OUTPUT
+          fi
+
+      - name: Write .zenodo.json
+        run: |
+          cat > .zenodo.json << 'ZENODO'
+          {
+            "title": "${{ steps.extract.outputs.title }}",
+            "description": "${{ steps.extract.outputs.description }}",
+            "version": "${{ steps.extract.outputs.version }}",
+            "publication_date": "${{ steps.extract.outputs.release_date }}",
+            "creators": [
+              {
+                "name": "Slusher, Aaron M.",
+                "orcid": "0009-0000-9923-3207",
+                "affiliation": "Independent Researcher"
+              }
+            ],
+            "upload_type": "publication",
+            "publication_type": "report",
+            "access_right": "open",
+            "license": "cc-by-nc-nd-4.0",
+            "keywords": [
+              "adapted architecture",
+              "neuroformation",
+              "elevation grid",
+              "neural access method",
+              "resilience",
+              "adaptive systems",
+              "methodology"
+            ]
+          }
+          ZENODO
+
+      - name: Commit and push .zenodo.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git add .zenodo.json
+          git diff --staged --quiet || git commit -m "chore: update .zenodo.json for release ${{ github.event.release.tag_name }}"
+          git push origin ${{ github.event.repository.default_branch }}
