@@ -11,13 +11,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repositaory
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Extract metadata from most recent paper
         id: extract
         run: |
-          # Find most recently modified .md file in papers/
+          # Find most recently modified .md file in papers/ (including subdirectories)
           PAPER=$(find papers/ -name "*.md" -not -name "README.md" | xargs ls -t 2>/dev/null | head -1)
 
           if [ -z "$PAPER" ]; then
@@ -30,19 +30,22 @@ jobs:
             echo "Found paper: $PAPER"
 
             # Extract title from YAML front matter
-            TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//' | tr -d '"')
+            TITLE=$(grep -m1 "^title:" "$PAPER" | sed 's/^title: *//;s/^"//;s/"$//')
             [ -z "$TITLE" ] && TITLE=$(head -1 "$PAPER" | sed 's/^# //')
 
             # Extract version
-            VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//' | tr -d '"')
+            VERSION=$(grep -m1 "^version:" "$PAPER" | sed 's/^version: *//;s/^"//;s/"$//')
             [ -z "$VERSION" ] && VERSION="1.0"
 
             # Extract release_date
-            RELEASE_DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//' | tr -d '"')
+            RELEASE_DATE=$(grep -m1 "^release_date:" "$PAPER" | sed 's/^release_date: *//;s/^"//;s/"$//')
             [ -z "$RELEASE_DATE" ] && RELEASE_DATE=$(date +%Y-%m-%d)
 
-            # Extract Abstract section (first 500 chars)
-            DESCRIPTION=$(awk '/^## Abstract/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | head -c 500 | tr '\n' ' ' | xargs)
+            # Extract paper_description (if exists) or ABSTRACT section
+            DESCRIPTION=$(grep -m1 "^paper_description:" "$PAPER" | sed 's/^paper_description: *//;s/^"//;s/"$//')
+            if [ -z "$DESCRIPTION" ]; then
+              DESCRIPTION=$(awk '/^## ABSTRACT/{found=1; next} found && /^##/{exit} found{print}' "$PAPER" | head -c 500 | tr '\n' ' ' | xargs)
+            fi
             [ -z "$DESCRIPTION" ] && DESCRIPTION="Independent methodology research — $TITLE"
 
             echo "title=$TITLE" >> $GITHUB_OUTPUT
@@ -78,13 +81,6 @@ jobs:
               "resilience",
               "adaptive systems",
               "methodology"
-            ],
-            "related_identifiers": [
-              {
-                "identifier": "https://orcid.org/0009-0000-9923-3207",
-                "relation": "isAuthoredBy",
-                "scheme": "url"
-              }
             ]
           }
           EOF
@@ -94,5 +90,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .zenodo.json
-          git diff --staged --quiet || git commit -m "chore: update .zenodo.json for release ${{ github.ref_name }}"
+          git diff --staged --quiet || git commit -m "chore: update .zenodo.json for release ${{ github.event.release.tag_name }}"
           git push
