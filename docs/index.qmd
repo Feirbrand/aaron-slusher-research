@@ -44,7 +44,7 @@ Open-use descriptor · Not trademarked · [Read →](methods/adapted-architectur
 ## Papers
 | Paper | DOI | Status |
 |---|---|---|
-| Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | Published · [Read →](papers/nam/index.qmd) |
+| Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | Published · [Read →](nam/index.qmd) |
 
 ---
 
