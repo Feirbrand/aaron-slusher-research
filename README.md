@@ -63,7 +63,7 @@ Some underlying research substrates remain unpublished for safety, IP, and devel
 | Public architecture container | Neural Formation Architecture | Active |
 | Governing methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
 | Diagnostic map | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
-| Transmission protocol | Neural Access Method™ | Published · [DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) |
+| Transmission protocol | Neural Access Method™ | Published · [DOI: 10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) |
 | Output state | Adapted Architecture | Open-use descriptor · not trademarked |
 | Bridge / transduction | TTT | Staged public |
 | Cross-substrate thesis | UNICA | Staged public |
@@ -83,7 +83,7 @@ aaron-slusher-research/
 │   ├── elevation-grid/
 │   └── neural-access-method/
 ├── papers/
-│   └── nam/                   ← NAM v1.0 · DOI: 10.5281/zenodo.XXXXXXX
+│   └── nam/                   ← NAM v1.0 · DOI: 10.5281/zenodo.20420366
 ├── archive/               ← Historical artifacts and provenance notes
 ├── PUBLICATIONS.md        ← Master cross-affiliation publication ledger
 ├── CITATION.cff           ← Repo-level citation metadata

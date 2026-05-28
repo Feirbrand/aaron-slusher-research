@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Neural Access Method™ v1.0 — Visualizations"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.20420366"
 format:
   html:
     mermaid:

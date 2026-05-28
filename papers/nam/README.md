@@ -1,6 +1,6 @@
 # Neural Access Method™ v1.0
 
-**DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)**
+**DOI: [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366)**
 
 ---
 
@@ -21,7 +21,7 @@ Aaron M. Slusher · Independent Researcher · 2026
 ```
 Slusher, A. M. (2026). Neural Access Method™ v1.0.
 Independent Researcher.
-https://doi.org/10.5281/zenodo.XXXXXXX
+https://doi.org/10.5281/zenodo.20420366
 ```
 
 ---

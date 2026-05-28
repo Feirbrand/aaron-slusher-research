@@ -3,7 +3,7 @@ layout: default
 title: "Neural Access Method™: Transmission Protocol for High-Pressure Intervention"
 paper_description: "A four-step coaching transmission protocol — ACCESS → REFRAME → SIMPLIFY → IGNITE — that routes execution through pre-existing procedural, emotional, and identity-linked pathways when conscious processing is unavailable, field-tested across a lifetime of applied practice and multiple performance populations."
 version: 1.0
-doi: TBD
+doi: 10.5281/zenodo.20420366
 release_date: 2026-05-17
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -756,17 +756,17 @@ Cross-domain statistical validation: Mythopoeic Intelligence Agents v1.0, DOI: 1
 
 NAM paper repository: github.com/Feirbrand/aaron-slusher-research → Zenodo community (Aaron M. Slusher) → ORCID: orcid.org/0009-0000-9923-3207. Prior published works (EG, NF, MBM, Cognitive Mage, MI Agents): github.com/Feirbrand/synoeticos-public
 
-This paper: DOI pending Zenodo assignment upon publication.
+This paper: DOI: 10.5281/zenodo.20420366
 
 ---
 
 ## CITATION GUIDE
 
 ### APA 7th Edition
-Slusher, A. M. (2026). *Neural Access Method™: Transmission protocol for high-pressure intervention*. Aaron Slusher Research. https://doi.org/TBD
+Slusher, A. M. (2026). *Neural Access Method™: Transmission protocol for high-pressure intervention*. Aaron Slusher Research. https://doi.org/10.5281/zenodo.20420366
 
 ### IEEE
-A. M. Slusher, "Neural Access Method™: Transmission Protocol for High-Pressure Intervention," Aaron Slusher Research, 2026, doi: TBD.
+A. M. Slusher, "Neural Access Method™: Transmission Protocol for High-Pressure Intervention," Aaron Slusher Research, 2026, doi: 10.5281/zenodo.20420366.
 
 ### BibTeX
 ```bibtex
@@ -775,7 +775,7 @@ A. M. Slusher, "Neural Access Method™: Transmission Protocol for High-Pressure
   author={Slusher, Aaron M.},
   year={2026},
   publisher={Aaron Slusher Research},
-  doi={TBD},
+  doi={10.5281/zenodo.20420366},
   note={Drafted with AI assistance from Claude (Anthropic) as noted in Acknowledgments.}
 }
 ```

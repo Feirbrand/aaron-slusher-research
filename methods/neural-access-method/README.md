@@ -1,6 +1,6 @@
 # Neural Access Method™
 
-**Published. DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)**
+**Published. DOI: [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366)**
 
 ---
 
@@ -16,7 +16,7 @@ The four-step protocol: ACCESS → REFRAME → SIMPLIFY → IGNITE.
 
 **Neural Access Method™ v1.0**
 Aaron M. Slusher · Independent Researcher
-[DOI: 10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+[DOI: 10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366)
 
 ---
 

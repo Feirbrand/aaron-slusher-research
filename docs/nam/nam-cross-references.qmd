@@ -1,6 +1,6 @@
 ---
 title: "Neural Access Method™ v1.0 — Cross-References"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.20420366"
 ---
 
 # Neural Access Method™ v1.0 — Cross-References & Integration Map
@@ -17,7 +17,7 @@ NAM is Paper 3 in the foundational methodology series. Born at `aaron-slusher-re
 |---|---|---|---|
 | **Neuroformation™ v1.0** | Parent methodology — five-layer architecture | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | ✅ Published |
 | **Elevation Grid™ v1.1** | Diagnostic instrument — 3×3 coordinate map | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | ✅ Published |
-| **Neural Access Method™ v1.0** (this paper) | Transmission protocol — ACCESS→REFRAME→SIMPLIFY→IGNITE | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | ✅ Published |
+| **Neural Access Method™ v1.0** (this paper) | Transmission protocol — ACCESS→REFRAME→SIMPLIFY→IGNITE | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | ✅ Published |
 | **Cognitive Mage v1.0** | Origin paper — human-AI co-discovery | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | ✅ Published |
 
 ---

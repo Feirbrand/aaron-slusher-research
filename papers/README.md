@@ -10,7 +10,7 @@ A paper folder is created only when the paper is published on Zenodo with a perm
 
 | Paper | Folder | DOI |
 |---|---|---|
-| Neural Access Method™ v1.0 | [`nam/`](./nam/) | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) |
+| Neural Access Method™ v1.0 | [`nam/`](./nam/) | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) |
 
 ## Papers Living Elsewhere
 

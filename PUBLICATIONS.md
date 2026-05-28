@@ -14,7 +14,7 @@ Papers originating from this repository (`aaron-slusher-research`), affiliation:
 
 | Paper | DOI | Date |
 |---|---|---|
-| Neural Access Method™ v1.0 | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | 2026-05-XX |
+| Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-17 |
 
 ---
 

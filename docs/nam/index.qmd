@@ -3,7 +3,7 @@ title: "Neural Access Method™ v1.0: A Transmission Protocol for Adaptive Syste
 subtitle: "Four-step transmission protocol — ACCESS → REFRAME → SIMPLIFY → IGNITE"
 author: "Aaron M. Slusher"
 date: "2026-05-24"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.20420366"
 description: "Neural Access Method™ (NAM) is a transmission protocol for reaching an adaptive system at the point where change is possible — bypassing cortical interference to access intact procedural, emotional, and identity-linked pathways."
 ---
 
@@ -11,7 +11,7 @@ description: "Neural Access Method™ (NAM) is a transmission protocol for reach
 |---|---|
 | **Author** | Aaron M. Slusher |
 | **ORCID** | [0009-0000-9923-3207](https://orcid.org/0009-0000-9923-3207) |
-| **DOI** | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) |
+| **DOI** | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) |
 | **Published** | 2026 |
 | **Version** | 1.0 |
 | **License** | CC BY-NC-ND 4.0 |
@@ -99,7 +99,7 @@ NAM does not provide that anchor. It assumes the practitioner already holds it.
 ## 4. CONCLUSION
 NAM formalizes a transmission pattern that was operating before it had a name. The four steps — ACCESS → REFRAME → SIMPLIFY → IGNITE — describe the mechanism by which correction reaches an adaptive system when the analytical pathway is blocked.
 
-**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+**DOI:** [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366)
 **Author:** Aaron M. Slusher
 **Affiliation:** Independent Researcher
 **Date:** 2026

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Neural Access Method™ v1.0 — Master Bibliography"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.20420366"
 ---
 # Neural Access Method™ v1.0 — Master Bibliography
 **Back to:** [Main Paper](index.html) | [Cross-References](nam-cross-references.html) | [Visualizations](nam-visualizations.html)

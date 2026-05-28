@@ -31,7 +31,7 @@ The work began as a pattern of practice before it became a set of named framewor
 
 ### Neural Access Method™ v1.0
 *Transmission protocol — how to access the system and deliver correction*
-**DOI:** [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) · First paper from this repository · [Read →](methods/neural-access-method/index.qmd)
+**DOI:** [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) · First paper from this repository · [Read →](methods/neural-access-method/index.qmd)
 
 ---
 
@@ -44,7 +44,7 @@ Open-use descriptor · Not trademarked · [Read →](methods/adapted-architectur
 ## Papers
 | Paper | DOI | Status |
 |---|---|---|
-| Neural Access Method™ v1.0 | [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) | Published · [Read →](papers/nam/index.qmd) |
+| Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | Published · [Read →](papers/nam/index.qmd) |
 
 ---
 
