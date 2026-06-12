@@ -70,12 +70,14 @@ In the background: a private R&D hardening layer that protects, tests, and exten
 ## PUBLICATIONS.md Hierarchy
 
 ```
-aaron-slusher-research/PUBLICATIONS.md    ← MASTER (all affiliations)
-  └── synoeticos-public/PUBLICATIONS.md  ← SUBSET (VGS-scoped, points up to master)
-  └── APP repo/PUBLICATIONS.md           ← SUBSET (APP-scoped, points up to master)
+aaron-slusher-research/PUBLICATIONS.md    ← MASTER (the full cross-repo ledger)
+  ├── synoeticos-public/PUBLICATIONS.md   ← self-contained (lists only VGS papers)
+  └── APP repo/PUBLICATIONS.md            ← self-contained (lists only APP papers)
 ```
 
-Edit the master. Treat subsets as views.
+This repo is the hub. Its `PUBLICATIONS.md` is the only ledger that lists every paper across every repo, and it is the only place the ecosystem total is stated.
+
+Each spoke repo keeps its own `PUBLICATIONS.md` listing only its own papers. A spoke ledger is self-contained: it does not reference this master, it does not reference another spoke, and it does not state the ecosystem total. The spoke counts itself; the hub counts everything. This map is maintained here, in the hub — spokes do not carry it.
 
 ---
 
