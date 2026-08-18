@@ -10,7 +10,7 @@ Neuroformation™ is the governing methodology within Neural Formation Architect
 
 The pattern ran unnamed across a lifetime of applied work — military service, physical recovery, combat sport, performance coaching, adaptive athletics, neurotrauma rehabilitation. The same mechanism kept appearing: under sufficient pressure, analytical pathways become blocked, and correction only lands when it routes through what the system has already built. The methodology was named March 14, 2026.
 
-The five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) describes the levels at which formation and fracture occur. Each layer has diagnostic markers. Each layer has access points. The Elevation Grid™ maps position within this architecture. The Neural Access Method™ delivers correction through it.
+The five-layer architecture (Substrate → Signal → Learning → Identity → Purpose) describes the levels at which formation and fracture occur. Each layer has coordinate markers. Each layer has access points. The Elevation Grid™ maps position within this architecture. The Neural Access Method™ delivers correction through it.
 
 ---
 
@@ -31,7 +31,7 @@ Neural Formation Architecture  ← public architecture container
         ↓
 Neuroformation™                ← this methodology (how the system forms)
         ↓
-Elevation Grid™                ← diagnostic (where the system is)
+Elevation Grid™                ← coordinate (where the system is)
         ↓
 Neural Access Method™          ← transmission protocol (how to shift it)
         ↓
@@ -48,7 +48,7 @@ This folder contains the public methodology paper and orientation notes.
 
 Not included here:
 - Private coaching protocols
-- Full diagnostic instrument implementation
+- Full coordinate instrument implementation
 - Operational runbooks
 - Internal training materials
 

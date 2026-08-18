@@ -23,7 +23,7 @@ This applies to:
 
 Adapted Architecture is intentionally available. It is a descriptor, not a product. Anyone working with adaptive systems — rehab clinicians, coaches, teachers, IEP teams, AI safety practitioners, researchers — can use it.
 
-The underlying methodology (how Adapted Architecture is built, diagnosed, and accessed) is Neuroformation™, which is protected. The outcome frame is open.
+The underlying methodology (how Adapted Architecture is built, coordinated, and accessed) is Neuroformation™, which is protected. The outcome frame is open.
 
 ---
 
@@ -34,7 +34,7 @@ Adapted Architecture   ← outcome frame (what the system is building)
         ↑
 Neuroformation™        ← methodology (how it forms and holds)
         ↑
-Elevation Grid™        ← diagnostic (where is the system now)
+Elevation Grid™        ← coordinate (where is the system now)
         ↑
 Neural Access Method™  ← intervention (how to access and shift it)
 ```

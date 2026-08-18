@@ -62,7 +62,7 @@ Some underlying research substrates remain unpublished for safety, IP, and devel
 | Research hub | Aaron Slusher Research | Active |
 | Public architecture container | Neural Formation Architecture | Active |
 | Governing methodology | Neuroformation™ | Published · [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) |
-| Diagnostic map | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
+| Coordinate map | Elevation Grid™ | Published · [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) |
 | Transmission protocol | Neural Access Method™ | Published · [DOI: 10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) |
 | Output state | Adapted Architecture | Open-use descriptor · not trademarked |
 | Bridge / transduction | TTT | Staged public |

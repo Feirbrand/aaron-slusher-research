@@ -6,7 +6,7 @@
 
 ## What It Is
 
-Elevation Grid™ is the diagnostic instrument within Neural Formation Architecture. It maps where an adaptive system currently sits across the five-layer architecture, identifies where formation is holding and where it is breaking, and provides coordinates for intervention.
+Elevation Grid™ is the coordinate instrument within Neural Formation Architecture. It maps where an adaptive system currently sits across the five-layer architecture, identifies where formation is holding and where it is breaking, and provides coordinates for intervention.
 
 The Grid does not prescribe what to do. It tells you where the system is. The Neural Access Method™ uses that location to determine how to reach it.
 
@@ -24,14 +24,14 @@ Aaron M. Slusher · Independent Researcher · February 26, 2026
 
 ## Relationship to Other Methods
 
-Elevation Grid™ is the diagnostic layer of the Neural Formation Architecture stack:
+Elevation Grid™ is the coordinate layer of the Neural Formation Architecture stack:
 
 ```
 Neural Formation Architecture  ← public architecture container
         ↓
 Neuroformation™                ← methodology (how the system forms)
         ↓
-Elevation Grid™                ← this diagnostic (where the system is)
+Elevation Grid™                ← this coordinate (where the system is)
         ↓
 Neural Access Method™          ← transmission protocol (how to shift it)
         ↓
@@ -44,7 +44,7 @@ The Elevation Grid's 3×3 structure maps isomorphically to the Synoetic OS™ 3�
 
 ## Public Scope
 
-This folder contains the public diagnostic framework paper and orientation notes.
+This folder contains the public coordinate framework paper and orientation notes.
 
 Not included here:
 - Full scoring instruments and thresholds

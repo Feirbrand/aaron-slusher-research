@@ -29,7 +29,7 @@ Neural Formation Architecture  ← public architecture container
         ↓
 Neuroformation™                ← methodology (how the system forms)
         ↓
-Elevation Grid™                ← diagnostic (where the system is)
+Elevation Grid™                ← coordinate (where the system is)
         ↓
 Neural Access Method™          ← transmission protocol (how to shift it)
         ↓
