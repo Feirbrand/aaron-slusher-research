@@ -40,7 +40,7 @@ Adapted Architecture           ← output state (what forms when rebuilt)
 
 ## Protected Status
 
-Neural Access Method™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY-NC-ND 4.0) for research use.
+Neural Access Method™ is a claimed common-law mark of Aaron M. Slusher — a transmission protocol, not a methodology. The paper is openly licensed (CC BY-NC-ND 4.0) for research use.
 
 ---
 

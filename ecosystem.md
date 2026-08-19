@@ -59,11 +59,15 @@ In the background: a private R&D hardening layer that protects, tests, and exten
 
 ## Publication Authority
 
-| Paper type | Affiliation | Repo | DOI source |
-|---|---|---|---|
-| Methodology / formation architecture | Independent Researcher | `aaron-slusher-research` | Minted from this repo |
-| AI-resilience / VGS technical | ValorGrid Solutions | `synoeticos-public` | Minted from that repo |
-| APP coaching / field application | APP / Independent | APP repo (future) | Minted from APP repo |
+Affiliation is per-work, not per-repo — a paper's registered Zenodo affiliation depends on which paper it is, not which folder it lives in. `PUBLICATIONS.md` is the authoritative per-work source; do not infer affiliation from repo location.
+
+| Paper type | Repo | DOI source |
+|---|---|---|
+| Methodology / formation architecture | `aaron-slusher-research` | Minted from this repo, or mirrored here from its release repo — see `PUBLICATIONS.md` for each work's actual registered affiliation |
+| AI-resilience / VGS technical | `synoeticos-public` | Minted from that repo |
+| APP coaching / field application | APP repo (future) | Minted from APP repo |
+
+**Note, Aug 18 2026:** this table previously stated a blanket rule — "Methodology / formation architecture → Independent Researcher." That's wrong for at least two of the three NFA-family papers (Neuroformation and Elevation Grid are registered under Achieve Peak Performance, confirmed against the live Zenodo record). NAM is the one genuinely Independent Researcher paper. Affiliation is checked per work in `PUBLICATIONS.md`, never assumed from which repo a paper's README happens to live in.
 
 ---
 
