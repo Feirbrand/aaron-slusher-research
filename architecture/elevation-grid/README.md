@@ -17,7 +17,8 @@ The 3×3 structure maps nine positions across three performance states. Each pos
 ## Canonical Paper
 
 **The Elevation Grid™ v1.1: A Neurobiological Performance Diagnostic Framework**
-Aaron M. Slusher · Independent Researcher · February 26, 2026
+Aaron M. Slusher · February 26, 2026
+<!-- FLAGGED — two sources disagree on this paper's registered affiliation/license. Notion mirror says Achieve Peak Performance/CC BY-NC 4.0. Direct Zenodo API check (Aug 18 2026) says creator affiliation is null, license is CC BY 4.0. Needs a fresh live check before either value is asserted publicly. -->
 [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)
 
 ---
