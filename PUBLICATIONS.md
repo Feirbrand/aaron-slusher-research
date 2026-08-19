@@ -5,7 +5,7 @@
 **Canonical source:** `aaron-slusher-research/PUBLICATIONS.md`
 **VGS subset:** `synoeticos-public/PUBLICATIONS.md` points here
 
-> This is the master. If any other file conflicts with a DOI, title, or date listed here — this file wins.
+> **On disagreement:** a mismatch between this file and a registered publication record (Zenodo, GitHub release) is a **drift incident** — reconcile against the governing release receipt. This file is the master *index*, not an authority that overrides a registered record. *(Corrected Aug 19 2026 — this line previously said "this file wins," which contradicted the Integrity Spine and is exactly the kind of claim that let a stale DOI or title outlive its correction elsewhere.)*
 
 ---
 
@@ -14,16 +14,27 @@
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
-| 19 | Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1.0.md` |
+| 19 | Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 ⚠️ *(`.zenodo.json` says May 17 — unresolved)* | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1.0.md` |
+
+*Version note, unresolved:* registered title says v1.0.1; most local references say v1.0.
 
 ---
 
 ## VGS Applied Research Papers
 *Affiliation: ValorGrid Solutions · Repo: synoeticos-public · License: CC BY-NC 4.0*
 
+**⚠️ Rows 1–2 flagged, Aug 19 2026 — do not treat the section header above as verified for these two specific papers.** This blanket header was written for the section, not checked per-paper. A live Zenodo API check (Independent Audit Report, Aug 18 2026) came back different for both:
+
+| # | Paper | DOI | Section says | Live Zenodo API check says |
+|---|---|---|---|---|
+| 1 | Neuroformation™ | zenodo.19197818 | ValorGrid Solutions / CC BY-NC 4.0 | Creator affiliation: **Achieve Peak Performance**. License: **CC BY-NC 4.0** (matches) |
+| 2 | The Elevation Grid | zenodo.18790842 | ValorGrid Solutions / CC BY-NC 4.0 | Creator affiliation: **null**. License: **CC BY 4.0**, no NC (does not match) |
+
+Three sources now disagree on Neuroformation/Elevation Grid affiliation across this session: this file (ValorGrid Solutions), this project's Hard Stop #20 / Notion mirror (Achieve Peak Performance), and the live API check (Achieve Peak Performance for Neuroformation, null for Elevation Grid). It's possible "Affiliation" in this ledger's section header means *which brand/repo claims the paper* rather than the literal Zenodo creator-affiliation field, which would make this a labeling ambiguity rather than a true conflict — but that's a guess, not confirmed. **Needs Aaron's ruling on what this column means before either row is asserted as correct.**
+
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
-| 1 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 2026-03-24 | neuroformation · adaptive systems · five-layer architecture · cross-substrate · resilience · March 14 2026 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
+| 1 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 2026-03-24 ⚠️ *(paper's own byline says March 23 — 1-day gap, unresolved)* | neuroformation · adaptive systems · five-layer architecture · cross-substrate · resilience · March 14 2026 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
 | 2 | The Elevation Grid v1.1: A Neurobiological Framework for High-Stakes Performance | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 2026-02-26 | elevation grid · diagnostic · 3×3 matrix · performance · neurobiological · adaptive systems | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
 | 3 | Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) | 2026-02-26 | memory breathing · bio-inspired · AI memory · context management · rhythm | `whitepapers/vgs-technical-papers/mbm-v1.0-academic.md` |
 | 4 | PME v1.0: Predictive Myelination Engine | [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485) | 2026-01-20 | PME · predictive · myelination · 712× acceleration · drift elimination | `whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md` |
@@ -42,13 +53,15 @@
 | 17 | FCE Unified Framework v3.6 | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) | 2025-10-10 | FCE · fractal context engineering · compression · 4-6× · deploy | `whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md` |
 | 18 | URA v1.5: Unified Resilience Architecture | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | 2025-10-10 | URA · unified resilience · five-layer defense · recover | `whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md` |
 
+*Rows 3–18 unaffected by the flag above — only Neuroformation and Elevation Grid (rows 1–2) have a documented cross-source disagreement this session.*
+
 ---
 
 ## In Preparation
 
 | Paper | Target Repo | Target Affiliation | Notes |
 |---|---|---|---|
-| TTT v1.0 — Tacit-to-Technical Transduction™ | aaron-slusher-research | Independent Researcher | Staged public — named in Issue 3 |
+| TTT v1.0 — Tacit-to-Technical Transduction™ | aaron-slusher-research | Independent Researcher | Staged public — named in Issue 3. `cross-substrate/ttt/README.md` exists — confirmed Aug 19 2026 against Aaron's real uploaded file. |
 
 ---
 
@@ -74,12 +87,12 @@ Slusher, A. M. (Year). Title. Affiliation. https://doi.org/10.5281/zenodo.[ID]
 
 ## Rules
 
-- This file is the master. All subsets point here.
+- This file is the master index. All subsets point here. It does not override a registered publication record on conflict — see the note at the top.
 - Never hardcode DOIs from memory — verify against this file.
 - Neuroformation™ canonical DOI: `10.5281/zenodo.19197818` (not 19197791 — superseded)
-- Paper count as of May 27 2026: **19**
+- Current paper count: see the **Ground Truth Ledger** (live source) rather than a hardcoded number here — the last count recorded there was 19 as of Aug 18 2026, but a hardcoded snapshot in this file is exactly the kind of number that goes stale silently.
 - Next paper routing: check The Manifest before assigning repo/affiliation
 
 ---
 
-*Last updated: June 11 2026 · Aaron M. Slusher · ORCID 0009-0000-9923-3207*
+*Last updated: Aug 19 2026 · Aaron M. Slusher · ORCID 0009-0000-9923-3207*

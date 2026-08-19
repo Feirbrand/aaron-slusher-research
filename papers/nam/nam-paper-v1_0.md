@@ -732,9 +732,9 @@ Slusher, A. M. (2025a). *Cognitive Mage v1.0: Human-AI recursive discovery archi
 
 Slusher, A. M. (2025d). *Mythopoeic Intelligence Agents v1.0: UNICA cross-domain validation*. ValorGrid Solutions Technical Reports. https://doi.org/10.5281/zenodo.17770533
 
-Slusher, A. M. (2026a). *Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations*. Achieve Peak Performance. https://doi.org/10.5281/zenodo.18489565
+Slusher, A. M. (2026a). *Elevation Grid™ v1.1: A field-developed framework for high-stakes performance across adaptive and elite populations*. Achieve Peak Performance. https://doi.org/10.5281/zenodo.18790842
 
-Slusher, A. M. (2026b). *Neuroformation™ v1.0: A methodology for building resilience in adaptive systems*. Achieve Peak Performance. https://doi.org/10.5281/zenodo.19197791
+Slusher, A. M. (2026b). *Neuroformation™ v1.0: A methodology for building resilience in adaptive systems*. Achieve Peak Performance. https://doi.org/10.5281/zenodo.19197818
 
 Slusher, A. M. (2026c). *Memory Breathing Methodology (MBM) v1.0: Bio-inspired AI memory management through rhythmic consolidation*. ValorGrid Solutions. https://doi.org/10.5281/zenodo.18790096
 

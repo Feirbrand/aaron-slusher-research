@@ -102,8 +102,8 @@ Citations from outside the coaching/performance domain that independently confir
 
 | Key | Title | DOI | Status |
 |---|---|---|---|
-| Slusher, 2026a | Elevation Grid™ v1.1 | 10.5281/zenodo.18489565 | Published ✅ |
-| Slusher, 2026b | Neuroformation™ v1.0 | 10.5281/zenodo.19197791 | Published ✅ |
+| Slusher, 2026a | Elevation Grid™ v1.1 | 10.5281/zenodo.18790842 | Published ✅ |
+| Slusher, 2026b | Neuroformation™ v1.0 | 10.5281/zenodo.19197818 | Published ✅ |
 | Slusher, 2026c | Memory Breathing Methodology v1.0 | 10.5281/zenodo.18790096 | Published ✅ |
 | Slusher, 2025a | Cognitive Mage v1.0 | 10.5281/zenodo.17643267 | Published ✅ |
 | Slusher, 2025d | Mythopoeic Intelligence Agents v1.0 | 10.5281/zenodo.17770533 | Published ✅ |
@@ -162,3 +162,4 @@ These are areas where NAM makes a claim that is not directly supported by a sing
 *Reference Audit v1.0 — May 22, 2026*
 *Companion to NAM v1.0 paper*
 *Corrections verified against arXiv, PubMed, and publisher DOI records*
+*DOI corrections applied August 18, 2026 — see repo-level DOI registry note*
