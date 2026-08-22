@@ -5,7 +5,7 @@ title: "Neural Access Method™"
 
 # Neural Access Method™
 
-**Paper in preparation.**
+**Published.** Read the [full Neural Access Method™ paper](../../nam/index.qmd) · [DOI: 10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366).
 
 ---
 

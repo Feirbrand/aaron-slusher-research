@@ -18,7 +18,7 @@ Neuroformation™ is the core methodology for how an adaptive system forms and h
 ## Canonical Paper
 
 **Neuroformation™ v1.0: A Unified Theory of Adaptive System Architecture**  
-Aaron M. Slusher · ValorGrid Solutions · March 15, 2026  
+Aaron M. Slusher · Achieve Peak Performance · March 15, 2026
 [DOI: 10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818)
 
 ---
