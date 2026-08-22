@@ -21,16 +21,14 @@
 ---
 
 ## VGS Applied Research Papers
-*Affiliation: ValorGrid Solutions · Repo: synoeticos-public · License: CC BY-NC 4.0*
+*Repo: synoeticos-public · Affiliation and license are per-work — see each row below, sourced from the live Zenodo record. Do not assume a blanket affiliation for this section.*
 
-**⚠️ Rows 1–2 flagged, Aug 19 2026 — do not treat the section header above as verified for these two specific papers.** This blanket header was written for the section, not checked per-paper. A live Zenodo API check (Independent Audit Report, Aug 18 2026) came back different for both:
-
-| # | Paper | DOI | Section says | Live Zenodo API check says |
+| # | Work | DOI | Registered Affiliation | License |
 |---|---|---|---|---|
-| 1 | Neuroformation™ | zenodo.19197818 | ValorGrid Solutions / CC BY-NC 4.0 | Creator affiliation: **Achieve Peak Performance**. License: **CC BY-NC 4.0** (matches) |
-| 2 | The Elevation Grid | zenodo.18790842 | ValorGrid Solutions / CC BY-NC 4.0 | Creator affiliation: **null**. License: **CC BY 4.0**, no NC (does not match) |
+| 1 | Neuroformation™ | zenodo.19197818 | Achieve Peak Performance | CC BY-NC 4.0 |
+| 2 | The Elevation Grid™ | zenodo.18790842 | *null — not registered to an organization* | CC BY 4.0 (no NC) |
 
-Three sources now disagree on Neuroformation/Elevation Grid affiliation across this session: this file (ValorGrid Solutions), this project's Hard Stop #20 / Notion mirror (Achieve Peak Performance), and the live API check (Achieve Peak Performance for Neuroformation, null for Elevation Grid). It's possible "Affiliation" in this ledger's section header means *which brand/repo claims the paper* rather than the literal Zenodo creator-affiliation field, which would make this a labeling ambiguity rather than a true conflict — but that's a guess, not confirmed. **Needs Aaron's ruling on what this column means before either row is asserted as correct.**
+**Resolved Aug 22 2026:** “Affiliation” in this ledger is the registered Zenodo creator-affiliation field, not a brand or repo claim. Neuroformation and Elevation Grid keep their own independently registered values (rows above); neither is asserted as “ValorGrid Solutions.” Per `MSG-ALL-EG-SCOPE-01`, Elevation Grid is a universal cross-substrate architecture inside NFA — APP is provenance, not ownership — so its `null` affiliation is expected, not an error, and stays as minted.
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|

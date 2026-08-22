@@ -14,4 +14,4 @@ A paper folder is created only when the paper is published on Zenodo with a perm
 
 ## Papers Living Elsewhere
 
-Papers published under the ValorGrid Solutions affiliation (including Neuroformation™, Elevation Grid™, and 16 other DOI-backed papers) live at [synoeticos-public](https://github.com/Feirbrand/synoeticos-public). They are listed in this repository's master [PUBLICATIONS.md](../PUBLICATIONS.md) for the complete cross-affiliation record.
+Papers published from the [synoeticos-public](https://github.com/Feirbrand/synoeticos-public) repo (including Neuroformation™, Elevation Grid™, and 16 other DOI-backed papers) live there. They are listed in this repository's master [PUBLICATIONS.md](../PUBLICATIONS.md) for the complete cross-affiliation record — affiliation is per-work, not uniform across the repo, so check there rather than assuming from repo location.

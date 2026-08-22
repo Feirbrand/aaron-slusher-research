@@ -67,7 +67,7 @@ Affiliation is per-work, not per-repo — a paper's registered Zenodo affiliatio
 | AI-resilience / VGS technical | `synoeticos-public` | Minted from that repo |
 | APP coaching / field application | APP repo (future) | Minted from APP repo |
 
-**Note, Aug 18 2026:** this table previously stated a blanket rule — "Methodology / formation architecture → Independent Researcher." That's wrong for at least two of the three NFA-family papers (Neuroformation and Elevation Grid are registered under Achieve Peak Performance, confirmed against the live Zenodo record). NAM is the one genuinely Independent Researcher paper. Affiliation is checked per work in `PUBLICATIONS.md`, never assumed from which repo a paper's README happens to live in.
+**Note, Aug 18 2026, corrected Aug 22 2026:** this table previously stated a blanket rule — "Methodology / formation architecture → Independent Researcher." That's wrong for Neuroformation, registered under Achieve Peak Performance per the live Zenodo record. Elevation Grid's registered creator affiliation is **null** (license CC BY 4.0, no NC) — correcting this note's earlier claim that it also reads Achieve Peak Performance. NAM is the one genuinely Independent Researcher paper. Affiliation is checked per work in `PUBLICATIONS.md`, never assumed from repo location or brand positioning (see `MSG-ALL-EG-SCOPE-01`: APP applies Elevation Grid to human performance; Elevation Grid is not itself an APP framework).
 
 ---
 
