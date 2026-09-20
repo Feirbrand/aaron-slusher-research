@@ -32,7 +32,7 @@
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
-| 1 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 2026-03-24 ⚠️ *(paper's own byline says March 23 — 1-day gap, unresolved)* | neuroformation · adaptive systems · five-layer architecture · cross-substrate · resilience · March 14 2026 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
+| 1 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 2026-03-24 | neuroformation · adaptive systems · five-layer architecture · cross-substrate · resilience · March 14 2026 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
 | 2 | The Elevation Grid v1.1: A Neurobiological Framework for High-Stakes Performance | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 2026-02-26 | elevation grid · diagnostic · 3×3 matrix · performance · neurobiological · adaptive systems | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
 | 3 | Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) | 2026-02-26 | memory breathing · bio-inspired · AI memory · context management · rhythm | `whitepapers/vgs-technical-papers/mbm-v1.0-academic.md` |
 | 4 | PME v1.0: Predictive Myelination Engine | [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485) | 2026-01-20 | PME · predictive · myelination · 712× acceleration · drift elimination | `whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md` |
