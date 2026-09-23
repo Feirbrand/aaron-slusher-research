@@ -19,7 +19,7 @@ Observed directly in coaching — verbal reassurance ("you can do this") reliabl
 ## Evidence base
 
 - Bandura, Adams & Beyer (1977, *J. Pers. Soc. Psychol.*, DOI 10.1037/0022-3514.35.3.125) — mastery-based treatment produced stronger and more generalized self-efficacy expectations than treatment based on vicarious experience alone.
-- Model-based meta-analysis (N=8,965, DOI 10.1177/1745691617739708) — performance accomplishments had by far the strongest unique association with self-efficacy, compared to other sources of efficacy information.
+- Model-based meta-analysis (N=8,965, DOI 10.1037/cou0000219) — performance accomplishments had by far the strongest unique association with self-efficacy, compared to other sources of efficacy information.
 - Talsma et al. (2018, DOI 10.1016/j.lindif.2017.11.015) — reciprocal relationship: performance and self-efficacy update each other over time, not a one-way effect.
 
 **Boundary, stated explicitly rather than blurred:** this evidence base supports mastery/performance experience updating self-efficacy and capability beliefs — a well-established, specific finding. It does not establish that embodied proof updates *identity* more broadly. That broader claim remains Aaron's practitioner interpretation, kept separate below, not scientific fact until identity-change literature is separately sourced.
