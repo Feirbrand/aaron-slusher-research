@@ -25,7 +25,7 @@ The framework names a translation problem between practice-derived judgment and 
 - Polanyi (1966) introduced the influential formulation that people can know more than they can tell.
 - Collins (2010) distinguishes relational, somatic, and collective forms of tacit knowledge.
 - Nonaka (1994, *Organization Science*, DOI 10.1287/orsc.5.1.14) describes organizational knowledge creation as continuous interaction between tacit and explicit knowledge.
-- Dennett (1991, “Real Patterns,” *The Journal of Philosophy*, DOI 10.2307/2027085) motivates a philosophical criterion of efficient description with predictive leverage. The NFA review rubric—compress, predict, route, transfer, and constrain—is a practitioner-developed adaptation, not a test enumerated by Dennett.
+- Dennett (1991, “Real Patterns,” *The Journal of Philosophy*, DOI 10.2307/2027085) motivates a philosophical criterion of efficient description with predictive leverage. The article does not enumerate a particular applied test.
 - Zhang and Levin (2026, arXiv:2605.16321, unreviewed preprint) propose and evaluate a language-game framework using frozen-parameter dynamical-system reservoirs, including gene-regulatory-network models, in reinforcement-learning tasks. It is an adjacent formal analogy, not validation that AI faithfully transduces practitioner knowledge or evidence of communication with living biological systems.
 
 **Historical illustration, not evidence for a general mechanism:**
@@ -59,8 +59,6 @@ TTT is most relevant when a practitioner has sustained, repeated, real-stakes ex
 **AI-assisted formalization:** structured collaboration can turn practitioner judgment into an inspectable representation while keeping the practitioner judgment distinct from the system used to formalize it.
 
 **Knowledge elicitation:** the Critical Decision Method provides a public methodological precedent for eliciting expert cues and decision strategies.
-
-No client or session information is included in this chapter.
 
 ## Relationship map
 
