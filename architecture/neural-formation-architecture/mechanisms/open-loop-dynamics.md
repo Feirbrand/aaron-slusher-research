@@ -6,38 +6,40 @@
 
 ## What it explains
 
-How a signal that enters without completing its feedback cycle keeps consuming routing capacity until the loop closes.
+How unresolved goals can remain cognitively active and interfere with unrelated activity until they receive a defined form of closure.
 
 ## Definition
 
-An unresolved task, unanswered question, or incomplete action doesn't just sit passively — it actively consumes cognitive bandwidth and keeps generating its own routing signals until it's closed. Closure can take more than one form — completing the task, but also making a specific, concrete plan for it (functional closure without literal completion), reframing, or delegation. What stops the drain is closure in this broader sense, not resolution in the ideal sense specifically.
+An unresolved task, unanswered question, or incomplete action can remain cognitively active rather than sitting passively in the background. In the experimental contexts reviewed below, formulating a specific plan can reduce measured interference without literal task completion. NFA treats this as one form of functional closure. Equivalent effects of reframing or delegation are not established by the cited studies.
 
 ## Evidence base
 
-An earlier version of this section described the Zeigarnik effect as one of psychology's most replicated findings. That's not accurate as currently understood: Ghibellini & Meier's 2025 meta-analysis found the classic Zeigarnik memory advantage for unfinished tasks does not reliably generalize. What *is* robust is a related but distinct finding — the Ovsiankina resumption effect (the drive to go back and finish an interrupted task), which is not the same claim as "you remember unfinished tasks better."
+- Masicampo and Baumeister (2011a, *Journal of Personality and Social Psychology*, DOI 10.1037/a0024192) found that unfulfilled goals could produce intrusive thoughts and impair unrelated task performance. In their planning studies, formulating a specific plan eliminated the measured activation and interference effects.
+- Masicampo and Baumeister (2011b, *Journal of Experimental Social Psychology*, DOI 10.1016/j.jesp.2010.10.011) reported interference from unfulfilled goals specifically on executive-function-demanding tasks.
+- Syrek et al. (2017, *Journal of Occupational Health Psychology*, DOI 10.1037/ocp0000031) found unfinished work tasks were associated with affective rumination and impaired weekend sleep in a 12-week diary design.
+- Ghibellini and Meier (2025, *Humanities and Social Sciences Communications*, DOI 10.1057/s41599-025-05000-w) found a general tendency to resume interrupted tasks, whereas the Zeigarnik memory effect lacked universal validity.
 
-- Masicampo & Baumeister (2011a, *J. Pers. Soc. Psychol.*, DOI 10.1037/a0024192) — unfulfilled goals produced intrusive thoughts and impaired performance on unrelated tasks; making a specific plan eliminated those effects.
-- Masicampo & Baumeister (2011b, *J. Exp. Soc. Psychol.*, DOI 10.1016/j.jesp.2010.10.011) — unfulfilled goals interfered specifically with executive-function tasks.
-- Syrek et al. (2017, DOI 10.1037/ocp0000031) — unfinished work tasks linked to rumination and impaired sleep/recovery.
-- Ghibellini & Meier (2025 meta-analysis) — the corrective source: no general Zeigarnik memory advantage, but the Ovsiankina resumption tendency is considerably more robust.
+## Evidence limits
+
+The cited studies distinguish intrusive thought, executive-function interference, sleep-related rumination, and resumption tendency. They do not establish a universal amount of cognitive capacity consumed, a prediction rule for which unresolved goals will be most disruptive, or equivalent effects for every proposed form of closure.
 
 ## Claim ceiling
 
-**Warranted:** unfulfilled goals can remain cognitively active, intrude on unrelated thought, and impair some executive-function tasks — and concrete planning, not only completion, can eliminate that interference.
+**Supported in the cited study settings:** unfulfilled goals can remain cognitively active, intrude on unrelated thought, and interfere with some executive-function-demanding tasks. Specific planning eliminated the measured effects in the Masicampo and Baumeister planning studies.
 
-**Not warranted:** a general memory advantage for unfinished tasks (the original Zeigarnik claim) — that specific effect does not reliably replicate. Also not warranted: a precise account of exactly how much capacity a given open loop consumes, or a validated method for predicting which loops will drain most.
+**Not supported:** a general memory advantage for unfinished tasks, a universal capacity-drain measure, or an evidence-based claim that reframing and delegation produce the same closure effect as a specific plan.
 
 ## Boundary conditions
 
-Applies to genuinely unresolved tasks the system still tracks as open. Does not apply once a loop reaches functional closure — which includes making a specific plan, not only literal completion, reframing, or delegation. Would be undermined if planning/closure showed no relationship to the interference and resumption effects at all.
+The model applies to goals that a person continues to represent as unresolved. It should not treat literal completion, specific planning, reframing, and delegation as empirically interchangeable without additional evidence.
 
 ## How it appears in practice
 
-Deliberately closing loops (a conditioned sleep routine despite not wanting to stop working) as self-directed intervention — further practitioner-floor detail not yet included.
+The chapter includes no practitioner-floor or case-level example. It proposes that deliberate planning can be considered when an unresolved goal is associated with interference.
 
-## Related mechanisms
+## Relationship map
 
-Witness / Metacognitive Regulation — deliberately closing a loop is an act of Witness directing attention rather than letting it run open by default.
+**Within the NFA framework:** Witness / Metacognitive Regulation concerns directing attention deliberately rather than allowing an unresolved goal to dominate it by default.
 
 ---
 
