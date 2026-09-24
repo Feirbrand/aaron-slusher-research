@@ -6,43 +6,45 @@
 
 ## What it explains
 
-How stable maladaptive states form, self-reinforce, and feel justified from inside them.
+How stable maladaptive patterns can become self-reinforcing and difficult to revise.
 
 ## Definition
 
-A system can settle into a pattern that is stable, self-reinforcing, and subjectively feels correct — while being maladaptive by any outside measure. The stability and the felt-rightness are the problem: nothing from inside the state signals that it needs to change, because the state's own logic is self-consistent.
+False Attractor Formation is an NFA model for a pattern that becomes stable and self-reinforcing while remaining maladaptive by an external measure. The framework distinguishes this stability from the further interpretation that the pattern feels justified from within it.
 
 ## Origin and provenance
 
-Observed in coaching as compensation patterns that harden into identity ("I've always been like this") and resist correction precisely because they've stopped feeling like a workaround and started feeling like truth.
+This practitioner-developed mechanism distinguishes stable maladaptive configurations from ordinary repetition. It treats subjective felt-rightness as a separate interpretive question rather than as a property established by the cited scientific literature.
 
 ## Evidence base
 
-- Yuan et al. (2026, *Neuron*, DOI 10.1016/j.neuron.2026.04.009) — depression explicitly modeled as a stable, self-reinforcing pathological attractor state driven by maladaptive plasticity. Strikingly close structural language to this mechanism's own framing.
-- van de Leemput et al. (2014, *PNAS*, DOI 10.1073/pnas.1312114110) — evidence consistent with alternative stable mood states, tipping points, and reinforcing symptom feedback loops.
-- Rolls (2021, *Translational Psychiatry*) — reviews attractor cortical neurodynamics in depression and schizophrenia.
+- Yuan et al. (2026, *Neuron*, DOI 10.1016/j.neuron.2026.04.009) review and conceptualize major depressive disorder as a pathological attractor: a stable, self-reinforcing network configuration associated with maladaptive plasticity.
+- van de Leemput et al. (2014, *Proceedings of the National Academy of Sciences*, DOI 10.1073/pnas.1312114110) report evidence consistent with alternative stable mood states, tipping points, and reinforcing symptom-feedback loops.
+- Rolls (2021, *Translational Psychiatry*, DOI 10.1038/s41398-021-01333-7) reviews cortical attractor-network accounts relevant to depression and schizophrenia.
 
-**Boundary, stated explicitly:** these three sources establish stability and self-reinforcement — a system settling into and maintaining a maladaptive configuration. They do not by themselves establish the specific "feels justified from inside it" property this mechanism also claims. That felt-rightness quality remains a practitioner-observed addition to the stability finding, not yet independently evidenced — the two claims are kept separate rather than treated as one validated package.
+## Evidence limits
 
-A METR study (AI governance-routing, May 2026) is retained as a cross-substrate structural parallel, held at that strength only.
+These sources provide empirical evidence and theoretical accounts consistent with stable, self-reinforcing mood or network configurations. They do not establish the full NFA definition, prove that all maladaptive states actively resist correction, or establish the phenomenological claim that a state feels correct or justified from within.
 
 ## Claim ceiling
 
-**Science-supported:** self-reinforcing maladaptive states that actively resist correction are real and well-evidenced, including a directly analogous AI-system instance (METR).
+**Supported at limited scope:** dynamical-systems and circuit-neuroscience literature supports attractor-based accounts of stable and self-reinforcing maladaptive configurations.
 
-**Practitioner extension, kept explicit:** the specific quality of feeling correct/justified from inside the state is Aaron's own observed addition — consistent with the stability literature, but not independently established by it.
+**NFA interpretation:** felt-rightness is a proposed feature that may make a stable maladaptive pattern harder to revise. It is not presented here as independently established evidence.
 
 ## Boundary conditions
 
-Applies to stable, self-reinforcing patterns specifically — not to every maladaptive behavior, many of which the person already recognizes as unwanted. Would be undermined if "stability + felt-rightness" turned out not to distinguish this from ordinary habit in any measurable way.
+The mechanism applies to stable, self-reinforcing patterns rather than every unwanted behavior. It would need revision if stability and difficulty of revision did not distinguish the proposed pattern from ordinary habit in measurable ways.
 
 ## How it appears in practice
 
-**AI systems:** the METR governance-routing finding. **Human performance:** practitioner-floor detail not yet included — known gap.
+This chapter provides no case-level illustrations. The framework proposes that the relevant distinction is a pattern's stability and resistance to revision, not simply its repetition.
 
-## Related mechanisms
+## Relationship map
 
-Witness / Metacognitive Regulation — sustained Witness failure is a documented pathway into this state. Habit Route Reinforcement — a related but distinct mechanism (see Evidence base).
+**Habit Route Reinforcement** — repeated routes and stable maladaptive configurations are related but distinct NFA concepts.
+
+**Witness / Metacognitive Regulation** — within the NFA model, reduced metacognitive monitoring may make a stable maladaptive pattern harder to revise.
 
 ---
 
