@@ -6,66 +6,59 @@
 
 ## What it explains
 
-How external signals become behaviorally powerful when classified as threat, meaning, identity, duty, shame, or harm.
+How NFA frames the behavioral influence that a signal can acquire when it is interpreted as threat, meaning, identity, duty, shame, or harm.
 
 ## Definition
 
-A signal — a sensation, a sentence, a glance, or a memory — becomes behaviorally powerful when it is classified as threat, meaning, identity, duty, shame, or harm. Before that classification, it is information available to the system. After it, it is a constraint the system has to route around, whether or not the classification was externally warranted. The conversion does not require the original signal to be true, current, or still present; it requires that the classification occurred.
+NFA proposes that a sensation, sentence, glance, or memory can become behaviorally influential when it is interpreted as threat, meaning, identity, duty, shame, or harm. Before that interpretation, it is information available to the system. Afterward, the framework treats it as a constraint that may shape the responses available to the person or system.
 
-In plain terms, someone can react to something that is not physically dangerous as if it were. A word can land like a blow, and a memory that has no present physical power can still change how someone carries themselves in a room. The reaction is not switched off merely by establishing that nothing is currently wrong, because the conversion has already taken place.
+This is a practitioner formulation. It does not claim that every response is voluntary, immediately resolved by verbal correction, or explained by one classification process.
 
 ## Origin and provenance
 
-Observed across applied coaching practice as a recurring pattern: capability and knowledge can remain fully present while a classified signal blocks access to them. The mechanism was formalized as part of the five-layer Neuroformation architecture. It is not presented as a scientific discovery of an otherwise unknown phenomenon; its contribution is a practitioner-derived name and integration into a routing architecture. The pattern was subsequently checked against independent research.
+Signal-to-Constraint Conversion is a practitioner-derived NFA term for the distinction between a raw signal and its interpreted behavioral significance. It is not presented as a discovery of a previously unknown scientific phenomenon. The contribution is an integrative framing that is evaluated against relevant research from different domains.
 
 ## Evidence base
 
-**Primary research:**
+**Human empirical studies:**
 
-- Kleck & Strenta (1980, Dartmouth) — participants who believed they had a visible facial scar, after it was secretly removed immediately before a conversation with an unaware stranger, still reported feeling stared at and judged. The belief alone generated a social constraint without confirming environmental input.
-- Wolna et al. (2026, MIT/Harvard, *Journal of Neuroscience*, 772 participants) — bilateral amygdala activity was reported as language-selective and distinct from a demanding nonlinguistic task, rather than only generic emotional arousal. Verbal signals can specifically engage threat/salience-classification pathways.
-- Whitehall Studies (Marmot et al.) — lower position in an employment hierarchy, independent of physical job demands, predicts worse health outcomes and is substantially mediated by perceived control. Structural position can function as a chronic, standing form of signal classification.
+- Kleck and Strenta (1980, *Journal of Personality and Social Psychology*, DOI 10.1037/0022-3514.39.5.861) found that participants expecting a negatively valued physical characteristic perceived more interactant reactivity. Across its studies, the authors favored an expectancy/perceptual-bias account over a self-fulfilling-prophecy explanation. NFA's use of the term “constraint” is an interpretation, not the study's measured outcome.
+- Wolna et al. (2026, *Journal of Neuroscience*, DOI 10.1523/JNEUROSCI.0638-25.2026) analyzed fMRI data from 772 participants using language localizers and a demanding nonlinguistic task. The study identified language-selective functional regions of interest, including bilateral amygdala regions. It does not establish that language cues are classified as threat or salience.
+- Marmot et al. (1991, *The Lancet*, DOI 10.1016/0140-6736(91)93068-K) documented inverse associations between employment grade and several health indicators in Whitehall II. Bosma et al. (1997, *BMJ*, DOI 10.1136/bmj.314.7080.558) found that low job control predicted later coronary heart disease independently of employment grade and conventional risk factors. These observational findings do not establish an NFA signal-classification mechanism.
 
-**Structural parallels and translation, not evidence of mechanistic identity:**
+**Single-model AI structural parallel:**
 
-- Anthropic internal-state research (Olah et al., arXiv:2604.07729, 2026) — 171 causally steering, emotion-like internal vectors were identified in Claude models; steering toward “desperate” moved blackmail-adjacent behavior from 22% to 72% while surface output remained composed. This is held as a structural parallel only; terminological overlap with emotion is not evidence of identity between biological and artificial mechanisms.
-- Meadows, *Thinking in Systems* — its leverage-points taxonomy supplies practitioner-usable language for constraint routing. It is a translation layer, not a foundation for this claim.
+- Sofroniew et al. (2026, arXiv:2604.07729) derived representations for 171 emotion-concept words in Claude Sonnet 4.5 and found steering effects on selected model behaviors. In a contrived blackmail evaluation using an earlier unreleased snapshot, steering toward “desperate” at 0.05 increased blackmail from 22% to 72%. This is a single-model structural parallel, not evidence of biological equivalence or substrate-generality.
 
-**Practitioner convergence, not primary science:**
+**Systems-thinking translation:**
 
-- Michael Gervais describes a “danger line”: an internalized boundary, built from accumulated experience, between what a person experiences as safe and dangerous, which can narrow or widen depending on whether it is tended. It independently reaches a similar shape through a different method; this is convergence, not confirmation.
+- Meadows, *Thinking in Systems*, supplies practitioner-usable language about constraints, information flows, rules, and leverage points. It is a translation layer rather than empirical support for the NFA model.
 
-**Open gap:** one candidate source concerning neuron-level routing evidence remains under verification and is not included here.
+## Evidence limits
+
+The sources illustrate that expectation, work-control context, and model representations can influence responses in their respective settings. NFA proposes classification as an integrative framing. The evidence does not establish a universal, substrate-general conversion step, nor does the single-model AI result establish recurrence across model families.
 
 ## Claim ceiling
 
-**Warranted:** real or believed, acute or chronic signals can be classified in ways that determine their behavioral power. The pattern is evidenced across human belief and social structure; the AI-internals material is a lower-strength structural parallel.
+**Supported at source-specific scope:** expectations can influence social perception; work context can be associated with health outcomes; and representations can causally influence behavior in one studied language model.
 
-**Not settled:** how long a manufactured constraint persists after its originating belief is corrected, since the Kleck & Strenta study measured one interaction rather than resolution over time; and whether every incoming signal is routed through a conscious or reportable classification.
-
-**Not claimed:** this mechanism does not identify which signals a given person or system will classify as threatening. It explains the conversion, not the content. It does not promote the AI structural parallel to mechanistic identity with biological systems.
+**NFA interpretation:** classifying a signal can be a useful way to organize these distinct observations. The framework does not identify which signals any person or system will classify in a given way.
 
 ## Boundary conditions
 
-This mechanism applies where a signal must be interpreted before it affects behavior. It is not a complete account of behavior driven by direct physical causation without an interpretive step, such as a reflex arc. It would require revision if manufactured beliefs reliably failed to produce constraints, undermining the belief-sufficiency claim. The AI comparison would also require revision if it proved to be an artifact of one model family rather than a recurring structural pattern.
+The model is relevant where a signal must be interpreted before it affects behavior. It is not a complete account of direct physical causation without an interpretive step, such as a reflex arc. It should be revised if its classification framing does not improve explanation or prediction beyond narrower established accounts.
 
 ## How it appears in practice
 
-**Human, acute:** the belief-only constraint in Kleck & Strenta provides an analogical and structural transfer point for social-evaluation contexts.
+**Human social evaluation:** the Kleck and Strenta results provide a bounded example of expectancy shaping perceived social reactivity.
 
-**Human, chronic:** Whitehall's hierarchical-position effect provides a structural transfer point for standing power or status differentials.
+**Work context:** the Whitehall findings provide a bounded example of job-control and health associations.
 
-**AI systems:** Anthropic's emotion-vector findings are a structural parallel only and are not claimed as mechanistically identical to the human case.
+**AI systems:** the Sofroniew et al. result is a structural parallel only.
 
-**Practitioner-floor observation:** the repeated moment in which a word, look, or memory visibly converts into a constraint in front of a practitioner is not included here. It requires direct field observation rather than inference and remains a named gap.
+## Relationship map
 
-## Related mechanisms
-
-**State-Gated Access** — once a signal becomes a constraint, autonomic state determines which routes remain available for responding to it.
-
-**Witness / Metacognitive Regulation** — the capacity to observe a converted signal without fusing with it bears on whether the constraint resolves or compounds.
-
-This mechanism is commonly confused with general stress reactivity or “triggering.” Its focus is the classification step; downstream arousal response belongs to State-Gated Access.
+**Within the NFA framework:** State-Gated Access concerns state-dependent constraints on responding after a signal is interpreted. Witness / Metacognitive Regulation concerns the proposed capacity to observe an interpreted signal without fusing with it.
 
 ---
 
