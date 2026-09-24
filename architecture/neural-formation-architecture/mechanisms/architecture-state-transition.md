@@ -6,54 +6,50 @@
 
 ## What it explains
 
-How systems move between Fragile → Robust → Resilient → Antifragile → Adapted → Elevated.
+Movement between Fragile → Robust → Resilient → Antifragile → Adapted → Elevated: the practitioner-developed developmental sequence used in NFA to describe how a system responds to repeated load.
 
 ## Definition
 
-A system's structural state under pressure is not fixed. It can move along a developmental sequence as it repeatedly encounters and processes load. Fragile systems degrade under stress and do not recover in the same way. Robust systems resist stress but do not improve from it. Resilient systems recover to baseline. Antifragile systems improve because of stress. Adapted and Elevated describe structures built from, and then operating beyond, what present constraints alone would produce.
+Within this practitioner-developed taxonomy, a system's structural state under pressure is not fixed. It may move along a sequence as it repeatedly encounters and processes load. Fragile systems degrade under stress and do not recover in the same way. Robust systems resist stress but do not improve from it. Resilient systems recover to baseline. Antifragile systems improve because of stress. Adapted and Elevated describe structures built from, and then operating beyond, what present constraints alone would produce.
 
-Exposure to load alone does not guarantee movement between states. Movement depends on whether the system's actual mechanisms, rather than simply more experience, activate correctly.
+Exposure to load alone does not guarantee movement between states. NFA proposes that movement depends on which mechanisms activate, not simply on accumulating experience.
 
 ## Origin and provenance
 
-This mechanism was developed from observing that resilience outcomes vary dramatically among individuals and systems exposed to similar loads. The differentiator was which underlying mechanisms activated, not raw exposure duration. The six-state progression was named and sequenced as part of the NFA architecture.
-
-The sequence remains a practitioner-derived structuring. Formal resilience science has converged on describing resilience in mechanism terms rather than trait terms, which is consistent with the mechanism-first framing but does not independently validate the six-state sequence as a measured scale.
+The six-state sequence is a practitioner-developed NFA taxonomy for distinguishing different responses to load. It is not presented as a validated scientific scale. Formal resilience research informs its mechanism-focused framing but does not independently validate the full sequence or its thresholds.
 
 ## Evidence base
 
-- **Formal evidence and field convergence:** Schäfer et al. (2026, *Nature Reviews Psychology*, DOI 10.1038/s44159-026-00573-y) argue that resilience research should shift from training individual psychosocial *factors* to training resilience *mechanisms* activated during stress exposure. The review identifies small-to-medium effects and limited real-world implementation evidence for factor-focused interventions. This directly converges with the mechanism-first, rather than trait-first, framing of Architecture State Transition.
-- **Structural parallel:** Cotler et al. (2025, Harvard/EPFL, arXiv 2510.08342) describe self-replication and computational universality emerging from convergent dynamics across physical substrates. This is a structural parallel to the proposition that state-transition sequences can recur across substrates; it is not evidence that human and computational cases share identical mechanisms.
-- **Structural parallel:** The CMU sleep-consolidation architecture (2026, arXiv 2605.26099) uses sleep-like offline consolidation and independently converges with earlier-documented rest and consolidation patterns. This is a structural parallel only.
-- **Related collective convergence:** Identity Fusion (Swann et al.) suggests that, when personal and group identity fuse, individual state transitions can become group-linked. It supports considering a collective as well as an individual variant.
+- Schäfer, Stoffers-Winterling, and Lieb (2026, *Nature Reviews Psychology*, DOI 10.1038/s44159-026-00573-y) review resilience interventions and support shifting intervention research from training individual psychosocial factors toward studying and targeting resilience mechanisms during stressor exposure. This supports a mechanism-focused research direction; it does not validate the NFA six-state taxonomy.
+- Sontag (2024, arXiv:2410.17953) provides a formal treatment of antifragility for dynamical systems using convexity properties of a logarithmic rate. NFA uses it only as a limited reference for distinguishing resilience from antifragility. It neither establishes a human-performance threshold nor validates the six-state sequence.
+- Schäfer et al. (2022, DOI 10.1016/j.tics.2022.09.017), drawing on prior trajectory research, describe common mental-distress trajectories after stressor exposure: resilience, recovery, delayed onset, and chronic mental distress. These empirical outcome trajectories are not equivalent to the NFA taxonomy.
+- Lee et al. (2026, arXiv:2605.26099, unreviewed preprint) describe a language-model memory method in which active context is processed through offline recurrent passes into persistent fast weights before key-value-cache eviction. It is a limited computational consolidation example, not evidence for an NFA state transition.
 
-The practitioner-derived six-state sequence should remain distinct from the formal evidence above. The evidence supports a mechanism-first framing of resilience-type outcomes; it does not establish the full sequence or its thresholds as a validated measurement model.
+## Evidence limits
+
+External resilience literature supports studying adaptive outcomes as dynamic and mechanism-dependent. It does not establish a published mapping between empirical outcome trajectories and the Fragile → Robust → Resilient → Antifragile → Adapted → Elevated taxonomy. The taxonomy remains a practitioner-developed organizing model.
 
 ## Claim ceiling
 
-**Warranted:** resilience-type outcomes are better explained by which mechanisms activate during load than by trait possession or raw exposure. This claim has independent convergent support.
+**Supported direction:** resilience-intervention research can investigate mechanisms and processes during stressor exposure rather than only individual psychosocial factors.
 
-**Not warranted:** a precise, validated threshold that distinguishes Resilient from Antifragile in human performance. That measurement problem remains open. The computational and AI-system material is structural correspondence, not a claim of identical underlying mechanisms across biological and artificial systems.
+**NFA interpretation:** the six-state sequence is a useful practitioner taxonomy for tracking structural responses to repeated load. No cited source validates it as a scientific progression or establishes a precise human-performance threshold between Resilient and Antifragile.
 
 ## Boundary conditions
 
-This mechanism applies to systems capable of structural reorganization in response to repeated load, including biological, organizational, and computational systems. It does not claim that every exposure to load produces upward movement through the sequence. Degradation toward Fragile is an equally real outcome when the relevant mechanisms do not activate.
-
-The mechanism would be undermined if controlled comparisons showed that mechanism-focused interventions do not outperform factor-focused interventions. This remains a live, checkable question rather than a settled conclusion.
+This model applies to systems capable of structural reorganization in response to repeated load. It does not claim that every exposure produces upward movement: degradation remains a possible outcome. A preregistered comparison of mechanism-targeted and factor-targeted interventions could test an NFA intervention hypothesis, but such a comparison would not by itself validate the six-state taxonomy.
 
 ## How it appears in practice
 
-**Human performance:** comparable objective loads can produce differentiated resilience outcomes. Practitioner-floor examples have not yet been included directly.
+**Human performance:** comparable objective loads can be associated with different recovery and adaptation outcomes. This chapter does not provide case-level examples.
 
-**AI systems:** the CMU and Cotler et al. material provides structural parallels only. It does not establish a shared mechanism with human performance.
+**Computational systems:** the Lee et al. preprint is included only as a computational consolidation example. It does not establish a shared mechanism or validate the NFA sequence.
 
-**Open gap:** practitioner-floor detail is not yet included and should not be supplied with placeholder confidence.
+## Relationship map
 
-## Related mechanisms
+**Tacit-to-Technical Transduction** — practitioner-formalized architecture can inform how state distinctions are named and tracked within NFA.
 
-Tacit-to-Technical Transduction — practitioner-formalized architecture is one input into how state transitions are named and tracked.
-
-False Attractor Formation — a stable maladaptive state is a specific failure mode within the same developmental space, representing movement toward it rather than toward Resilient or Antifragile.
+**False Attractor Formation** — within the NFA model, stable maladaptive patterns represent a failure mode in the same developmental space.
 
 ---
 
