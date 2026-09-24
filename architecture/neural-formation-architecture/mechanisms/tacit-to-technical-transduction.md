@@ -6,57 +6,67 @@
 
 ## What it explains
 
-How practitioner pattern intelligence—knowledge built through repeated direct observation rather than formal study—becomes formalized architecture, frameworks, and systems.
+How practitioner pattern intelligence—knowledge built through repeated direct observation rather than formal study—can be externalized into formalized architecture, frameworks, and systems.
 
 ## Definition
 
-A practitioner who works directly with a complex system long enough can build an accurate model of how it behaves under real conditions before formal science names the mechanism, and sometimes without needing a formal explanation. Tacit-to-Technical Transduction (TTT) is the process by which that embodied, largely non-verbal knowledge is converted into explicit, transmissible technical architecture.
+Tacit-to-Technical Transduction (TTT) proposes a source-to-system pathway: formed practitioner judgment is elicited and converted into explicit, inspectable technical architecture. In this model, an AI collaborator may assist with externalization and formalization without becoming the originating author of the practitioner judgment.
 
-TTT is source-to-system, not idea-to-app: its source is formed judgment built through direct field exposure, while the transduction medium, including AI collaboration, formalizes that judgment without being its author. In plain terms, a person need not know the physics of electrons, protons, and neutrons to build a working car; they need to know that tires, engine, axle, and chassis reliably produce one. Practitioners can hold accurate knowledge of how a system goes together well ahead of a field's formal explanation of why it works.
+TTT is a candidate-knowledge-generation pathway. It is not evidence that a practitioner judgment is accurate or that an AI-mediated representation is faithful without independent evaluation.
 
 ## Origin and provenance
 
-Identified from Aaron's coaching practice: repeatedly building intervention models under real-world pressure where sleep problems, compensatory movement, and psychological load can all be present at once. This differs structurally from single-variable laboratory research. TTT does not claim to discover tacit knowledge as a category; Collins and Polanyi had already established that category. Its contribution is to name and formalize this specific transduction pathway within the NFA architecture.
+The framework names a translation problem between practice-derived judgment and an explicit technical representation. It does not claim to discover tacit knowledge itself, which has established philosophical, sociological, and organizational-knowledge literature.
 
 ## Evidence base
 
-**Theoretical grounding:**
+**Theoretical foundation:**
 
-- Collins (2010) describes a three-tier tacit-knowledge taxonomy: relational, somatic, and collective. TTT operates at the boundary between somatic, embodied skill and collective, community-held tacit knowledge, where a practitioner translates embodied field knowledge into transmissible architecture.
-- Hamming (1986), “You and Your Research,” argues that sustained work on important, under-addressed problems produces significant contributions. This frames practitioner-originated architecture in an under-occupied problem space as a legitimate research contribution rather than only applied coaching.
+- Polanyi (1966) introduced the influential formulation that people can know more than they can tell.
+- Collins (2010) distinguishes relational, somatic, and collective forms of tacit knowledge.
+- Nonaka (1994, *Organization Science*, DOI 10.1287/orsc.5.1.14) describes organizational knowledge creation as continuous interaction between tacit and explicit knowledge.
+- Dennett (1991, “Real Patterns,” *The Journal of Philosophy*, DOI 10.2307/2027085) motivates a philosophical criterion of efficient description with predictive leverage. The NFA review rubric—compress, predict, route, transfer, and constrain—is a practitioner-developed adaptation, not a test enumerated by Dennett.
+- Zhang and Levin (2026, arXiv:2605.16321, unreviewed preprint) propose and evaluate a language-game framework using frozen-parameter dynamical-system reservoirs, including gene-regulatory-network models, in reinforcement-learning tasks. It is an adjacent formal analogy, not validation that AI faithfully transduces practitioner knowledge or evidence of communication with living biological systems.
 
-**Structural parallels and convergent evidence:**
+**Historical illustration, not evidence for a general mechanism:**
 
-- Maganur & Kejriwal (2025, arXiv 2602.03969) structurally analyze post-ChatGPT AI research and report rising paper volume alongside increasing silo formation, rather than increasing cross-domain synthesis.
-- Cunningham & Greene (2025, *PLOS ONE*, PMC12316298) use citation-network analysis to identify isolated knowledge communities and significant structural gaps between related research areas.
-- The Opening Knowledge Gaps study (arXiv 2509.21899) uses computational topology across 34 million papers over 120 years and finds that papers linking concepts across empty regions of the knowledge landscape are disproportionately likely to rank in the top 1% for citations and disruption, compared with papers that only recombine existing concepts.
-- Ramanujan's Rogers-Ramanujan continued fraction is a historical structural parallel: tacit mathematical knowledge produced results later proven correct, although the original derivation was unavailable at the time. Hardy assessed that the results “had to be true” because inventing them without having seen them as real was implausible.
+- Ramanujan independently rediscovered results later known as Rogers–Ramanujan identities and initially communicated them without proof. Their history illustrates that conjecture, formal proof, and recognition can occur at different times; it does not establish a psychological claim about tacit knowledge.
 
-**Practitioner convergence:** sustained, repeated, real-stakes work with complex systems can produce structural models that integrate conditions encountered together in practice. This is the practitioner source that TTT transduces; it is not treated as a substitute for evidentiary scrutiny.
+**Adjacent context:**
+
+- Hamming (1986, “You and Your Research”) is historical and intellectual framing, not peer-reviewed evidence for TTT.
+- Cunningham and Greene (2025, *PLOS ONE*, DOI 10.1371/journal.pone.0329302) identify limited knowledge transfer, isolated application-domain silos, and knowledge gaps within their citation-network analysis of explainable-AI research.
+- “Opening Knowledge Gaps” (arXiv:2509.21899, preprint) reports an association between topologically gap-opening papers and higher citation standing and disruptiveness. It does not validate any specific practitioner claim.
+- Maganur and Kejriwal (2026, arXiv:2602.03969, preprint) find academic–industry collaboration below their random-mixing baseline in arXiv cs.AI preprints from 2021–2025. It does not measure conceptual silos or establish a general AI-research trend.
+- Klein, Calderwood, and MacGregor (1989, *IEEE Transactions on Systems, Man, and Cybernetics*, DOI 10.1109/21.31053) describe the Critical Decision Method for eliciting expert perceptual cues and decision strategies, including use in knowledge-based-system development. This is the closest direct methodological precedent for expert-judgment elicitation.
+
+## Evidence limits
+
+The cited literature supports tacit knowledge, knowledge elicitation, and selected forms of explicit representation. It does not validate TTT's specific human–AI pathway or guarantee that any practitioner-derived architecture is accurate. Each candidate claim requires ordinary evidence and evaluation.
 
 ## Claim ceiling
 
-**Warranted:** practitioners working across a complex system under real conditions can build accurate structural models ahead of formal explanation, and the current research landscape shows measurable silo formation that can make cross-domain practitioner synthesis genuinely differentiated.
+**Supported background:** tacit knowledge can resist full articulation, and established methods exist for eliciting expert judgment into explicit representations.
 
-**Not warranted:** that every practitioner intuition is correct. TTT describes a pathway by which candidate knowledge is generated, not a guarantee of accuracy for a specific claim produced through it. The gap-opening citation advantage in arXiv 2509.21899 is general bibliometric evidence about knowledge-gap papers; it does not validate any of Aaron's claims, only the general phenomenon that such positioning correlates with disruptive contribution.
+**NFA interpretation:** TTT formalizes a practitioner-to-technical pathway that can be evaluated claim by claim. The framework does not assert that every practitioner intuition is correct or that AI is necessarily a faithful transduction medium.
 
 ## Boundary conditions
 
-TTT applies where a practitioner has sustained, repeated, real-stakes exposure to a complex system. It does not apply to isolated or brief exposure, and it does not exempt any resulting claim from ordinary evidentiary scrutiny. TTT is a candidate-knowledge generation pathway, not a validation mechanism. It would be undermined if practitioner-originated claims across this body of work showed no better-than-chance correspondence with subsequent formal findings.
+TTT is most relevant when a practitioner has sustained, repeated, real-stakes exposure to a complex system. It does not apply to isolated exposure and does not exempt a resulting claim from evidentiary scrutiny. It would be undermined if practitioner-originated claims showed no better-than-chance correspondence with subsequent formal findings.
 
 ## How it appears in practice
 
-**Human coaching:** the car analogy describes the form of practitioner knowledge involved; practitioner-floor detail from Aaron's own sessions remains an open gap.
+**AI-assisted formalization:** structured collaboration can turn practitioner judgment into an inspectable representation while keeping the practitioner judgment distinct from the system used to formalize it.
 
-**Cross-domain / historical:** the Ramanujan case is a structural parallel from mathematics.
+**Knowledge elicitation:** the Critical Decision Method provides a public methodological precedent for eliciting expert cues and decision strategies.
 
-**AI-assisted formalization:** this kind of structured AI collaboration can formalize practitioner pattern intelligence in real time, while the practitioner judgment remains the source rather than the AI.
+No client or session information is included in this chapter.
 
-## Related mechanisms
+## Relationship map
 
-Architecture State Transition: TTT-formalized architecture is one input to how systems move along that developmental sequence.
+**Architecture State Transition** — within NFA, practitioner-formalized architecture can inform how developmental state distinctions are named and tracked.
 
-TTT is commonly confused with simple AI-assisted writing or idea generation. It specifically requires a formed practitioner judgment as its source; AI is the transduction medium, never the originating author.
+TTT is distinct from simple AI-assisted writing or idea generation because it requires a formed practitioner judgment as the source.
 
 ---
 
