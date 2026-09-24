@@ -6,42 +6,44 @@
 
 ## What it explains
 
-How cross-layer stabilization preserves orientation during distortion.
+How the NFA concept of Witness frames the capacity to observe a signal, state, or automated process without fully fusing with it during execution.
 
 ## Definition
 
-Witness is the capacity to observe a signal, state, or automated process without fusing with it — a commitment layer, not detachment. When it holds, a system registers a constraint and continues functioning around it. When it fails, attention collapses into the very process that should have stayed observed, and that fusion is what breaks execution that would otherwise run cleanly.
+In NFA, Witness is the proposed capacity to register a signal, state, or automated process while retaining enough orientation to choose or continue an appropriate response. It is a conceptual distinction from detachment and from general confidence. Monitoring a state does not by itself imply that the monitoring governs subsequent action.
 
 ## Origin and provenance
 
-Observed in coaching as the difference between athletes who can name what is happening to them under pressure and continue executing, versus those whose awareness of the problem becomes the problem. Distinguished from simple “confidence” or “mental toughness” language, which oversimplifies the mechanism.
+Witness is a practitioner-derived NFA term for the difference between registering what is happening under pressure and becoming absorbed in the process being observed. The term does not claim to replace established constructs in affect labeling, attention, metacognition, or skilled-performance research.
 
 ## Evidence base
 
-**Primary research:**
+- DeCaro et al. (2011, *Journal of Experimental Psychology: General*, DOI 10.1037/a0023466) distinguish distraction and explicit-monitoring routes to choking. Monitoring pressure can impair procedural skills that perform better without heavy conscious control.
+- Beilock and Carr (2001, “On the Fragility of Skilled Performance,” *Journal of Experimental Psychology: General*, DOI 10.1037/0096-3445.130.4.701) found that expert golfers showed proceduralized performance that did not require step-by-step attentional control, and that attending directly to a proceduralized skill could impair performance.
+- Stokes (1995, *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, DOI 10.1177/154193129503901307) reported that experienced pilots showed no decrement in aeronautical decision making under stress whereas novices did. Knowledge-representation measures predicted proficient stressed decision making. This is a limited expertise-and-stress-resistance finding, not a direct test of Witness.
+- Lieberman et al. (2007, *Psychological Science*, DOI 10.1111/j.1467-9280.2007.01916.x) found that affect labeling of negative emotional images, relative to other encoding conditions, was associated with lower amygdala and limbic response and higher right ventrolateral prefrontal-cortex activity. Its relation to Witness is a conceptual analogue, not a direct test of the NFA term.
 
-- Beilock & Carr (2005) and DeCaro et al. (2011, *Journal of Experimental Psychology: General*) — pressure can shift execution from automatic to effortful conscious control of a well-learned skill, and that shift disrupts performance. Individuals with the highest working-memory capacity are specifically more vulnerable under monitoring-type pressure, because their normal advantage in controlled processing is exactly what fusion disrupts.
-- Stokes (1995) — expert pilots showed no performance decrement under high trait anxiety on an aeronautical decision-making task; novice pilots did. Expertise does not reduce pressure; it removes the requirement for Witness to hold consciously over a process that now runs without it.
+## Evidence limits
 
-**Practitioner convergence, distinct from the academic evidence above:** a live coaching account (AIU/Taylor, sports psychology instruction) independently describes the same mechanism: the same movement, novice versus expert, tolerates dramatically different arousal levels because the expert version no longer requires conscious monitoring.
+The cited studies support affect labeling and task-dependent attentional effects in defined experimental settings. Their mapping onto the NFA term Witness is a practitioner and theoretical interpretation, not independent validation of that construct.
 
 ## Claim ceiling
 
-**Warranted:** automaticity determines whether conscious monitoring helps or disrupts execution under pressure, well replicated in cognitive psychology.
+**Supported at the cited scope:** monitoring pressure can selectively impair well-learned procedural skills that normally operate with low explicit-control demands. Effects depend on the task, skill history, pressure manipulation, and form of attention.
 
-**Not warranted:** raising general confidence or “self-belief” reproduces this effect. The evidence specifically implicates interaction-specific monitoring, not global confidence.
+**Not supported:** a claim that all conscious attention disrupts expert performance or that raising general confidence or self-belief reproduces these effects.
 
 ## Boundary conditions
 
-Applies to well-learned, proceduralized skills under pressure. It does not apply to genuinely novel tasks, where conscious monitoring is necessary and its absence would itself be a failure. The mechanism would be undermined if high-automaticity performers showed the same monitoring-induced disruption as novices.
+The concept is most relevant to well-learned, proceduralized skills under pressure. It does not apply in the same way to genuinely novel tasks, where conscious monitoring may be necessary. The proposed mechanism would need revision if high-automaticity performers consistently showed no differentiation from novices under comparable monitoring pressure.
 
 ## How it appears in practice
 
-**Human performance:** the novice/expert arousal-tolerance asymmetry for the same skill. **Applied coaching:** independently described by other practitioners, not just Aaron. **Open gap:** practitioner-floor detail from Aaron's own sessions is not yet included.
+The chapter does not offer client, session, or case-level examples. It uses expert-performance and affect-labeling research as bounded conceptual analogues rather than as direct validation of Witness.
 
-## Related mechanisms
+## Relationship map
 
-State-Gated Access — automaticity determines whether a state-gated channel closing disrupts execution. Signal-to-Constraint Conversion — Witness failure is one route by which a converted constraint compounds. False Attractor Formation — sustained Witness failure is a documented pathway into a stable maladaptive state.
+**Within the NFA framework:** State-Gated Access concerns state-dependent performance changes; Signal-to-Constraint Conversion concerns the interpretation of a signal before it may compound; and sustained difficulty in observing a state without fusion is hypothesized to contribute to False Attractor Formation.
 
 ---
 
