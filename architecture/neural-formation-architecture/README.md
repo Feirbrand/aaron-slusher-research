@@ -16,7 +16,7 @@ A container, not a methodology. NFA organizes a set of companion frameworks that
 
 That distinction matters. Without it, anyone arriving here has to guess which piece is "the main system," and every explanation starts over from scratch.
 
-**Where this comes from.** NFA is the public output of ASFA — the private research layer where the underlying formation question gets tested before anything here is confirmed. ASFA is the garden. NFA is what the garden has hardened into. What's public here is the architecture; the ongoing research underneath stays in ASFA until it's ready to be named a component in its own right.
+**Where this comes from.** ASFA investigates and hardens candidate mechanisms; surviving material may be promoted into NFA, the public architecture, which also organizes established work that predates ASFA. What's public here is the architecture; ongoing research stays in ASFA until it's ready to be named a component in its own right.
 
 | Component | What it does | Class |
 |---|---|---|
@@ -26,7 +26,7 @@ That distinction matters. Without it, anyone arriving here has to guess which pi
 | [The Parate Process™](../parate-process/) | Clears and prepares a blocked pathway | Pathway-clearing method |
 | [Neural Access Method™](../neural-access-method/) | Transmits the intervention through the cleared pathway | Transmission protocol |
 | [Adapted Architecture](../adapted-architecture/) | What forms when the system is built from what is real | Governing design principle + output state |
-| [Tacit-to-Technical Transduction™ (TTT)](../../cross-substrate/ttt/) | Converts what NAM opened into technical architecture — output routes to VGS | Bridge / transduction |
+| [Tacit-to-Technical Transduction™ (TTT)](../../cross-substrate/ttt/) | Two-way transduction between practitioner pattern intelligence and technical architecture — technical research routes through VGS | Bridge / transduction |
 | [Mechanisms](#mechanisms) | The validated causal units underneath all of it | — |
 
 **How the jobs sequence.** Parate clears the pathway. NAM transmits through it. GAA builds what has to hold. Neuroformation explains why any of it works. The Grid says where you are while it happens.
@@ -39,7 +39,7 @@ That distinction matters. Without it, anyone arriving here has to guess which pi
 
 Mechanisms are the validated causal units of NFA. Each one explains a specific process by which adaptive systems route signal, form habits, fracture under load, or recover. They are named, repeatable, cross-substrate patterns — confirmed across human performance, AI systems, and organizational contexts.
 
-Each one is a mechanism ASFA has hardened enough to publish. "Locked" below means it has cleared that bar; "Provisional" means it's still being tested.
+Each one is a mechanism that has been investigated and hardened in ASFA and promoted into NFA. "Locked" below means it has cleared that bar; "Provisional" means it's still being tested.
 
 Each mechanism carries an **NFA Layer** field identifying where it operates within the architecture.
 

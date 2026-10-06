@@ -17,11 +17,11 @@ No license, no affiliation, no DOI in this table — that's a different axis, tr
 | [The Parate Process™](parate-process/) | Pathway-clearing method |
 | [Ground. Ascent. Altitude.™](ground-ascent-altitude/) | Developmental system |
 | [Adapted Architecture](adapted-architecture/) | Governing design principle + output state |
-| [TTT](../cross-substrate/ttt/) | Bridge / transduction |
+| [Tacit-to-Technical Transduction™ (TTT)](../cross-substrate/ttt/) | Bridge / transduction |
 
-**On TTT's placement:** filed in `cross-substrate/`, not here, because its functional job crosses substrates rather than sitting at one level of this stack. A reverse-direction extension exists in research but is unapproved — not canon, not reflected in the class label above.
+**On TTT's placement:** filed in `cross-substrate/`, not here, because its functional job crosses substrates rather than sitting at one level of this stack. TTT is two-way — forward (practitioner intelligence → technical architecture) and reverse (technical behavior → operator-readable candidate pattern language, for testing). The class label above names the bridge, not a direction or a position in a sequence.
 
-**How the jobs sequence.** Parate clears the pathway. NAM transmits through it. GAA builds what has to hold. Neuroformation explains why any of it works. The Grid says where you are while it happens. TTT converts what NAM opened into technical architecture once the rest of the stack has run.
+**How the jobs sequence.** Parate clears the pathway. NAM transmits through it. GAA builds what has to hold. Neuroformation explains why any of it works. The Grid says where you are while it happens. TTT converts between practitioner intelligence and technical architecture — it can operate very early and does not run last, so its place in this list is not a causal order.
 
 ## What Lives Here
 

@@ -46,7 +46,7 @@ Some underlying research substrates remain unpublished for safety, IP, and devel
 | Pathway-clearing method | The Parate Process™ | Active |
 | Developmental system | Ground. Ascent. Altitude.™ | Active |
 | Governing design principle + output state | Adapted Architecture | Open-use descriptor · not trademarked |
-| Bridge / transduction | TTT | Public |
+| Bridge / transduction | Tacit-to-Technical Transduction™ (TTT) | Public |
 | Cross-substrate thesis | UNICA | Staged public |
 
 Architecture is never a seller and never sits in a table with the brands as if it were one — it's what the brands apply, not a peer to them. See below for where the work reaches people.

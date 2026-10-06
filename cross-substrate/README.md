@@ -12,7 +12,7 @@ Everything in `architecture/` occupies one position in a linear stack — Neurof
 
 | Object | What it does | Status |
 |---|---|---|
-| [TTT](ttt/) | Converts practitioner pattern intelligence into technical/system architecture | Public |
+| [Tacit-to-Technical Transduction™ (TTT)](ttt/) | Two-way transduction between practitioner pattern intelligence and technical/system architecture | Public |
 | UNICA | Cross-substrate thesis — staged public, not yet built | Staged |
 
 ## Relationship to `architecture/`

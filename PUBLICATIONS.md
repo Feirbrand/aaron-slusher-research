@@ -59,7 +59,7 @@
 
 | Paper | Target Repo | Target Affiliation | Notes |
 |---|---|---|---|
-| TTT v1.0 — Tacit-to-Technical Transduction™ | aaron-slusher-research | Independent Researcher | Staged public — named in Issue 3. `cross-substrate/ttt/README.md` exists — confirmed Aug 19 2026 against Aaron's real uploaded file. |
+| TTT v1.0 — Tacit-to-Technical Transduction™ | aaron-slusher-research | Independent Researcher | Staged public — named in the June 11, 2026 essay *Instinct into Infrastructure* on aaronslusher.com. `cross-substrate/ttt/README.md` exists — confirmed Aug 19 2026 against Aaron's real uploaded file. |
 
 ---
 
