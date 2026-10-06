@@ -14,9 +14,9 @@
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
-| 19 | Neural Access Method™ v1.0 | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 ⚠️ *(`.zenodo.json` says May 17 — unresolved)* | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1.0.md` |
+| 19 | Neural Access Method™ v1.0.1: A Transmission Protocol for Adaptive Systems Under Pressure | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 ⚠️ *(`.zenodo.json` says May 17 — unresolved)* | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1.0.md` |
 
-*Version note, unresolved:* registered title says v1.0.1; most local references say v1.0.
+*Version note:* title and version above follow Aaron's ORCID/registered publication record.
 
 ---
 
@@ -33,18 +33,18 @@
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
 | 1 | Neuroformation™ v1.0: A Methodology for Building Resilience in Adaptive Systems | [10.5281/zenodo.19197818](https://doi.org/10.5281/zenodo.19197818) | 2026-03-24 | neuroformation · adaptive systems · five-layer architecture · cross-substrate · resilience · March 14 2026 | `whitepapers/academic-papers/neuroformation-v1.0.md` |
-| 2 | The Elevation Grid v1.1: A Neurobiological Framework for High-Stakes Performance | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 2026-02-26 | elevation grid · diagnostic · 3×3 matrix · performance · neurobiological · adaptive systems | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
+| 2 | The Elevation Grid v1.1 A Neurobiological Framework | [10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842) | 2026-02-26 | elevation grid · diagnostic · 3×3 matrix · performance · neurobiological · adaptive systems | `whitepapers/academic-papers/elevation-grid-academic-v1.1.md` |
 | 3 | Memory Breathing Methodology™ v1.0: Bio-Inspired AI Memory Management | [10.5281/zenodo.18790096](https://doi.org/10.5281/zenodo.18790096) | 2026-02-26 | memory breathing · bio-inspired · AI memory · context management · rhythm | `whitepapers/vgs-technical-papers/mbm-v1.0-academic.md` |
 | 4 | PME v1.0: Predictive Myelination Engine | [10.5281/zenodo.18318485](https://doi.org/10.5281/zenodo.18318485) | 2026-01-20 | PME · predictive · myelination · 712× acceleration · drift elimination | `whitepapers/vgs-technical-papers/pme-v-1-0-academic-paper.md` |
 | 5 | Synoetic OS v1.0: Substrate-Independent AI Orchestration Through Narrative Coherence | [10.5281/zenodo.17808864](https://doi.org/10.5281/zenodo.17808864) | 2025-12-04 | synoetic OS · AI orchestration · narrative coherence · substrate-independent · cognitive architecture | `whitepapers/academic-papers/synoetic-os-v1.0.md` |
 | 6 | Mythopoeic Intelligence Agents v1.0 | [10.5281/zenodo.17770533](https://doi.org/10.5281/zenodo.17770533) | 2025-11-30 | mythopoeic intelligence · MI agents · symbolic AI · narrative · cross-substrate | `whitepapers/mythopoeic-intelligence/mythopoeic-intelligence-agents-v1.md` |
 | 7 | Symbolic Lock Vector v2.1: Runtime Identity Defense Through Temporal Wisdom | [10.5281/zenodo.17763377](https://doi.org/10.5281/zenodo.17763377) | 2025-11-29 | SLV · identity defense · runtime · symbolic lock · 95.8% detection | `whitepapers/vgs-technical-papers/slv-v2-1-technical-paper.md` |
-| 8 | Cognitive Mage v1.0: Human-AI Recursive Discovery Architecture | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | 2025-11-18 | cognitive mage · human-AI · recursive discovery · origin paper · narrative identity | `whitepapers/academic-papers/cognitive-mage-v1.0.md` |
-| 9 | DCN v1.0: Distributed Cognitive Networks | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) | 2025-11-08 | DCN · distributed cognitive · multi-agent · 9-agent · 600% productivity | `whitepapers/vgs-technical-papers/dcn-v1-0-academic.md` |
+| 8 | Cognitive Mage v1.0: How a Performance Coach Created 100% Symbolic AI Through Narrative Identity Architecture | [10.5281/zenodo.17643267](https://doi.org/10.5281/zenodo.17643267) | 2025-11-18 | cognitive mage · human-AI · recursive discovery · origin paper · narrative identity | `whitepapers/academic-papers/cognitive-mage-v1.0.md` |
+| 9 | DCN v1.0 - Distributed Cognitive Networks: Human-Coordinated Multi-Agent AI Systems | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) | 2025-11-08 | DCN · distributed cognitive · multi-agent · 9-agent · 600% productivity | `whitepapers/vgs-technical-papers/dcn-v1-0-academic.md` |
 | 10 | UTME v1.0: Unified Temporal Memory Equilibrium | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | 2025-10-31 | UTME · temporal memory · equilibrium · context retention · deploy | `whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md` |
 | 11 | DNA Codex v5.5: Mathematical Prophecy for AI Threat Cascades | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | 2025-10-26 | DNA codex · threat intelligence · 560+ vectors · mathematical · fortify | `codex/dna-codex/dna-codex-v5.5.md` |
 | 12 | UCA v3.1.1 Security-Hardened Edition | [10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971) | 2025-10-15 | UCA · universal cascade architecture · security hardened · deploy | `vulnerability-research/uca-series/uca-v3-1-security-hardened.md` |
-| 13 | RAY v2.1: Recursive Adaptive Yield | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | 2025-10-17 | RAY · recursive adaptive · early warning · cascade detection · 87% prediction | `whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md` |
+| 13 | RAY v2.1: Recursive Adaptive Yield with Orcid ID | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | 2025-10-17 | RAY · recursive adaptive · early warning · cascade detection · 87% prediction | `whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md` |
 | 14 | Torque v2.0: Quantitative Foundation for AI Resilience | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | 2025-10-17 | torque · quantitative · AI resilience · stability · metric | `whitepapers/vgs-technical-papers/torque-quantitative-foundation-v2.md` |
 | 15 | Phoenix Protocol v2.0: Neural Recovery for AI Systems | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | 2025-10-14 | phoenix · neural recovery · cascade recovery · 98% recovery · recover | `whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md` |
 | 16 | CSFC Unified Theory v1.0 | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | 2025-10-10 | CSFC · cascade · symbolic failure · containment · Stage 0-6 | `whitepapers/vgs-technical-papers/csfc-unified-theory.md` |
@@ -86,9 +86,9 @@ Slusher, A. M. (Year). Title. Affiliation. https://doi.org/10.5281/zenodo.[ID]
 ## Rules
 
 - This file is the master index. All subsets point here. It does not override a registered publication record on conflict — see the note at the top.
-- Never hardcode DOIs from memory — verify against this file.
+- Never infer publication metadata from memory — verify against Aaron's ORCID/registered publication record and keep this index synchronized.
 - Neuroformation™ canonical DOI: `10.5281/zenodo.19197818` (not 19197791 — superseded)
-- Current paper count: see the **Ground Truth Ledger** (live source) rather than a hardcoded number here — the last count recorded there was 19 as of Aug 18 2026, but a hardcoded snapshot in this file is exactly the kind of number that goes stale silently.
+- Current paper count: see the **Ground Truth Ledger** (live source) rather than carrying a prose snapshot here.
 - Next paper routing: check The Manifest before assigning repo/affiliation
 
 ---
