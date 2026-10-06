@@ -12,7 +12,7 @@ status: production
 classification: Academic Research Paper
 document_type: Core Framework
 priority_date: 2026-01-26
-license: CC-BY-NC-4.0
+license: CC-BY-NC-ND-4.0
 publisher: Aaron Slusher Research
 updates:
   - v1.0: Initial publication — transmission protocol paper, May 2026
@@ -20,7 +20,7 @@ updates:
 
 <!--
 Dual License Structure:
-Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 1: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 Option 2: Separate written permission for uses outside the public license.
 Patent Clause: Patent rights reserved, no patent assertion without written grant.
 No pricing/revenue/subscription terms in this document.
@@ -815,8 +815,8 @@ Achieve Peak Performance delivers coaching for athletes and performers who refus
 ## LICENSE
 
 **Option 1: Non-Commercial Use**
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-https://creativecommons.org/licenses/by-nc/4.0
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+https://creativecommons.org/licenses/by-nc-nd/4.0
 
 **Option 2: Commercial Use**
 Separate written permission required. Contact: aaron@appcincy.com

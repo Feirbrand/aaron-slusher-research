@@ -1,4 +1,4 @@
-# Neural Access Method™ v1.0
+# Neural Access Method™ v1.0.1: A Transmission Protocol for Adaptive Systems Under Pressure
 
 **DOI: [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366)**
 
@@ -10,16 +10,15 @@ Aaron M. Slusher · Independent Researcher · 2026
 
 ## Contents
 
-- `nam-paper-v1.0.md` — full paper
+- `nam-paper-v1_0.md` — full paper
 - `nam-evidence-foundation.md` — evidence and theoretical foundation
-- `CITATION.cff` — citation metadata for this paper
 
 ---
 
 ## Citation
 
 ```
-Slusher, A. M. (2026). Neural Access Method™ v1.0.
+Slusher, A. M. (2026). Neural Access Method™ v1.0.1: A Transmission Protocol for Adaptive Systems Under Pressure.
 Independent Researcher.
 https://doi.org/10.5281/zenodo.20420366
 ```

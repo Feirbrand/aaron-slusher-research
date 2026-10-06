@@ -14,7 +14,7 @@
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
-| 19 | Neural Access Method™ v1.0.1: A Transmission Protocol for Adaptive Systems Under Pressure | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 ⚠️ *(`.zenodo.json` says May 17 — unresolved)* | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1.0.md` |
+| 19 | Neural Access Method™ v1.0.1: A Transmission Protocol for Adaptive Systems Under Pressure | [10.5281/zenodo.20420366](https://doi.org/10.5281/zenodo.20420366) | 2026-05-27 ⚠️ *(`.zenodo.json` says May 17 — unresolved)* | transmission protocol · adaptive systems · NAM · ACCESS REFRAME SIMPLIFY IGNITE · cortical interference · procedural memory | `papers/nam/nam-paper-v1_0.md` |
 
 *Version note:* title and version above follow Aaron's ORCID/registered publication record.
 
@@ -43,7 +43,7 @@
 | 9 | DCN v1.0 - Distributed Cognitive Networks: Human-Coordinated Multi-Agent AI Systems | [10.5281/zenodo.17555568](https://doi.org/10.5281/zenodo.17555568) | 2025-11-08 | DCN · distributed cognitive · multi-agent · 9-agent · 600% productivity | `whitepapers/vgs-technical-papers/dcn-v1-0-academic.md` |
 | 10 | UTME v1.0: Unified Temporal Memory Equilibrium | [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149) | 2025-10-31 | UTME · temporal memory · equilibrium · context retention · deploy | `whitepapers/vgs-technical-papers/utme-v1-0-academic-paper.md` |
 | 11 | DNA Codex v5.5: Mathematical Prophecy for AI Threat Cascades | [10.5281/zenodo.17451060](https://doi.org/10.5281/zenodo.17451060) | 2025-10-26 | DNA codex · threat intelligence · 560+ vectors · mathematical · fortify | `codex/dna-codex/dna-codex-v5.5.md` |
-| 12 | UCA v3.1.1 Security-Hardened Edition | [10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971) | 2025-10-15 | UCA · universal cascade architecture · security hardened · deploy | `vulnerability-research/uca-series/uca-v3-1-security-hardened.md` |
+| 12 | UCA v3.1.1 Security-Hardened Edition | [10.5281/zenodo.17416971](https://doi.org/10.5281/zenodo.17416971) | 2025-10-22 | UCA · universal cascade architecture · security hardened · deploy | `vulnerability-research/uca-series/uca-v3-1-security-hardened.md` |
 | 13 | RAY v2.1: Recursive Adaptive Yield with Orcid ID | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | 2025-10-17 | RAY · recursive adaptive · early warning · cascade detection · 87% prediction | `whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md` |
 | 14 | Torque v2.0: Quantitative Foundation for AI Resilience | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | 2025-10-17 | torque · quantitative · AI resilience · stability · metric | `whitepapers/vgs-technical-papers/torque-quantitative-foundation-v2.md` |
 | 15 | Phoenix Protocol v2.0: Neural Recovery for AI Systems | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | 2025-10-14 | phoenix · neural recovery · cascade recovery · 98% recovery · recover | `whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md` |
