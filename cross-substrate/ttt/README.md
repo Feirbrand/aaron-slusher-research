@@ -1,8 +1,7 @@
 # Tacit-to-Technical Transduction™ (TTT)
 
 **Status:** Public. Full technical report in preparation.
-**First public use:** June 11, 2026 — the essay *Instinct into Infrastructure* on aaronslusher.com (now The Parate Process)
-**Filed as NFA component:** May 19, 2026
+**Historical publication-record chronology:** Neuroformation naming-chain entry: March 14, 2026; NFA-component filing: May 19, 2026; *Instinct into Infrastructure* published: June 11, 2026 on aaronslusher.com (now The Parate Process). These project-record dates are not independent priority or first-use assertions.
 **Part of:** [Neural Formation Architecture](../../architecture/neural-formation-architecture/)
 
 ---
@@ -38,7 +37,7 @@ Not proof by analogy. A practitioner's analogy can act as a translation seed —
 
 ## Why it matters here
 
-Decades of applied coaching practice, much of it never written down, became a named and documented structure through this process. Neuroformation™ itself is the clearest case — discovered inside practice that already worked, then named March 14, 2026 and published as [Neuroformation™ v1.0](https://doi.org/10.5281/zenodo.19197818).
+Decades of applied coaching practice, much of it never written down, became a named and documented structure through this process. Neuroformation™ itself is the clearest case — the historical publication record documents a March 14, 2026 naming-chain entry for practice that already worked, followed by publication as [Neuroformation™ v1.0](https://doi.org/10.5281/zenodo.19197818); this does not assert independent priority or first use.
 
 ASFA investigates and hardens candidate mechanisms; surviving material may be promoted into NFA, the public architecture, which also organizes established work that predates ASFA. TTT is one of the defined mechanisms in that body of work.
 
@@ -46,7 +45,7 @@ ASFA investigates and hardens candidate mechanisms; surviving material may be pr
 
 ## Further reading
 
-The essay that introduced TTT publicly — *"Instinct into Infrastructure"* — was published on aaronslusher.com on June 11, 2026 (now The Parate Process): [aaronslusher.com/p/instinct-into-infrastructure](https://www.aaronslusher.com/p/instinct-into-infrastructure)
+The historical publication record identifies *"Instinct into Infrastructure"* as the June 11, 2026 public essay on aaronslusher.com (now The Parate Process): [aaronslusher.com/p/instinct-into-infrastructure](https://www.aaronslusher.com/p/instinct-into-infrastructure)
 
 ## Paper
 

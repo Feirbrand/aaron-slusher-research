@@ -20,7 +20,7 @@ That distinction matters. Without it, anyone arriving here has to guess which pi
 
 | Component | What it does | Class |
 |---|---|---|
-| [Neuroformation™](../neuroformation/) | Explains how formation happens — how pathways and formed patterns develop. Coined March 14, 2026. [DOI](https://doi.org/10.5281/zenodo.19197818). | Governing methodology |
+| [Neuroformation™](../neuroformation/) | Explains how formation happens — how pathways and formed patterns develop. Historical publication record: a Neuroformation™ naming entry is dated March 14, 2026; not an independent priority or first-use assertion. [DOI](https://doi.org/10.5281/zenodo.19197818). | Governing methodology |
 | [Elevation Grid™](../elevation-grid/) | Locates where the system is operating and where obstruction appears | Coordinate framework |
 | [Ground. Ascent. Altitude.™](../ground-ascent-altitude/) | Same architecture as the Grid, at a coarser resolution — the three rows the Grid's nine positions organize under | Developmental system |
 | [The Parate Process™](../parate-process/) | Clears and prepares a blocked pathway | Pathway-clearing method |

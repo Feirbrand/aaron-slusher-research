@@ -10,13 +10,23 @@ How practitioner pattern intelligence—knowledge built through repeated direct 
 
 ## Definition
 
-Tacit-to-Technical Transduction (TTT) proposes a source-to-system pathway: formed practitioner judgment is elicited and converted into explicit, inspectable technical architecture. In this model, an AI collaborator may assist with externalization and formalization without becoming the originating author of the practitioner judgment.
+Tacit-to-Technical Transduction (TTT) proposes a two-way transduction pathway. Forward, formed practitioner judgment is elicited and converted into explicit, inspectable technical architecture. In reverse, observed technical or AI-system behavior is translated into operator-readable candidate pattern language for testing. In both directions, an AI collaborator may assist with externalization and formalization without becoming the originating author of practitioner judgment or a substitute for evidence.
 
 TTT is a candidate-knowledge-generation pathway. It is not evidence that a practitioner judgment is accurate or that an AI-mediated representation is faithful without independent evaluation.
 
 ## Origin and provenance
 
 The framework names a translation problem between practice-derived judgment and an explicit technical representation. It does not claim to discover tacit knowledge itself, which has established philosophical, sociological, and organizational-knowledge literature.
+
+**Historical publication-record chronology:** the project record lists a Neuroformation naming-chain entry on March 14, 2026, NFA-component filing on May 19, 2026, and publication of the TTT essay *Instinct into Infrastructure* on June 11, 2026. These dates describe the project's historical record only and do not assert independent priority or first use.
+
+## Position in NFA
+
+**Origin mode:** a practitioner's formed judgment is transduced into explicit candidate architecture; this mode can formalize material before a session-specific access process.
+
+**Application mode:** in a live session, Neural Access Method™ (NAM) can establish access to what is reachable in that moment, after which TTT formalizes the accessible material. TTT converts; NAM delivers.
+
+**Routing and scope:** TTT is a shared NFA-family component across human performance, AI systems, and formation work. Its technical research and implementation route through VGS; that route describes where technical work is developed, not ownership of TTT.
 
 ## Evidence base
 
