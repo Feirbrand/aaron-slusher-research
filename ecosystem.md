@@ -59,7 +59,7 @@ In the background: a private R&D hardening layer that protects, tests, and exten
 
 ## Publication Authority
 
-Affiliation is per-work, not per-repo — a paper's registered Zenodo affiliation depends on which paper it is, not which folder it lives in. `PUBLICATIONS.md` is the authoritative per-work source; do not infer affiliation from repo location.
+The current Manifest governs public affiliation presentation for VGS AI framework papers. Neuroformation™ and Elevation Grid™ are permanent VGS Ledger rows and use ValorGrid Solutions; do not use Achieve Peak Performance or null affiliation for those rows. `PUBLICATIONS.md` records the current rule.
 
 | Paper type | Repo | DOI source |
 |---|---|---|
@@ -67,7 +67,7 @@ Affiliation is per-work, not per-repo — a paper's registered Zenodo affiliatio
 | AI-resilience / VGS technical | `synoeticos-public` | Minted from that repo |
 | APP coaching / field application | APP repo (future) | Minted from APP repo |
 
-**Note, Aug 18 2026, corrected Aug 22 2026:** this table previously stated a blanket rule — "Methodology / formation architecture → Independent Researcher." That's wrong for Neuroformation, registered under Achieve Peak Performance per the live Zenodo record. Elevation Grid's registered creator affiliation is **null** (license CC BY 4.0, no NC) — correcting this note's earlier claim that it also reads Achieve Peak Performance. NAM is the one genuinely Independent Researcher paper. Affiliation is checked per work in `PUBLICATIONS.md`, never assumed from repo location or brand positioning (see `MSG-ALL-EG-SCOPE-01`: APP applies Elevation Grid to human performance; Elevation Grid is not itself an APP framework).
+**Current Manifest clarification (Oct 17 2026):** VGS AI framework papers use ValorGrid Solutions. Neuroformation™ and Elevation Grid™ are VGS Ledger rows and use CC BY-NC 4.0 in their public VGS presentation. NAM remains the personal methodology paper listed above.
 
 ---
 

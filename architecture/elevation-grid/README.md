@@ -18,7 +18,7 @@ The 3×3 structure maps nine positions across three performance states. Each pos
 
 **The Elevation Grid v1.1 A Neurobiological Framework**
 Aaron M. Slusher · February 26, 2026
-<!-- RESOLVED Aug 22 2026 — registered Zenodo creator affiliation is null, license CC BY 4.0 (no NC), reconfirmed live. Elevation Grid is a universal cross-substrate architecture (MSG-ALL-EG-SCOPE-01); APP is provenance only. Do not assert "Achieve Peak Performance" or "ValorGrid Solutions" as this paper's affiliation. -->
+<!-- Current Manifest rule (Oct 17 2026): Elevation Grid is a permanent VGS Ledger row. Public affiliation: ValorGrid Solutions; public license: CC BY-NC 4.0. Do not use Achieve Peak Performance or null affiliation. -->
 [DOI: 10.5281/zenodo.18790842](https://doi.org/10.5281/zenodo.18790842)
 
 ---
@@ -57,7 +57,7 @@ Not included here:
 
 ## Protected Status
 
-Elevation Grid™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY 4.0) for research use.
+Elevation Grid™ is a protected methodology mark of Aaron M. Slusher. The paper is presented under CC BY-NC 4.0 with ValorGrid Solutions affiliation, per the current Manifest rule for VGS papers.
 
 ---
 

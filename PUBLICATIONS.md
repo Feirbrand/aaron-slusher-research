@@ -21,14 +21,14 @@
 ---
 
 ## VGS Applied Research Papers
-*Repo: synoeticos-public · Affiliation and license are per-work — see each row below, sourced from the live Zenodo record. Do not assume a blanket affiliation for this section.*
+*Repo: synoeticos-public · The current Manifest affiliation rule assigns VGS AI framework papers, including Neuroformation™ and Elevation Grid™, to ValorGrid Solutions with CC BY-NC 4.0. Do not use Achieve Peak Performance or null affiliation for these VGS Ledger rows.*
 
 | # | Work | DOI | Registered Affiliation | License |
 |---|---|---|---|---|
-| 1 | Neuroformation™ | zenodo.19197818 | Achieve Peak Performance | CC BY-NC 4.0 |
-| 2 | The Elevation Grid™ | zenodo.18790842 | *null — not registered to an organization* | CC BY 4.0 (no NC) |
+| 1 | Neuroformation™ | zenodo.19197818 | ValorGrid Solutions | CC BY-NC 4.0 |
+| 2 | The Elevation Grid™ | zenodo.18790842 | ValorGrid Solutions | CC BY-NC 4.0 |
 
-**Resolved Aug 22 2026:** “Affiliation” in this ledger is the registered Zenodo creator-affiliation field, not a brand or repo claim. Neuroformation and Elevation Grid keep their own independently registered values (rows above); neither is asserted as “ValorGrid Solutions.” Per `MSG-ALL-EG-SCOPE-01`, Elevation Grid is a universal cross-substrate architecture inside NFA — APP is provenance, not ownership — so its `null` affiliation is expected, not an error, and stays as minted.
+**Current Manifest rule (Oct 17 2026):** VGS AI framework papers use ValorGrid Solutions. Neuroformation™ and Elevation Grid™ are permanent VGS Ledger rows; do not use Achieve Peak Performance or null affiliation for either. The Manifest governs this public affiliation and license presentation.
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | 17 | FCE Unified Framework v3.6 | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) | 2025-10-10 | FCE · fractal context engineering · compression · 4-6× · deploy | `whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md` |
 | 18 | URA v1.5: Unified Resilience Architecture | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | 2025-10-10 | URA · unified resilience · five-layer defense · recover | `whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md` |
 
-*Rows 3–18 unaffected by the flag above — only Neuroformation and Elevation Grid (rows 1–2) have a documented cross-source disagreement this session.*
+*Rows 3–18 are unaffected by the Manifest clarification above.*
 
 ---
 
