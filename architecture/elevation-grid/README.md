@@ -39,7 +39,7 @@ Neural Access Method™          ← transmission protocol (how to shift it)
 Adapted Architecture           ← output state (what forms when rebuilt)
 ```
 
-The Elevation Grid's 3×3 structure maps isomorphically to the Synoetic OS™ 3×3 cognitive architecture documented in [synoeticos-public](https://github.com/Feirbrand/synoeticos-public) — same structure, different substrate, discovered independently across both domains.
+The Elevation Grid's 3×3 structure maps isomorphically to the Synoetic OS™ 3×3 cognitive architecture documented in [synoeticos-public](https://github.com/Feirbrand/synoeticos-public) — comparable structure descriptions across different substrates. This comparison does not assert independent discovery or priority.
 
 ---
 
