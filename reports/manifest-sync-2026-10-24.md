@@ -20,6 +20,7 @@ Both local clones matched their fresh remote refs and were clean before the new 
 | `Feirbrand/synoeticos-public` | `c7509926d2cf1a8db445dad443e20e29925dd138` | `docs: correct Neuroformation hub date` | `README.md` |
 | `Feirbrand/aaron-slusher-research` | `57f72b5960fe6592efe3efc768abb10022aa37d0` | `docs: add October 24 sync receipt` | `reports/manifest-sync-2026-10-24.md` |
 | `Feirbrand/aaron-slusher-research` | `ae254878b8b0fd67f2da4303accf5d00289f87be` | `docs: close October 24 sync receipt` | `reports/manifest-sync-2026-10-24.md` |
+| `Feirbrand/aaron-slusher-research` | `dcb58480c3992157780778dcfab082f45be45d01` | `docs: restore complete October 24 receipt` | `reports/manifest-sync-2026-10-24.md` |
 
 The three content commits are intentionally separate logical changes. The APP correction preserves `CC BY-NC 4.0`, changes the public affiliation/publisher presentation to Achieve Peak Performance, and corrects the one outlier copyright footer in the source whitepaper. The date correction changes only the two specified public-page fields from February 5 to February 26, 2026. The Hub correction changes only the Research Hub display line from Mar 18 to Mar 24, 2026.
 
@@ -50,11 +51,11 @@ Quarto `1.8.0` render completed successfully for `synoeticos-public`: 53 HTML do
 
 ## Post-push closure
 
-The receipt and the three Synoeticos correction commits were pushed without force-push. Final repository heads are `57f72b5960fe6592efe3efc768abb10022aa37d0` for Aaron Research and `c7509926d2cf1a8db445dad443e20e29925dd138` for Synoeticos Public.
+The receipt and the three Synoeticos correction commits were pushed without force-push. Final repository heads are `dcb58480c3992157780778dcfab082f45be45d01` for Aaron Research and `c7509926d2cf1a8db445dad443e20e29925dd138` for Synoeticos Public.
 
-[ Aaron Research workflow run 40107771246 ](https://github.com/Feirbrand/aaron-slusher-research/actions/runs/40107771246) completed successfully for head `57f72b5960fe6592efe3efc768abb10022aa37d0`. [ Synoeticos Public workflow run 40107772352 ](https://github.com/Feirbrand/synoeticos-public/actions/runs/40107772352) completed successfully for head `c7509926d2cf1a8db445dad443e20e29925dd138`.
+[Aaron Research workflow run 40107771246](https://github.com/Feirbrand/aaron-slusher-research/actions/runs/40107771246) completed successfully for head `57f72b5960fe6592efe3efc768abb10022aa37d0`. [Synoeticos Public workflow run 40107772352](https://github.com/Feirbrand/synoeticos-public/actions/runs/40107772352) completed successfully for head `c7509926d2cf1a8db445dad443e20e29925dd138`.
 
-Post-deployment live checks returned HTTP 200 for the Synoeticos root, Elevation Grid page, Elevation Grid academic page, Aaron Research root, and Aaron Research Elevation Grid page. The live Elevation Grid pages rendered Achieve Peak Performance and February 26, 2026. Both local clones matched their remote `origin/main` refs and had clean working trees. The receipt is publicly accessible at `https://raw.githubusercontent.com/Feirbrand/aaron-slusher-research/57f72b5960fe6592efe3efc768abb10022aa37d0/reports/manifest-sync-2026-10-24.md`.
+Post-deployment live checks returned HTTP 200 for the Synoeticos root, Elevation Grid page, Elevation Grid academic page, Aaron Research root, and Aaron Research Elevation Grid page. The live Elevation Grid pages rendered Achieve Peak Performance and February 26, 2026. Both local clones matched their remote `origin/main` refs and had clean working trees. The receipt is publicly accessible at `https://raw.githubusercontent.com/Feirbrand/aaron-slusher-research/dcb58480c3992157780778dcfab082f45be45d01/reports/manifest-sync-2026-10-24.md`.
 
 GitHub workflow annotations were informational only: GitHub reported the Node.js 20 action deprecation notice and the planned `ubuntu-latest` migration to Ubuntu 26. They did not affect the successful build or deployment.
 
