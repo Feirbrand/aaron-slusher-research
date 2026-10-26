@@ -26,4 +26,12 @@ Quarto `1.8.0` rendered all 53 HTML documents successfully to a temporary output
 
 No new Artifact Corpus row was created. No Hugging Face update was attempted. No paper body, `PUBLICATIONS.md`, or Notion record was changed.
 
-Post-push workflow, Pages, remote-parity, and final live-content results will be appended only after the authorized pushes and checks complete.
+## Post-push closure
+
+The authorized pushes completed without force-push. Final heads before this receipt-closure commit were `c694d7544b6fbd1bd87feb9ea4057eb248943cdd` for `aaron-slusher-research` and `bd5f1c0ecc88ad7148a6cfa7fbf2c746bdacbc46` for `synoeticos-public`.
+
+[Aaron Research workflow run 40389143407](https://github.com/Feirbrand/aaron-slusher-research/actions/runs/40389143407) completed successfully for head `c694d7544b6fbd1bd87feb9ea4057eb248943cdd`. [Synoeticos Public workflow run 40389146722](https://github.com/Feirbrand/synoeticos-public/actions/runs/40389146722) completed successfully for head `bd5f1c0ecc88ad7148a6cfa7fbf2c746bdacbc46`.
+
+The live Synoeticos and Aaron Research Pages roots both returned HTTP 200. The raw README at the pushed Synoeticos commit returned HTTP 200, contained the October 26 correction note exactly once, and placed it before the March 24 entry. Both local clones matched their remote `origin/main` refs and had clean working trees. The receipt was publicly accessible at `https://raw.githubusercontent.com/Feirbrand/aaron-slusher-research/c694d7544b6fbd1bd87feb9ea4057eb248943cdd/reports/manifest-sync-2026-10-26.md`.
+
+GitHub workflow annotations were informational only: Node.js 20 action deprecation and the planned `ubuntu-latest` migration to Ubuntu 26. They did not affect the successful builds or deployments.
