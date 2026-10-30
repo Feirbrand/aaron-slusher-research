@@ -55,8 +55,7 @@ Not included here:
 ---
 
 ## Protected Status
-
-Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper is openly licensed (CC BY-NC-ND 4.0) for research use.
+Neuroformation™ is a protected methodology mark of Aaron M. Slusher. The paper is registered under Achieve Peak Performance, licensed CC BY-NC 4.0 (not this repo's own default CC BY-NC-ND 4.0 — this work's own registered license governs).
 
 ---
 

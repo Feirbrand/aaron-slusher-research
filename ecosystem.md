@@ -58,8 +58,7 @@ In the background: a private R&D hardening layer that protects, tests, and exten
 ---
 
 ## Publication Authority
-
-The current Manifest governs public affiliation presentation for VGS AI framework papers. Neuroformation™ and Elevation Grid™ are permanent VGS Ledger rows and use ValorGrid Solutions; do not use Achieve Peak Performance or null affiliation for those rows. `PUBLICATIONS.md` records the current rule.
+Affiliation and license are per-work, following each work's own registered Zenodo record — repository hosting does not assign creator affiliation. Neuroformation™ is registered under Achieve Peak Performance, CC BY-NC 4.0. The Elevation Grid™ is registered with no creator affiliation listed, CC BY 4.0. `PUBLICATIONS.md` records each work's registered detail.
 
 | Paper type | Repo | DOI source |
 |---|---|---|
@@ -67,7 +66,7 @@ The current Manifest governs public affiliation presentation for VGS AI framewor
 | AI-resilience / VGS technical | `synoeticos-public` | Minted from that repo |
 | APP coaching / field application | APP repo (future) | Minted from APP repo |
 
-**Current Manifest clarification (Oct 17 2026):** VGS AI framework papers use ValorGrid Solutions. Neuroformation™ and Elevation Grid™ are VGS Ledger rows and use CC BY-NC 4.0 in their public VGS presentation. NAM remains the personal methodology paper listed above.
+**Registered-record note:** Neuroformation™ and Elevation Grid™ each carry their own registered affiliation and license (see `PUBLICATIONS.md`) — not a shared VGS-wide default. NAM remains the personal methodology paper listed above.
 
 ---
 

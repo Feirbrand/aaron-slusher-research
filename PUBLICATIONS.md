@@ -21,14 +21,14 @@
 ---
 
 ## VGS Applied Research Papers
-*Repo: synoeticos-public · The current Manifest affiliation rule assigns VGS AI framework papers, including Neuroformation™ and Elevation Grid™, to ValorGrid Solutions with CC BY-NC 4.0. Do not use Achieve Peak Performance or null affiliation for these VGS Ledger rows.*
+*Repo: synoeticos-public · Neuroformation™ and Elevation Grid™ affiliation/license each follow that work's own registered Zenodo record, not a repo-wide default — see the table below and synoeticos-public/PUBLICATIONS.md for the registered-record detail.*
 
 | # | Work | DOI | Registered Affiliation | License |
 |---|---|---|---|---|
-| 1 | Neuroformation™ | zenodo.19197818 | ValorGrid Solutions | CC BY-NC 4.0 |
-| 2 | The Elevation Grid™ | zenodo.18790842 | ValorGrid Solutions | CC BY-NC 4.0 |
+| 1 | Neuroformation™ | zenodo.19197818 | Achieve Peak Performance | CC BY-NC 4.0 |
+| 2 | The Elevation Grid™ | zenodo.18790842 | None listed on the registered record | CC BY 4.0 |
 
-**Current Manifest rule (Oct 17 2026):** VGS AI framework papers use ValorGrid Solutions. Neuroformation™ and Elevation Grid™ are permanent VGS Ledger rows; do not use Achieve Peak Performance or null affiliation for either. The Manifest governs this public affiliation and license presentation.
+**Registered-record note:** Neuroformation™ (zenodo.19197818) is registered under Achieve Peak Performance, CC BY-NC 4.0. The Elevation Grid™ (zenodo.18790842) is registered with no creator affiliation listed, CC BY 4.0. Both are hosted in synoeticos-public for architecture-lineage reasons; hosting location does not change a work's registered affiliation or license. The blanket "VGS Ledger row = ValorGrid Solutions" rule referenced in an earlier version of this note was retired Oct 23 2026.
 
 | # | Paper | DOI | Date | Keywords | Repo Location |
 |---|---|---|---|---|---|
