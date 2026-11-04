@@ -71,3 +71,10 @@ Supplied Patch 4 blob checks passed:
 - Existing canonical DOI paths remain unchanged.
 - Only the four allowlisted files changed in Patch 4.
 - The intentional two-space Markdown hard break in the Synoeticos root README was preserved.
+
+## Deployment closure
+
+- `synoeticos-public` Pages workflow: [41907347991](https://github.com/Feirbrand/synoeticos-public/actions/runs/41907347991) — completed successfully for head `79602f6c933b622831a5c211efa11f12d813493a`.
+- The Pages site renders the Quarto `docs/` tree and does not publish repository-root `README.md` or the root-level CSFC series README as live HTML routes. Therefore the new root README pointer was verified from authoritative raw GitHub content rather than incorrectly treated as absent from the Pages root.
+- Raw GitHub HTTP 200 and content checks passed for all six touched files at their final commits.
+- All three repositories remained clean and in remote parity after their source pushes.
