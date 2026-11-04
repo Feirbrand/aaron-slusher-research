@@ -38,6 +38,7 @@ Operating map for this repo and how it connects to the broader work.
 |---|---|---|
 | `aaron-slusher-research` | Methodology papers, NF · EG · NAM · AA | VGS framework code, APP coaching content, F&F theology |
 | `synoeticos-public` | AI-resilience frameworks, Synoetic OS, vgs-loadout, HF demos | Personal methodology papers |
+| `csfc-research` | Active CSFC development — project-level spoke of `synoeticos-public`, two hops from this hub; restricted-public/source-available, not open-source | The DOI'd v1.0 paper and series, which stay at their registered path in `synoeticos-public` |
 | APP repo (future) | Athletic performance application work | — |
 | F&F repo (future) | Faith formation content and research | — |
 
@@ -54,6 +55,8 @@ Three public brands, one underlying architecture.
 **Foundations & Fire** — the intersection of formation science and faith.
 
 In the background: a private R&D hardening layer that protects, tests, and extends the public architecture. Not public-facing.
+
+**First framework-level spoke, Nov 4 2026:** `csfc-research` hangs off `synoeticos-public`, not directly off this hub — the first project-level spoke in this map, one layer deeper than the brand-level spokes above it. This entry is the provenance notation; this repo does not host or duplicate CSFC content.
 
 ---
 

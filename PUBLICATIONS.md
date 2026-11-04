@@ -47,11 +47,13 @@
 | 13 | RAY v2.1: Recursive Adaptive Yield with Orcid ID | [10.5281/zenodo.17399834](https://doi.org/10.5281/zenodo.17399834) | 2025-10-17 | RAY · recursive adaptive · early warning · cascade detection · 87% prediction | `whitepapers/vgs-technical-papers/ray-v2.1-cognitive-physiology.md` |
 | 14 | Torque v2.0: Quantitative Foundation for AI Resilience | [10.5281/zenodo.17379750](https://doi.org/10.5281/zenodo.17379750) | 2025-10-17 | torque · quantitative · AI resilience · stability · metric | `whitepapers/vgs-technical-papers/torque-quantitative-foundation-v2.md` |
 | 15 | Phoenix Protocol v2.0: Neural Recovery for AI Systems | [10.5281/zenodo.17350768](https://doi.org/10.5281/zenodo.17350768) | 2025-10-14 | phoenix · neural recovery · cascade recovery · 98% recovery · recover | `whitepapers/vgs-technical-papers/phoenix-protocol-neural-recovery.md` |
-| 16 | CSFC Unified Theory v1.0 | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | 2025-10-10 | CSFC · cascade · symbolic failure · containment · Stage 0-6 | `whitepapers/vgs-technical-papers/csfc-unified-theory.md` |
+| 16 | CSFC Unified Theory v1.0 | [10.5281/zenodo.17309239](https://doi.org/10.5281/zenodo.17309239) | 2025-10-10 | CSFC · cascade · symbolic failure · containment · Stage 1-5 | `whitepapers/vgs-technical-papers/csfc-unified-theory.md` |
 | 17 | FCE Unified Framework v3.6 | [10.5281/zenodo.17309322](https://doi.org/10.5281/zenodo.17309322) | 2025-10-10 | FCE · fractal context engineering · compression · 4-6× · deploy | `whitepapers/vgs-technical-papers/fce-v3-6-unified-framework.md` |
 | 18 | URA v1.5: Unified Resilience Architecture | [10.5281/zenodo.17309731](https://doi.org/10.5281/zenodo.17309731) | 2025-10-10 | URA · unified resilience · five-layer defense · recover | `whitepapers/vgs-technical-papers/ura-v1.5-resilience-and-recovery.md` |
 
 *Rows 3–18 are unaffected by the Manifest clarification above.*
+
+**CSFC active development note (Nov 4 2026):** row 16's DOI'd v1.0 paper stays at its registered path above — unmoved. Ongoing CSFC development (post-v1.0) now happens in the separate [`csfc-research`](https://github.com/Feirbrand/csfc-research) repository, a project-level spoke of `synoeticos-public`; this note is its provenance link back to the hub.
 
 ---
 
