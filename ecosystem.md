@@ -58,6 +58,8 @@ In the background: a private R&D hardening layer that protects, tests, and exten
 
 **First framework-level spoke, Nov 4 2026:** `csfc-research` hangs off `synoeticos-public`, not directly off this hub — the first project-level spoke in this map, one layer deeper than the brand-level spokes above it. This entry is the provenance notation; this repo does not host or duplicate CSFC content.
 
+**Human-origin note, 2026-11-25:** CSFC's origin is documented in the same practitioner lineage as the rest of this archive — the recurring compensation pattern recognized across coaching and rehabilitation work, later applied to AI systems. That's a shared-lineage notation, not a claim that CSFC and Neuroformation share one single originating injury-observation event, and not a claim about CSFC v2.0/v3.0's technical integration with Neuroformation, which remains unverified.
+
 ---
 
 ## Publication Authority

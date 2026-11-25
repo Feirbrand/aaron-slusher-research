@@ -33,6 +33,8 @@ The named frameworks were formalized much later, as recurring patterns across pr
 
 Some underlying research substrates remain unpublished for safety, IP, and development reasons.
 
+**2026-11-25:** The Complete Symbolic Fracture Cascade (CSFC) comes out of the same practitioner lineage as the rest of this archive — the same recurring compensation pattern recognized across coaching, rehabilitation, and performance work, later applied to AI identity architecture. That shared lineage is documented history; it isn't a claim that CSFC and Neuroformation trace to one single originating injury-observation event, and it isn't a technical-integration claim. Active CSFC development continues at [`csfc-research`](https://github.com/Feirbrand/csfc-research); this entry is a provenance pointer, not a duplicate of its content.
+
 ---
 
 ## Architecture
